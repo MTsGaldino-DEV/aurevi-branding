@@ -1,0 +1,1818 @@
+{
+  "data": [
+    {
+      "name": "kittl",
+      "runtimeStatus": "connected",
+      "pluginId": null,
+      "httpOrigin": "https://mcp.kittl.com",
+      "serverInfo": {
+        "name": "Kittl MCP",
+        "title": null,
+        "version": "1.0.0",
+        "description": null,
+        "icons": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIiBmaWxsPSJub25lIj4KPHBhdGggZD0iTTAgNy4xNzQ3NEMwIDkuNDM4MjYgMS4zNTU4NyAxMC45OTk2IDEuNzM0MDUgMTEuNDc4OUw0LjY4MjU1IDkuMjUxMTlDNC41Mjg4MSA5LjA2ODggNC4wOTE5OCA4LjA0Njk1IDQuMDkxOTggNy4wNzU1M0M0LjA5MTk4IDUuNDUyMTUgNS4wMTYxNCAzLjc5NTA0IDguMDg0NTUgMy4yMjkxNkw0LjEzODM0IDE2LjQ0NEg4LjAwNDZMMTAuMDk2OSA5LjUzMzM1QzEwLjcyNDQgOS40OTI3IDExLjM0OTQgOS40MTgzIDExLjk2OTMgOS4zMTA0MkMxMi4wMjkyIDEzLjgxNzMgMTIuNDMwNSAxNy44NTc5IDEzLjY0MzQgMTkuOTk5N0wxNy45ODc4IDE3Ljg5ODRDMTYuNDkzNCAxNi4wODA3IDE0LjYwNTcgMTEuOTE4NSAxNC40NDEyIDguNTQ1QzE4LjEwNzcgNi45Njg5NSAyMCAzLjgzNzEyIDIwIDAuOTQ2OTI2TDE1Ljc4MTcgMS42NTkzNUMxNS40MDM1IDQuODUxOTggMTIuODYwOSA3LjA2ODcyIDEwLjcyMSA3LjUzNjRMMTIuNzUzMyAwLjgzMzEzTDcuMTM0NTEgMS43Njg0OEMyLjg1MDEyIDIuNDY2ODcgMCA0LjE0NDI0IDAgNy4xNzQ3NFoiIGZpbGw9ImN1cnJlbnRDb2xvciIvPgo8L3N2Zz4=",
+            "mimeType": "image/svg+xml",
+            "sizes": [
+              "any"
+            ]
+          },
+          {
+            "src": "https://www.kittl.com/logo192.png",
+            "mimeType": "image/png",
+            "sizes": [
+              "192x192"
+            ]
+          }
+        ],
+        "websiteUrl": null
+      },
+      "serverCapabilities": {
+        "logging": {},
+        "prompts": {
+          "listChanged": true
+        },
+        "resources": {
+          "listChanged": true
+        },
+        "tools": {
+          "listChanged": true
+        }
+      },
+      "toolListMeta": null,
+      "tools": {
+        "kittl-search-mockup-templates": {
+          "name": "kittl-search-mockup-templates",
+          "title": "Search Mockup Templates",
+          "description": "Searches Kittl's product mockup templates (t-shirts, mugs, totes, ...). Pages with skip/take over all matches; meta.total is the match count and meta.nextSkip is null on the last page. Returns each template's id, name, premium flag, slots (one normalized default print position per design it takes; scenes with several products have several), and a preview image URL, and shows the templates as pickable preview cards in Kittl's Media Result View widget. Premium templates stay in the list; their card sublabel says Premium. Rendering one needs a paid workspace. Front and back views are separate templates. Use kittl-render-mockup to render a design on a template.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "search": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 255,
+                "description": "Product or scene to search for, e.g. \"t-shirt\", \"mug\", \"tote bag\"."
+              },
+              "take": {
+                "default": 12,
+                "description": "Number of templates to return (default 12).",
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 30
+              },
+              "skip": {
+                "default": 0,
+                "description": "Number of templates to skip for pagination.",
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              }
+            },
+            "required": [
+              "search"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          },
+          "_meta": {
+            "ui": {
+              "resourceUri": "ui://kittl/mcp/media-result-view"
+            },
+            "ui/resourceUri": "ui://kittl/mcp/media-result-view"
+          }
+        },
+        "kittl-move-project-to-folder": {
+          "name": "kittl-move-project-to-folder",
+          "title": "Move Projects to Folder",
+          "description": "Move one or more projects to a specific project folder in Kittl. folderId comes from kittl-list-project-folders. Not for library images (kittl-move-library-images-to-folder).",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "folderId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the project folder to move projects to (from kittl-list-project-folders)"
+              },
+              "projectIds": {
+                "minItems": 1,
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "description": "Array of project IDs to move to the folder"
+              },
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              }
+            },
+            "required": [
+              "folderId",
+              "projectIds",
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-get-ai-workflow-preset": {
+          "name": "kittl-get-ai-workflow-preset",
+          "title": "Get AI Workflow Preset",
+          "description": "Get workspace-scoped details for one Kittl AI workflow preset needed to run it via kittl-run-ai-workflow: its nullable base token-cost estimate before generation counts and fan-out, aspectRatio (first ratio fixed on a generation step, such as 9:16; it is the output's ratio only when outputStepCount is 1; null when no step fixes it, e.g. it is picked in a form field - check inputSchema for a ratio field), outputStepCount (number of asset-producing steps, hidden ones included; not the number of images, since generationsCount and fan-out can multiply them), inputSchema (required fields, valid choices), uiSchema (each field's widget type), and whether it supports generating multiple variations per run (variableGenerationsCount). The result includes a guide on how to translate that into submittedValues. When the preset has brand-selector fields, brandSelectorFields explains how to apply or omit a Brand Kit. The estimate is not the actual cost of a completed run.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "presetId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The workflow preset ID, from kittl-list-ai-workflow-presets."
+              },
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              }
+            },
+            "required": [
+              "presetId",
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-show-ai-workflow-session": {
+          "name": "kittl-show-ai-workflow-session",
+          "title": "Show AI Workflow Session",
+          "description": "Shows a Kittl AI workflow session's merged outputs (including later MCP re-runs and studio Quick Edit / regenerate runs) in Kittl's Media Result View widget. Use when the user pastes a studio URL with ?session=, or to refresh after iterating in-session via kittl-run-ai-workflow or studio. kittl-get-ai-workflow-session-status is the plain poll twin while outputs are still generating.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "sessionId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Workflow session ID returned by a workflow run/session tool, or parsed from a pasted studio ?session= URL."
+              },
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              }
+            },
+            "required": [
+              "sessionId",
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          },
+          "_meta": {
+            "ui": {
+              "resourceUri": "ui://kittl/mcp/media-result-view"
+            },
+            "ui/resourceUri": "ui://kittl/mcp/media-result-view"
+          }
+        },
+        "kittl-get-ai-workflow-run-status": {
+          "name": "kittl-get-ai-workflow-run-status",
+          "title": "Get AI Workflow Run Status",
+          "description": "Checks the status of a Kittl AI workflow run by ID. Non-terminal responses include checkAgainInSeconds, the suggested delay before the next manual check. Result includes workflowUrl (studio) plus sessionId/presetId for same-session follow-ups.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "runId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The workflow run ID returned from kittl-run-ai-workflow."
+              },
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              }
+            },
+            "required": [
+              "runId",
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-list-ai-workflow-use-cases": {
+          "name": "kittl-list-ai-workflow-use-cases",
+          "title": "List AI Workflow Use Cases",
+          "description": "List the Kittl AI workflow use-case taxonomy (e.g. \"Merchandise\", \"Marketing\") as a hierarchy of parent/sub use cases. Use the returned numeric IDs as the useCaseIds filter for kittl-list-ai-workflow-presets.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {}
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-list-upload-folders": {
+          "name": "kittl-list-upload-folders",
+          "title": "List Upload Folders",
+          "description": "List upload/library folders in a Kittl team. Returns folders with id, name, uploadCount, createdAt, lastUpdatedAt, optional sizeMb (index only), and optional thumbnailUrl. uploadCount is the unfiltered total of every upload in that folder and may exceed the kittl-list-library-images result for the same folder (source is exclusive and image-only). Each folder id is what kittl-list-library-images, kittl-save-image-to-library, and kittl-move-library-images-to-folder take as folderId. Upload folders are a different tree from project folders (kittl-list-project-folders).",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "take": {
+                "description": "The number of folders to fetch (default 20)",
+                "default": 20,
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 50
+              },
+              "skip": {
+                "description": "The number of folders to skip for pagination (default: 0)",
+                "default": 0,
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "query": {
+                "description": "Search query to filter upload folders by name. When set, uses the search endpoint (sizeMb is omitted from results).",
+                "type": "string"
+              },
+              "sort": {
+                "description": "Sort order: NAME (alphabetical), RECENT (most recently updated contents, the default), CREATED (creation date)",
+                "type": "string",
+                "enum": [
+                  "NAME",
+                  "RECENT",
+                  "CREATED"
+                ]
+              }
+            },
+            "required": [
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-run-ai-workflow": {
+          "name": "kittl-run-ai-workflow",
+          "title": "Run AI Workflow",
+          "description": "Starts a Kittl AI workflow run from a preset (may consume credits). kittl-get-ai-workflow-preset returns the preset's required fields, for building a complete submittedValues up front; missing fields are elicited from the user or returned for retry. Once started, kittl-show-ai-workflow-run renders the result(s) in Kittl's Media Result View widget. To iterate later (either is fine): pass the returned sessionId with this same presetId and updated submittedValues, or open the returned workflowUrl for studio Quick Edit.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "presetId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Always required (even when continuing a session). Workflow preset ID from kittl-list-ai-workflow-presets or kittl-get-ai-workflow-preset."
+              },
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "sessionId": {
+                "description": "Optional existing workflow session ID to continue with tweaked inputs (same-session iterate). One of two supported same-session iteration paths; the other is studio Quick Edit via workflowUrl. Still requires presetId — sessionId alone is not enough. Omit to start a new session.",
+                "type": "string"
+              },
+              "submittedValues": {
+                "description": "Form values keyed by the field names from kittl-get-ai-workflow-preset's inputSchema. May be partial or omitted: for any missing required field that is not an image-upload or brand-selector field, this tool will try to prompt the user directly if the client supports it, otherwise it returns the list of missing fields for you to ask about and retry. Missing image-upload fields always require getting an object ID first: If context or a previous result provides uploadId or selectedImageObjectId, that value is already a reusable image ID; pass that value directly. Otherwise, obtain a Kittl upload object ID for an image: pass imageUrl to kittl-upload-image if you have a public URL for it. Omit imageUrl (agents with filesystem/shell access and no existing public URL) to get a presigned URL back immediately and push the file's bytes yourself. If neither applies (e.g. an image attached inline in chat, with no URL and no local file you can read), call kittl-open-image-uploader instead to let the user upload it directly, then wait for the objectId to arrive in your context before proceeding. Missing brand-selector fields need a workspace Brand Kit id with hasVisualStyle true from kittl-list-brand-kits (elicited as a name->id picker when the client supports it, otherwise MISSING_BRAND_FIELDS with the kit catalog; empty catalog → NO_BRAND_KITS; kits exist but none usable → BRAND_NEEDS_VISUAL_STYLE). A submitted brand id that is unknown or not hasVisualStyle true → INVALID_FIELDS.",
+                "type": "object",
+                "propertyNames": {
+                  "type": "string"
+                },
+                "additionalProperties": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "value": {
+                          "type": "string",
+                          "description": "The option's `const` value from the field's inputSchema `oneOf` (or uiSchema options[].value) - not its display title."
+                        },
+                        "referenceImage": {
+                          "description": "Reusable image ID that overrides this option's own image. Pass uploadId from a prior result / library, or selectedImageObjectId from chat (the Media Result View's \"Use in chat\" action sends uploadId as that field). Only needed for the \"custom\" slot - see howToBuildSubmittedValues from kittl-get-ai-workflow-preset. Omit for a normal predefined option.",
+                          "type": "string"
+                        },
+                        "text": {
+                          "description": "Free text that overrides this option's own authored prompt text. Only needed for the \"custom\" slot - see the howToBuildSubmittedValues field returned by kittl-get-ai-workflow-preset for exactly when that applies. Omit for a normal predefined option.",
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "value"
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "value": {
+                            "type": "string",
+                            "description": "The option's `const` value from the field's inputSchema `oneOf` (or uiSchema options[].value) - not its display title."
+                          },
+                          "referenceImage": {
+                            "description": "Reusable image ID that overrides this option's own image. Pass uploadId from a prior result / library, or selectedImageObjectId from chat (the Media Result View's \"Use in chat\" action sends uploadId as that field). Only needed for the \"custom\" slot - see howToBuildSubmittedValues from kittl-get-ai-workflow-preset. Omit for a normal predefined option.",
+                            "type": "string"
+                          },
+                          "text": {
+                            "description": "Free text that overrides this option's own authored prompt text. Only needed for the \"custom\" slot - see the howToBuildSubmittedValues field returned by kittl-get-ai-workflow-preset for exactly when that applies. Omit for a normal predefined option.",
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "value"
+                        ]
+                      }
+                    }
+                  ],
+                  "description": "Plain string for plain-text fields (the text itself), standalone image-upload fields with no `oneOf` (the uploaded objectId itself, never wrapped in an object), and single-choice fields (the chosen option's `const`). String array for \"chips\" multi-select fields (array of `const`s). The object form `{value, referenceImage, text}` is ONLY for a CHOICE field's \"upload your own\" option - see those fields' own descriptions."
+                }
+              },
+              "generationsCount": {
+                "description": "Number of variations to generate (1-4) - only for presets where kittl-get-ai-workflow-preset's variableGenerationsCount says this is supported. No effect on presets with a fixed count. Omit to generate just 1.",
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 4
+              }
+            },
+            "required": [
+              "presetId",
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": true,
+            "idempotentHint": false,
+            "openWorldHint": false
+          }
+        },
+        "kittl-create-upload-folder": {
+          "name": "kittl-create-upload-folder",
+          "title": "Create Upload Folder",
+          "description": "Create a new upload/library folder in Kittl. Returns the created folder with its ID, name, creation time, and uploadCount. The returned id is what kittl-list-library-images, kittl-save-image-to-library, and kittl-move-library-images-to-folder take as folderId. Not a project folder (kittl-create-project-folder).",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "minLength": 2,
+                "maxLength": 40,
+                "description": "The name of the upload folder to create (will be made unique if needed)"
+              },
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              }
+            },
+            "required": [
+              "name",
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": false,
+            "idempotentHint": false,
+            "openWorldHint": false
+          }
+        },
+        "kittl-create-project-folder": {
+          "name": "kittl-create-project-folder",
+          "title": "Create Project Folder",
+          "description": "Create a new project folder in Kittl to organize projects. Returns the created folder with its ID, name, creation time, and current project count. Not an upload/library folder (kittl-create-upload-folder).",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 40,
+                "description": "The name of the project folder to create (will be made unique if needed)"
+              },
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              }
+            },
+            "required": [
+              "name",
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": false,
+            "idempotentHint": false,
+            "openWorldHint": false
+          }
+        },
+        "kittl-show-ai-workflow-run": {
+          "name": "kittl-show-ai-workflow-run",
+          "title": "Show AI Workflow Run",
+          "description": "Shows a Kittl AI workflow run's progress and renders the result(s) in Kittl's Media Result View widget. Call once, right after kittl-run-ai-workflow succeeds. Result includes workflowUrl (studio) plus sessionId/presetId for same-session follow-ups. Results carry metadata, not pixels; to see what an image item shows, pass its downloadUrl or imageUrl to kittl-view-image.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "runId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The workflow run ID returned from kittl-run-ai-workflow."
+              },
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              }
+            },
+            "required": [
+              "runId",
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          },
+          "_meta": {
+            "ui": {
+              "resourceUri": "ui://kittl/mcp/media-result-view"
+            },
+            "ui/resourceUri": "ui://kittl/mcp/media-result-view"
+          }
+        },
+        "kittl-receive-generation-feedback": {
+          "name": "kittl-receive-generation-feedback",
+          "title": "Receive Generation Feedback",
+          "description": "Stores a thumbs up / down rating for a generated image or video. Not for direct use - only the Media Result View widget calls this.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "generatedContentId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Generated content the rating applies to."
+              },
+              "rating": {
+                "type": "string",
+                "enum": [
+                  "UP",
+                  "DOWN"
+                ],
+                "description": "UP or DOWN."
+              },
+              "freeText": {
+                "description": "Reason picked or typed with a DOWN rating.",
+                "type": "string",
+                "maxLength": 1000
+              }
+            },
+            "required": [
+              "workspaceId",
+              "generatedContentId",
+              "rating"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": false,
+            "idempotentHint": false,
+            "openWorldHint": false
+          },
+          "_meta": {
+            "ui": {
+              "resourceUri": "ui://kittl/mcp/media-result-view",
+              "visibility": [
+                "app"
+              ]
+            },
+            "ui/resourceUri": "ui://kittl/mcp/media-result-view"
+          }
+        },
+        "kittl-list-teams": {
+          "name": "kittl-list-teams",
+          "title": "List My Teams",
+          "description": "Get Kittl teams (workspaces) for the current user, with each team's ID and name, and the default team ID.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {}
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-get-ai-generation-guidance": {
+          "name": "kittl-get-ai-generation-guidance",
+          "title": "Get AI Generation Guidance",
+          "description": "Returns guidance for choosing among dedicated image transformations (background removal, upscaling, or vectorization), product mockups, curated workflow presets, and raw image/video generation when the best route is unclear. Also covers mockup preparation and placement, Brand Kits (list/create-from-url/get; workflow brand-selector vs raw brandContext/referenceImages), reusing uploadId / selectedImageObjectId (reusable image ID), continuing completed media via editUrl/workflowUrl into the Kittl editor, and raw-generation preparation.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {}
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-list-image-style-groups": {
+          "name": "kittl-list-image-style-groups",
+          "title": "List Image Style Categories",
+          "description": "Use this only when the user wants to browse Kittl's image-style categories or no useful visual-style search term is available. Otherwise call kittl-list-image-styles directly with a short style-name search. Returns compact category names and eligible style counts; pass a returned name as the exact, case-insensitive group filter on kittl-list-image-styles. Never invent group names.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {}
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-get-media-generation-status": {
+          "name": "kittl-get-media-generation-status",
+          "title": "Get Media Generation Status",
+          "description": "Checks the status of a media generation by ID. Non-terminal responses include checkAgainInSeconds, the suggested delay before the next manual check. Results carry metadata, not pixels; to see what an image shows, pass its url to kittl-view-image.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "jobId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The job ID returned by the kickoff tool; also the Media Result View card key and input to the matching status tool."
+              }
+            },
+            "required": [
+              "jobId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-list-projects": {
+          "name": "kittl-list-projects",
+          "title": "List My Projects",
+          "description": "Get Kittl projects for the current user - returns an object with a \"projects\" array and \"meta\" (pagination + filter params). Each project has an ID, name, url (the direct url to the Kittl editor for this project), thumbnailUrl which should be used to render a preview of the project, createdAt, and updatedAt (last edited timestamp). Supports search, sorting, pagination, and folder filtering. Defaults to every project in the team (folderId all). Results render as an interactive project list in the chat UI.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "take": {
+                "description": "The number of projects to fetch (default 10)",
+                "default": 10,
+                "type": "number",
+                "minimum": 1,
+                "maximum": 50
+              },
+              "skip": {
+                "description": "The number of projects to skip for pagination (default: 0)",
+                "default": 0,
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "query": {
+                "description": "Search query to filter projects by name",
+                "type": "string"
+              },
+              "sort": {
+                "description": "Sort order: NAME (alphabetical), RECENT (last viewed by the current user, falling back to last updated), CREATED (creation date)",
+                "type": "string",
+                "enum": [
+                  "NAME",
+                  "RECENT",
+                  "CREATED"
+                ]
+              },
+              "folderId": {
+                "description": "Filter projects by folder: 'all' (every project in the team, the default when omitted), 'root' (only projects not in any folder), or a folder id from kittl-list-project-folders",
+                "type": "string"
+              },
+              "trash": {
+                "description": "If true, only return projects in trash",
+                "type": "boolean"
+              }
+            },
+            "required": [
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          },
+          "_meta": {
+            "ui": {
+              "resourceUri": "ui://kittl/mcp/project-list"
+            },
+            "ui/resourceUri": "ui://kittl/mcp/project-list"
+          }
+        },
+        "kittl-receive-image-bytes": {
+          "name": "kittl-receive-image-bytes",
+          "title": "Receive Uploaded Image Bytes",
+          "description": "Receives base64-encoded image bytes from the upload widget and stores them as a Kittl upload object. Not for direct use - only the upload widget calls this.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "data": {
+                "type": "string",
+                "maxLength": 3495260,
+                "description": "Base64-encoded image bytes, no data: URI prefix."
+              }
+            },
+            "required": [
+              "data"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": false,
+            "idempotentHint": false,
+            "openWorldHint": false
+          },
+          "_meta": {
+            "ui": {
+              "resourceUri": "ui://kittl/mcp/image-uploader",
+              "visibility": [
+                "app"
+              ]
+            },
+            "ui/resourceUri": "ui://kittl/mcp/image-uploader"
+          }
+        },
+        "kittl-upload-image": {
+          "name": "kittl-upload-image",
+          "title": "Upload Image",
+          "description": "Gets a Kittl upload object ID, for input fields that expect one rather than a raw URL - for example, kittl-run-ai-workflow input fields whose uiSchema presentation is \"image-upload\". If context or a previous result provides uploadId or selectedImageObjectId, that value is already a reusable image ID; pass that value directly. Otherwise, obtain a Kittl upload object ID for an image: pass imageUrl to kittl-upload-image if you have a public URL for it. Omit imageUrl (agents with filesystem/shell access and no existing public URL) to get a presigned URL back immediately and push the file's bytes yourself. If neither applies (e.g. an image attached inline in chat, with no URL and no local file you can read), call kittl-open-image-uploader instead to let the user upload it directly, then wait for the objectId to arrive in your context before proceeding.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "imageUrl": {
+                "description": "Publicly accessible URL of the image to upload (JPEG, PNG, or WebP). Omit this field entirely to use the local-file path instead: this tool immediately returns a presigned upload URL you PUT bytes yourself (e.g. curl -X PUT) - the path to use when running as an agent with local filesystem/shell access and no existing public URL for the file.",
+                "type": "string",
+                "format": "uri"
+              }
+            }
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": false,
+            "idempotentHint": false,
+            "openWorldHint": true
+          }
+        },
+        "kittl-upscale-image": {
+          "name": "kittl-upscale-image",
+          "title": "Upscale Image",
+          "description": "Starts a Kittl image-upscale job (currently does not consume tokens) and renders progress and the final image in Kittl's Media Result View widget. Source image sides must be between 256px and 4096px (some backends cap the source at 3000px). For generation-tool routing guidance see kittl-get-ai-generation-guidance.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "image": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The image to transform. Prefer the `url` from a previous Kittl tool result when chaining. Also accepts any public HTTP(S) image URL, an `objectId` returned by kittl-upload-image or the upload widget, or a Kittl media `objectName` such as `users/<user-id>/uploads/<upload-id>.png`."
+              }
+            },
+            "required": [
+              "workspaceId",
+              "image"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": false,
+            "idempotentHint": false,
+            "openWorldHint": true
+          },
+          "_meta": {
+            "ui": {
+              "resourceUri": "ui://kittl/mcp/media-result-view"
+            },
+            "ui/resourceUri": "ui://kittl/mcp/media-result-view"
+          }
+        },
+        "kittl-open-image-uploader": {
+          "name": "kittl-open-image-uploader",
+          "title": "Open Image Uploader",
+          "description": "Shows an interactive upload widget for the user to provide an image directly. Use this when kittl-upload-image can't work - no reachable URL and no local file to PUT (e.g. an image attached inline in chat). The objectId is not returned by this call: once the user finishes the upload in the widget, it arrives as an update to your context - wait for that before using it.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {}
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          },
+          "_meta": {
+            "ui": {
+              "resourceUri": "ui://kittl/mcp/image-uploader"
+            },
+            "ui/resourceUri": "ui://kittl/mcp/image-uploader"
+          }
+        },
+        "kittl-list-project-folders": {
+          "name": "kittl-list-project-folders",
+          "title": "List Project Folders",
+          "description": "List project folders in a Kittl team. Returns folders with id, name, projectCount, createdAt, lastUpdatedAt, and optional thumbnailUrl. Each folder id is what kittl-list-projects takes as folderId and what kittl-move-project-to-folder takes as folderId. Project folders are a different tree from upload/library folders (kittl-list-upload-folders).",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "take": {
+                "description": "The number of folders to fetch (default 20)",
+                "default": 20,
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 50
+              },
+              "skip": {
+                "description": "The number of folders to skip for pagination (default: 0)",
+                "default": 0,
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "query": {
+                "description": "Search query to filter project folders by name",
+                "type": "string"
+              },
+              "sort": {
+                "description": "Sort order: NAME (alphabetical), RECENT (most recently updated contents, the default), CREATED (creation date)",
+                "type": "string",
+                "enum": [
+                  "NAME",
+                  "RECENT",
+                  "CREATED"
+                ]
+              }
+            },
+            "required": [
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-generate-media": {
+          "name": "kittl-generate-media",
+          "title": "Generate Media (Image/Video)",
+          "description": "Use this when the user wants raw or model-specific image/video generation, has selected a catalog style through kittl-list-image-styles, or no searched workflow preset clearly matches. It may consume credits and renders progress and results in Kittl's Media Result View; it does not modify projects or place content on a canvas. promptStyleId is image-only: provide a trimmed prompt, or omit prompt only for a referenceImages + style remix. Choose or verify modelId with kittl-list-media-generation-models. Use the dedicated image tools to post-process existing images. See kittl-get-ai-generation-guidance for complete preparation guidance.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "prompt": {
+                "examples": [
+                  "A golden retriever running on a beach at sunset"
+                ],
+                "description": "The text prompt describing what to generate. Required unless promptStyleId is set with at least one referenceImage (remix). Whitespace-only is invalid — omit the field. Empty prompt is never allowed with style alone or with the separate image field alone.",
+                "type": "string",
+                "minLength": 1
+              },
+              "promptStyleId": {
+                "examples": [
+                  42
+                ],
+                "description": "Catalog style id from kittl-list-image-styles. Image type only. When set with referenceImages, prompt may be omitted (remix). Do not invent ids.",
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "type": {
+                "type": "string",
+                "enum": [
+                  "image",
+                  "video"
+                ],
+                "description": "The type of content to generate. Determines which model list applies (see kittl-list-media-generation-models). promptStyleId is only supported for image."
+              },
+              "modelId": {
+                "type": "string",
+                "examples": [
+                  "cmkr5qxxf03125k0ityxnvmjr"
+                ],
+                "description": "The ID of the model to use. kittl-list-media-generation-models lists models split by Image/Video, each model's real Model ID, and its exact Parameters (with which ones are required, and valid enum/default values). A prompt-style row's modelId is a recommended default only — modelAvailability: normal preferred; degraded warn; failing avoid; null unknown. For remix also require supportsReferenceImages."
+              },
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "aspectRatio": {
+                "examples": [
+                  "16:9"
+                ],
+                "description": "Aspect ratio, e.g. \"1:1\", \"16:9\", \"9:16\", \"4:3\". Image defaults to \"1:1\" if omitted; video falls back to the model's own default when omitted (e.g. Kling defaults to \"16:9\").",
+                "type": "string"
+              },
+              "image": {
+                "examples": [
+                  "https://cdn.example.com/source-image.jpg"
+                ],
+                "description": "A base image (object ID or URL): the start frame to animate for video models, or the image to edit for image-inpainting models. Not universally required (e.g. Kling video only requires prompt).",
+                "type": "string"
+              },
+              "mask": {
+                "examples": [
+                  "https://cdn.example.com/mask.png"
+                ],
+                "description": "Image-inpainting models only: a mask image (object ID or URL) marking the region of `image` to edit. Required together with `image` for models like Z-Image-Turbo, P-Image-Edit, Flux Fill Pro.",
+                "type": "string"
+              },
+              "referenceImages": {
+                "examples": [
+                  [
+                    "cl02moxyi0105k5tl2raffwpa"
+                  ]
+                ],
+                "description": "Image object IDs or URLs used as style/content reference (image-to-image editing for image models, or additional references for some video models like Seedance and Veo).",
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "lastFrame": {
+                "examples": [
+                  "https://cdn.example.com/end-frame.jpg"
+                ],
+                "description": "Video type only: an end-frame image (object ID or URL), for models that support animating between two frames.",
+                "type": "string"
+              },
+              "duration": {
+                "examples": [
+                  5
+                ],
+                "description": "Video type only: duration in seconds. Valid values are model-specific (e.g. Kling only accepts 5 or 10).",
+                "type": "number"
+              },
+              "background": {
+                "examples": [
+                  "transparent"
+                ],
+                "description": "Image only. When the selected prompt-style row has removeBackground: true, pass \"transparent\" as this top-level background argument. Do not put it inside extraParams. Valid options otherwise vary per model (some only support transparent/opaque, others also auto).",
+                "type": "string",
+                "enum": [
+                  "transparent",
+                  "opaque",
+                  "auto"
+                ]
+              },
+              "negativePrompt": {
+                "examples": [
+                  "blurry, low quality, watermark"
+                ],
+                "description": "Describes what to avoid in the generation. Only some models support it (e.g. Veo, Kling, PixVerse); ignored by models that don't declare it.",
+                "type": "string"
+              },
+              "generateAudio": {
+                "examples": [
+                  true
+                ],
+                "description": "Video type only: whether to generate audio alongside the video. Supported by most current video models (Seedance, Veo, Kling 3.0 family).",
+                "type": "boolean"
+              },
+              "extraParams": {
+                "examples": [
+                  {
+                    "effect": "zoom-in",
+                    "draftMode": "Trial"
+                  }
+                ],
+                "description": "Escape hatch for model-specific parameters not covered above. Check the chosen model's Parameters list via kittl-list-media-generation-models for the exact field names it accepts (e.g. PixVerse's effect, Seedance's draftMode).",
+                "type": "object",
+                "propertyNames": {
+                  "type": "string"
+                },
+                "additionalProperties": {}
+              }
+            },
+            "required": [
+              "type",
+              "modelId",
+              "workspaceId"
+            ],
+            "description": "All model-specific constraints for the fields below (aspect ratio, image/mask/reference support, last frame, duration, background, negative prompt, audio) vary per model - kittl-list-media-generation-models lists the constraints for the chosen model. Catalog styles via kittl-list-image-styles (image only)."
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": true,
+            "idempotentHint": false,
+            "openWorldHint": true
+          },
+          "_meta": {
+            "ui": {
+              "resourceUri": "ui://kittl/mcp/media-result-view"
+            },
+            "ui/resourceUri": "ui://kittl/mcp/media-result-view"
+          }
+        },
+        "kittl-render-mockup": {
+          "name": "kittl-render-mockup",
+          "title": "Render Mockup",
+          "description": "Places designs on Kittl product mockup templates (from kittl-search-mockup-templates) with the template's lighting and folds, and renders them in Kittl's Media Result View widget. Deterministic and costs no Kittl tokens (credits); designs are placed as-is, not regenerated. Premium templates (labeled Premium on the search card) render only when the workspace is on a paid plan; a free workspace gets an error for that template. Several renders per call build a set (e.g. front and back views). Each result reports where every design landed and how much of it is visible, and includes a small preview image so placement can be checked and refined before a final render. Single-design renders include an editUrl that opens the mockup as an editable Kittl project for placement tweaks and full-resolution (3000px) export. Results expire after about a day: chain with url or uploadId, or keep one permanently with kittl-save-image-to-library using its objectId within 24 hours. Designs must be Kittl images (any format); upload external images with kittl-upload-image first. Transparent PNG designs look best.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "renders": {
+                "minItems": 1,
+                "maxItems": 4,
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "mockupTemplateId": {
+                      "type": "integer",
+                      "exclusiveMinimum": 0,
+                      "maximum": 9007199254740991,
+                      "description": "Template id from kittl-search-mockup-templates."
+                    },
+                    "designs": {
+                      "minItems": 1,
+                      "maxItems": 6,
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "image": {
+                            "type": "string",
+                            "minLength": 1,
+                            "description": "The design to place. Prefer the `url` or `uploadId` from a previous Kittl tool result, an `objectId` from kittl-upload-image, or a Kittl media `objectName`: these work in any format (PNG, JPEG, WebP, SVG). Other URLs are not accepted; upload them with kittl-upload-image first."
+                          },
+                          "placement": {
+                            "description": "Optional placement. Prefer anchor/size; use exact numbers to fine-tune from a previous result (its `placement` and guide grid). Everything omitted keeps the template slot default.",
+                            "type": "object",
+                            "properties": {
+                              "anchor": {
+                                "description": "Where to put the design inside its print area (the printable surface the design is visible on). Left and right are as seen in the image (on a front view of a garment, right is the wearer's left). Omitted keeps the template's intended center.",
+                                "type": "string",
+                                "enum": [
+                                  "center",
+                                  "top",
+                                  "bottom",
+                                  "left",
+                                  "right",
+                                  "top-left",
+                                  "top-right",
+                                  "bottom-left",
+                                  "bottom-right"
+                                ]
+                              },
+                              "size": {
+                                "description": "Design size relative to its print area: small ~30%, medium ~50%, large ~70%, fill ~85%. Omitted keeps the template's intended size.",
+                                "type": "string",
+                                "enum": [
+                                  "small",
+                                  "medium",
+                                  "large",
+                                  "fill"
+                                ]
+                              },
+                              "centerX": {
+                                "description": "Exact design center, 0 = left edge of the image, 1 = right edge. Overrides anchor.",
+                                "type": "number",
+                                "minimum": 0,
+                                "maximum": 1
+                              },
+                              "centerY": {
+                                "description": "Exact design center, 0 = top edge of the image, 1 = bottom edge. Overrides anchor.",
+                                "type": "number",
+                                "minimum": 0,
+                                "maximum": 1
+                              },
+                              "maxSize": {
+                                "description": "Exact size: the design's longer edge as a fraction of the image edge. Overrides size.",
+                                "type": "number",
+                                "exclusiveMinimum": 0,
+                                "maximum": 1
+                              }
+                            }
+                          }
+                        },
+                        "required": [
+                          "image"
+                        ]
+                      },
+                      "description": "Designs for this template, matched to its slots in order (see the template's slots; a two-product scene takes two). Designs beyond the slot count are centered in the largest print area and can overlap, so give them a placement."
+                    }
+                  },
+                  "required": [
+                    "mockupTemplateId",
+                    "designs"
+                  ]
+                },
+                "description": "One entry per output image. Use several for a set, e.g. a front-view and a back-view template of the same product, each with its own design."
+              },
+              "size": {
+                "default": 1024,
+                "description": "Square output size in pixels (default 1024, max 1080). Use 512 for quick drafts.",
+                "type": "integer",
+                "minimum": 256,
+                "maximum": 1080
+              },
+              "backgroundColor": {
+                "description": "Optional #rrggbb color painted behind the template. On colorable products it shows through as the product color.",
+                "type": "string",
+                "pattern": "^#[\\da-f]{6}$"
+              }
+            },
+            "required": [
+              "workspaceId",
+              "renders"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": false,
+            "idempotentHint": false,
+            "openWorldHint": true
+          },
+          "_meta": {
+            "ui": {
+              "resourceUri": "ui://kittl/mcp/media-result-view"
+            },
+            "ui/resourceUri": "ui://kittl/mcp/media-result-view"
+          }
+        },
+        "kittl-save-image-to-library": {
+          "name": "kittl-save-image-to-library",
+          "title": "Save Image to Library",
+          "description": "Promote a temporary upload object ID (from kittl-upload-image or the image uploader) into a permanent library Upload. Optional folderId from kittl-list-upload-folders places it in that upload folder; omit or 'root' saves unfiled. Returns uploadId reusable for workflow/generation image inputs. Does not create folders (kittl-create-upload-folder).",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "objectId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Temporary upload object ID from kittl-upload-image, the image uploader widget, or a kittl-render-mockup result (its objectId; renders otherwise expire after about a day)"
+              },
+              "name": {
+                "description": "Optional library display name for the saved image",
+                "type": "string"
+              },
+              "folderId": {
+                "description": "Upload folder id from kittl-list-upload-folders, or 'root'/omit to save unfiled (root). 'all' is list-only and rejected.",
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "workspaceId",
+              "objectId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": false,
+            "idempotentHint": false,
+            "openWorldHint": false
+          }
+        },
+        "kittl-remove-image-background": {
+          "name": "kittl-remove-image-background",
+          "title": "Remove Image Background",
+          "description": "Removes an image's background and renders the transparent result in Kittl's Media Result View widget. Defaults to 'standard' (Fast), which costs 0 tokens. 'enhanced' (Detailed) produces higher-quality cutouts but may cost tokens and may require a paid plan. Completed results include an editUrl that continues the image in Kittl's AI Creations Quick Edit. For generation-tool routing guidance see kittl-get-ai-generation-guidance.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "image": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The image to transform. Prefer the `url` from a previous Kittl tool result when chaining. Also accepts any public HTTP(S) image URL, an `objectId` returned by kittl-upload-image or the upload widget, or a Kittl media `objectName` such as `users/<user-id>/uploads/<upload-id>.png`."
+              },
+              "mode": {
+                "default": "standard",
+                "description": "Which background-removal mode to use. 'standard' (Fast) costs 0 tokens and is the default — use it for simple subjects and when cost matters. 'enhanced' (Detailed) produces noticeably better cutouts but may cost tokens and may require a paid plan; pick it when edge quality matters.",
+                "type": "string",
+                "enum": [
+                  "enhanced",
+                  "standard"
+                ]
+              }
+            },
+            "required": [
+              "workspaceId",
+              "image"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": true,
+            "idempotentHint": false,
+            "openWorldHint": true
+          },
+          "_meta": {
+            "ui": {
+              "resourceUri": "ui://kittl/mcp/media-result-view"
+            },
+            "ui/resourceUri": "ui://kittl/mcp/media-result-view"
+          }
+        },
+        "kittl-get-ai-workflow-session-status": {
+          "name": "kittl-get-ai-workflow-session-status",
+          "title": "Get AI Workflow Session Status",
+          "description": "Checks a Kittl AI workflow session's merged outputs by session ID. Pass activeOnly=true for lightweight polling of up to 10 currently active runs. On subsequent polls, pass the prior response's activeRunIds as previouslyActiveRunIds so newly terminal runs are included once. Omit activeOnly for the full newest-runs snapshot (up to 100). Used by the Media Result View widget while outputs are generating, and as a manual fallback / refresh after an in-session MCP re-run or studio Quick Edit.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "sessionId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Workflow session ID returned by a workflow run/session tool, or parsed from a pasted studio ?session= URL."
+              },
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "activeOnly": {
+                "description": "When true, returns up to 10 currently active runs plus any previouslyActiveRunIds that became terminal. Use for lightweight polling; omit for the full newest-runs snapshot (up to 100).",
+                "type": "boolean"
+              },
+              "previouslyActiveRunIds": {
+                "description": "Optional continuation state for activeOnly polling. Pass activeRunIds from the immediately preceding response so newly terminal runs are returned once. Omit on the first activeOnly call or when activeOnly is false; never invent IDs.",
+                "maxItems": 10,
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            },
+            "required": [
+              "sessionId",
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-list-image-styles": {
+          "name": "kittl-list-image-styles",
+          "title": "List Image Styles",
+          "description": "Use this when the user wants to list or find one of Kittl's curated image-generation styles, such as watercolor, anime, clipart, or vector art — including for a reference-image remix. Search directly when the user provides a visual-style term. List style groups first via kittl-list-image-style-groups only when the user wants to browse categories or no useful style term is available. Search matches a literal style-name substring, so use a short visual-style term rather than the user's full request; filter by that search and/or exact group (at least one required). Returns compact paginated candidates with model, reference-image, health, background, type, and paid-plan metadata. Names are not unique, so never invent ids or silently select among multiple matches. Pass the chosen id as promptStyleId to kittl-generate-media with type image. For remix, use the row modelId only when it supports reference images and its health permits; otherwise choose an I2I model through kittl-list-media-generation-models.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "search": {
+                "description": "Case-insensitive literal substring of the style name only—not semantic, fuzzy, or multi-keyword search. Use one concise style term or contiguous name phrase, such as \"watercolor\"; if no styles match, retry with a shorter term. At least one of search or group is required.",
+                "type": "string",
+                "minLength": 1
+              },
+              "group": {
+                "description": "Case-insensitive exact group name returned by kittl-list-image-style-groups or explicitly provided by the user. Do not guess group names. At least one of search or group is required.",
+                "type": "string",
+                "minLength": 1
+              },
+              "take": {
+                "default": 20,
+                "description": "Max styles to return after filter/dedupe (default 20, max 50).",
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 50
+              },
+              "skip": {
+                "default": 0,
+                "description": "Number of filtered styles to skip for pagination (default 0).",
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              }
+            }
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-move-library-images-to-folder": {
+          "name": "kittl-move-library-images-to-folder",
+          "title": "Move Library Images to Folder",
+          "description": "Move one or more persisted library images into an upload folder. uploadIds come from kittl-list-library-images (either source) or kittl-save-image-to-library; folderId comes from kittl-list-upload-folders. Temporary objectIds from kittl-upload-image must be saved first. Unknown ids are skipped; the API returns 404 only when none match. Not for projects (kittl-move-project-to-folder).",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "folderId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Upload folder id from kittl-list-upload-folders. Sentinels root/all are rejected."
+              },
+              "uploadIds": {
+                "minItems": 1,
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "description": "Persisted library upload IDs from kittl-list-library-images (either source) or kittl-save-image-to-library. Not temporary objectIds from kittl-upload-image."
+              }
+            },
+            "required": [
+              "workspaceId",
+              "folderId",
+              "uploadIds"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": false,
+            "idempotentHint": false,
+            "openWorldHint": false
+          }
+        },
+        "kittl-vectorize-image": {
+          "name": "kittl-vectorize-image",
+          "title": "Vectorize Image",
+          "description": "Starts a Kittl vectorization job (currently does not consume tokens) and renders progress and the final SVG in Kittl's Media Result View widget. Source images may be up to 20MB. For generation-tool routing guidance see kittl-get-ai-generation-guidance.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "image": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The image to transform. Prefer the `url` from a previous Kittl tool result when chaining. Also accepts any public HTTP(S) image URL, an `objectId` returned by kittl-upload-image or the upload widget, or a Kittl media `objectName` such as `users/<user-id>/uploads/<upload-id>.png`."
+              },
+              "solver": {
+                "default": "color",
+                "description": "Whether to create a black-and-white or color vector.",
+                "type": "string",
+                "enum": [
+                  "black-and-white",
+                  "color"
+                ]
+              },
+              "colorCount": {
+                "default": 16,
+                "description": "Number of colors in the vector output, from 1 to 16.",
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 16
+              }
+            },
+            "required": [
+              "workspaceId",
+              "image"
+            ],
+            "description": "Vectorization currently does not consume Kittl tokens."
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": false,
+            "idempotentHint": false,
+            "openWorldHint": true
+          },
+          "_meta": {
+            "ui": {
+              "resourceUri": "ui://kittl/mcp/media-result-view"
+            },
+            "ui/resourceUri": "ui://kittl/mcp/media-result-view"
+          }
+        },
+        "kittl-list-ai-workflow-sessions": {
+          "name": "kittl-list-ai-workflow-sessions",
+          "title": "List My AI Workflow Sessions",
+          "description": "Lists the current user's Kittl AI workflow sessions for a team, ordered by most recent activity, newest first, so the first card is the latest session. Each card opens the session grid via kittl-get-ai-workflow-session-status. For a pasted studio URL with ?session=, use kittl-show-ai-workflow-session instead. Results render in Kittl's Media Result View widget. The widget offers Previous/Next when more pages exist; you can also paginate with take/skip when the user asks for more (e.g. take=2 for the two newest sessions).",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "take": {
+                "description": "Number of sessions to fetch (default 20). Sessions are newest-first; use a small take for the latest N (e.g. take=2).",
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 50
+              },
+              "skip": {
+                "description": "Number of sessions to skip for pagination (default 0).",
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              }
+            },
+            "required": [
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          },
+          "_meta": {
+            "ui": {
+              "resourceUri": "ui://kittl/mcp/media-result-view"
+            },
+            "ui/resourceUri": "ui://kittl/mcp/media-result-view"
+          }
+        },
+        "kittl-view-image": {
+          "name": "kittl-view-image",
+          "title": "View Image",
+          "description": "Returns a 384 px JPEG preview of a Kittl image so you can see its contents. Use this when an answer depends on what an image shows (describing, comparing, choosing); a prompt or title is not evidence, and downloading the image yourself costs more context. Not needed for routine generation, status, saving or upscaling, or for an image already shown. Small text may be illegible. Spends no Kittl tokens.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "image": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Kittl image: a result URL (plain or resized), an upload `objectId`, or a media `objectName` (`users/<user-id>/uploads/<upload-id>.png`). Public URLs and videos are not supported (upload external images with kittl-upload-image first)."
+              }
+            },
+            "required": [
+              "workspaceId",
+              "image"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-get-token-balance": {
+          "name": "kittl-get-token-balance",
+          "title": "Get Token Balance",
+          "description": "Returns the user's available Kittl token balance for a workspace. Use this when the user asks about tokens, balance, or remaining generation allowance.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              }
+            },
+            "required": [
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-get-image-vectorization-status": {
+          "name": "kittl-get-image-vectorization-status",
+          "title": "Get Image Vectorization Status",
+          "description": "Checks the status of an image-vectorization job by ID. Non-terminal responses include checkAgainInSeconds, the suggested delay before the next manual check. Completed results include an editUrl that continues the SVG in Kittl's AI Creations Quick Edit.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "jobId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The job ID returned by the kickoff tool; also the Media Result View card key and input to the matching status tool."
+              }
+            },
+            "required": [
+              "jobId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-list-ai-workflow-presets": {
+          "name": "kittl-list-ai-workflow-presets",
+          "title": "List AI Workflow Presets",
+          "description": "Browse the current catalog of published Kittl AI workflow presets - curated multi-step generation recipes. Natural-language `search` is relevance-ranked; use a concise, deliverable-focused query and treat results as candidates until inspected. Without search, results default to popularity and may under-represent smaller categories; sortBy and sortDirection are ignored during search. kittl-list-ai-workflow-use-cases returns category IDs for filtering. kittl-get-ai-workflow-preset returns a selected preset's inputs, aspect ratio (not in list results, so fetch candidates to check it) and workspace-scoped base cost estimate before it is run. Direct image transformations use the dedicated image tools; raw or model-specific generation, or requests with no clear preset fit, use kittl-generate-media.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "search": {
+                "description": "Natural-language search, ranked by relevance (title, tags, use cases, and generated search phrases) rather than plain substring match.",
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 255
+              },
+              "tagIds": {
+                "description": "Filter by tag IDs. Inspect a preset's tags (from a prior listing) to discover valid IDs.",
+                "type": "array",
+                "items": {
+                  "type": "number"
+                }
+              },
+              "useCaseIds": {
+                "description": "Filter by use case IDs. kittl-list-ai-workflow-use-cases returns the valid IDs.",
+                "type": "array",
+                "items": {
+                  "type": "number"
+                }
+              },
+              "take": {
+                "description": "Number of presets to fetch (default 20).",
+                "type": "number",
+                "minimum": 1,
+                "maximum": 50
+              },
+              "skip": {
+                "description": "Number of presets to skip for pagination (default 0).",
+                "type": "number",
+                "minimum": 0
+              },
+              "sortBy": {
+                "description": "Field to sort by (default popularity).",
+                "type": "string",
+                "enum": [
+                  "publishedAt",
+                  "popularity",
+                  "createdAt"
+                ]
+              },
+              "sortDirection": {
+                "description": "Sort direction (default desc).",
+                "type": "string",
+                "enum": [
+                  "asc",
+                  "desc"
+                ]
+              }
+            }
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-get-brand-kit": {
+          "name": "kittl-get-brand-kit",
+          "title": "Get Brand Kit",
+          "description": "Retrieve one Brand Kit for the given team (workspaceId + brandKitId). Call after kittl-create-brand-kit-from-url (poll until terminal), after kittl-list-brand-kits, or when a generation could benefit from brand colors, fonts, tone, visual style, or logo/graphic refs (e.g. ad, product shot, social asset). Pending/FAILED return lifecycle only; COMPLETE returns brandContext for prompt composition plus a deduplicated referenceImages list (ordered primary logo → visual-style graphics → other graphics → secondary logos). Same id works as a workflow brand-selector value via kittl-get-ai-workflow-preset/kittl-run-ai-workflow when hasVisualStyle is true on kittl-list-brand-kits. Treat brandContext as an art-direction hierarchy, not a checklist; for finished ads, request a composed campaign creative without placeholder copy or invented taglines. Use logo/graphic uploadIds as kittl-generate-media referenceImages only where relevant — prefer one primary logo plus one or two visual-style refs when kittl-list-media-generation-models allows at least three (SVG auto-rasterized). Do not dump the whole kit. Detailed synthesis policy: kittl-get-ai-generation-guidance.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "brandKitId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The Brand Kit id returned by the create-from-url kickoff or the list tool."
+              }
+            },
+            "required": [
+              "workspaceId",
+              "brandKitId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-list-media-generation-models": {
+          "name": "kittl-list-media-generation-models",
+          "title": "List Media Generation Models",
+          "description": "Fetch available AI models from Kittl's AI generator. Returns image and/or video models (optionally filtered to one via `typeFilter`) with their capabilities, baseTokenCostEstimate (a rate — for many video models it is per second, not per run), speeds, and recommended use cases. Pass the same workspaceId you will use with kittl-generate-media so listed rates match what that workspace will be charged. The tokens actually charged come back as creditCost from kittl-generate-media. Each model's Parameters line includes referenceImages bounds (e.g. maximum N) when choosing how many uploadIds or image URLs to pass.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "description": "Team (workspace) to resolve plan-specific rates for. Prefer the same workspaceId you will pass to kittl-generate-media (kittl-list-teams defaultTeamId when the user has not specified a team).",
+                "type": "string",
+                "minLength": 1
+              },
+              "typeFilter": {
+                "description": "Limit results to one media type. Omit to get both.",
+                "type": "string",
+                "enum": [
+                  "image",
+                  "video"
+                ]
+              }
+            }
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-list-brand-kits": {
+          "name": "kittl-list-brand-kits",
+          "title": "List Brand Kits",
+          "description": "List Brand Kits for a Kittl team (workspace): id, name, status, visualStyleStatus, and hasVisualStyle (workflow brand-selector gate). New kits come from kittl-create-brand-kit-from-url when the brand has a website. Same id: when hasVisualStyle is true, pass under the brand-selector field key from kittl-get-ai-workflow-preset (brandSelectorFields — not always named brandId) on kittl-run-ai-workflow; or call kittl-get-brand-kit for brandContext (prompt composition) and optional referenceImages uploadIds for kittl-generate-media. FAILED kits are omitted — use kittl-get-brand-kit to read a failed create-from-url error. Optional deeper playbook: kittl-get-ai-generation-guidance.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              }
+            },
+            "required": [
+              "workspaceId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          }
+        },
+        "kittl-create-brand-kit-from-url": {
+          "name": "kittl-create-brand-kit-from-url",
+          "title": "Create Brand Kit from URL",
+          "description": "Creates a new Brand Kit by crawling a website URL (async, may take minutes). This is the Brand Kit create path when the brand has a site. Input must be an http(s) URL (not a brand name) — the kit name is derived from the URL/site, no separate name argument. Always creates a new kit — MCP does not pass brandKitId to enrich an existing one. Crawl success depends on the live site; unreachable or empty sites fail after kickoff. Returns brandKitId and workspaceId; poll kittl-get-brand-kit with both until terminal is true. Once ready, same id: under the brand-selector field key from kittl-get-ai-workflow-preset (brandSelectorFields — not always named brandId) on kittl-run-ai-workflow when hasVisualStyle is true, or kittl-get-brand-kit brandContext/uploadIds for kittl-generate-media. Progress also at the team's /brand page. Optional deeper playbook: kittl-get-ai-generation-guidance.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "description": "http(s) website URL to crawl into a new Brand Kit. Kit name comes from the URL/site — no separate name field. Pass a live site; unreachable sites fail after kickoff."
+              }
+            },
+            "required": [
+              "workspaceId",
+              "url"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": false,
+            "idempotentHint": false,
+            "openWorldHint": true
+          }
+        },
+        "kittl-get-image-upscale-status": {
+          "name": "kittl-get-image-upscale-status",
+          "title": "Get Image Upscale Status",
+          "description": "Checks and advances an image-upscale job by ID. A check may finalize its output, retry a timed-out job using a fallback provider, or mark the job as failed. Non-terminal responses include checkAgainInSeconds, the suggested delay before the next manual check. Completed results include an editUrl that continues the image in Kittl's AI Creations Quick Edit. Results carry metadata, not pixels; to see what an image shows, pass its url to kittl-view-image.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "jobId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The job ID returned by the kickoff tool; also the Media Result View card key and input to the matching status tool."
+              }
+            },
+            "required": [
+              "jobId"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": false,
+            "destructiveHint": false,
+            "idempotentHint": false,
+            "openWorldHint": false
+          }
+        },
+        "kittl-list-library-images": {
+          "name": "kittl-list-library-images",
+          "title": "List My Library Images",
+          "description": "Lists images from a Kittl workspace library and renders them in Kittl's Media Result View widget. Required source chooses exactly one library: 'uploads' (non-AI images) or 'ai-creations' (completed IMAGE generations, including ones moved into a user folder) — both cannot be listed in one call; if the user does not say which, ask before calling. Optional folderId applies equally to both sources ('all' default, 'root', or an id from kittl-list-upload-folders). A complete mixed folder view needs two calls with the same folderId. Results are ordered newest-first by createdAt; each image includes createdAt (ISO) for grouping or filing by date. Pass take for \"latest N\" (e.g. take=2). Each image's uploadId is a reusable image ID — Media Result View \"Use in chat\" sends it as selectedImageObjectId; pass uploadId directly to compatible raw-generation or workflow image inputs (MIME/size/dimension checks can still reject it). Each image includes an editUrl that continues it in Kittl's AI Creations Quick Edit. The widget offers Previous/Next when more pages exist; you can also paginate by calling again with the returned meta.pagination.nextCursor as cursor when hasMore is true. This returns metadata, not pixels; to see what an image shows, pass its downloadUrl to kittl-view-image.",
+          "inputSchema": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "workspaceId": {
+                "type": "string",
+                "minLength": 1,
+                "description": "The ID of the team (workspace) to perform this operation in. kittl-list-teams returns available teams and a default team ID, used when the user has not specified a particular team."
+              },
+              "source": {
+                "type": "string",
+                "enum": [
+                  "uploads",
+                  "ai-creations"
+                ],
+                "description": "Required. Exactly one library per call: 'uploads' (non-AI images) or 'ai-creations' (completed IMAGE generations, including ones moved into a user folder). Cannot list both together — ask the user which if unclear. A complete folder view needs two calls with the same folderId."
+              },
+              "folderId": {
+                "description": "Folder scope applied equally to both sources: 'all' (default, every folder), 'root' (unfiled only), or an id from kittl-list-upload-folders. With source 'uploads' returns non-AI images in that folder; with 'ai-creations' returns AI images in that folder (including ones moved there).",
+                "type": "string",
+                "minLength": 1
+              },
+              "take": {
+                "description": "How many newest images to return (default 20). Use a small take when the user asks for the latest N (e.g. take=2 for the two newest).",
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 50
+              },
+              "cursor": {
+                "description": "Pass meta.pagination.nextCursor from a previous kittl-list-library-images result as this cursor. Omit for the first page.",
+                "type": "string"
+              },
+              "cursorStack": {
+                "description": "Cursors for prior pages (widget Previous). Built by the Media Result View; do not invent. Omit on the first page.",
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            },
+            "required": [
+              "workspaceId",
+              "source"
+            ]
+          },
+          "annotations": {
+            "readOnlyHint": true,
+            "destructiveHint": false,
+            "idempotentHint": true,
+            "openWorldHint": false
+          },
+          "_meta": {
+            "ui": {
+              "resourceUri": "ui://kittl/mcp/media-result-view"
+            },
+            "ui/resourceUri": "ui://kittl/mcp/media-result-view"
+          }
+        }
+      },
+      "toolsError": null,
+      "resources": [],
+      "resourceTemplates": [],
+      "authStatus": "oAuth"
+    }
+  ],
+  "nextCursor": null
+}

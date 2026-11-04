@@ -1,0 +1,1217 @@
+[
+  {
+    "file": "01-marca/AV-sangue.svg",
+    "width": 840,
+    "height": 760,
+    "physical_mm": null,
+    "title": "Aurevi — AV sangue",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/AUREVI-sangue.svg",
+    "width": 1600,
+    "height": 440,
+    "physical_mm": null,
+    "title": "Aurevi — AUREVI sangue",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/principal-sangue.svg",
+    "width": 1600,
+    "height": 1000,
+    "physical_mm": null,
+    "title": "Aurevi — principal sangue",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/horizontal-sangue.svg",
+    "width": 1800,
+    "height": 420,
+    "physical_mm": null,
+    "title": "Aurevi — horizontal sangue",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/AV-ouro.svg",
+    "width": 840,
+    "height": 760,
+    "physical_mm": null,
+    "title": "Aurevi — AV ouro",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/AUREVI-ouro.svg",
+    "width": 1600,
+    "height": 440,
+    "physical_mm": null,
+    "title": "Aurevi — AUREVI ouro",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/principal-ouro.svg",
+    "width": 1600,
+    "height": 1000,
+    "physical_mm": null,
+    "title": "Aurevi — principal ouro",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/horizontal-ouro.svg",
+    "width": 1800,
+    "height": 420,
+    "physical_mm": null,
+    "title": "Aurevi — horizontal ouro",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/AV-marfim.svg",
+    "width": 840,
+    "height": 760,
+    "physical_mm": null,
+    "title": "Aurevi — AV marfim",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/AUREVI-marfim.svg",
+    "width": 1600,
+    "height": 440,
+    "physical_mm": null,
+    "title": "Aurevi — AUREVI marfim",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/principal-marfim.svg",
+    "width": 1600,
+    "height": 1000,
+    "physical_mm": null,
+    "title": "Aurevi — principal marfim",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/horizontal-marfim.svg",
+    "width": 1800,
+    "height": 420,
+    "physical_mm": null,
+    "title": "Aurevi — horizontal marfim",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/AV-grafite.svg",
+    "width": 840,
+    "height": 760,
+    "physical_mm": null,
+    "title": "Aurevi — AV grafite",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/AUREVI-grafite.svg",
+    "width": 1600,
+    "height": 440,
+    "physical_mm": null,
+    "title": "Aurevi — AUREVI grafite",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/principal-grafite.svg",
+    "width": 1600,
+    "height": 1000,
+    "physical_mm": null,
+    "title": "Aurevi — principal grafite",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/horizontal-grafite.svg",
+    "width": 1800,
+    "height": 420,
+    "physical_mm": null,
+    "title": "Aurevi — horizontal grafite",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/AV-metalico.svg",
+    "width": 840,
+    "height": 760,
+    "physical_mm": null,
+    "title": "Aurevi — AV metalico",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/AUREVI-metalico.svg",
+    "width": 1600,
+    "height": 440,
+    "physical_mm": null,
+    "title": "Aurevi — AUREVI metalico",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/principal-metalico.svg",
+    "width": 1600,
+    "height": 1000,
+    "physical_mm": null,
+    "title": "Aurevi — principal metalico",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "01-marca/horizontal-metalico.svg",
+    "width": 1800,
+    "height": 420,
+    "physical_mm": null,
+    "title": "Aurevi — horizontal metalico",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "02-redes/avatares/avatar-vermelho.svg",
+    "width": 1080,
+    "height": 1080,
+    "physical_mm": null,
+    "title": "Avatar Aurevi vermelho",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "02-redes/avatares/avatar-cinza.svg",
+    "width": 1080,
+    "height": 1080,
+    "physical_mm": null,
+    "title": "Avatar Aurevi cinza",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": []
+  },
+  {
+    "file": "02-redes/feed/01-elegante-ousada.svg",
+    "width": 1080,
+    "height": 1350,
+    "physical_mm": null,
+    "title": "01 — Elegante e ousada",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": [
+      {
+        "text": "AUREVI / MODA FEMININA",
+        "x0": 72.38,
+        "y0": 98.03,
+        "x1": 358.19,
+        "y1": 112.28
+      },
+      {
+        "text": "Elegante.",
+        "x0": 74.19,
+        "y0": 358.35,
+        "x1": 605.02,
+        "y1": 513.26
+      },
+      {
+        "text": "Ousada.",
+        "x0": 75.55,
+        "y0": 521.35,
+        "x1": 545.73,
+        "y1": 635.0
+      },
+      {
+        "text": "Aurevi.",
+        "x0": 67.28,
+        "y0": 698.13,
+        "x1": 503.23,
+        "y1": 797.85
+      },
+      {
+        "text": "Vista sua presença.",
+        "x0": 76.18,
+        "y0": 1023.9,
+        "x1": 394.94,
+        "y1": 1058.64
+      },
+      {
+        "text": "@use_aurevi",
+        "x0": 73.68,
+        "y0": 1264.78,
+        "x1": 197.85,
+        "y1": 1282.23
+      },
+      {
+        "text": "A MARCA",
+        "x0": 921.5,
+        "y0": 1266.04,
+        "x1": 1007.62,
+        "y1": 1280.29
+      }
+    ]
+  },
+  {
+    "file": "02-redes/feed/02-editorial.svg",
+    "width": 1080,
+    "height": 1350,
+    "physical_mm": null,
+    "title": "02 — Editorial de estúdio",
+    "status": "Editorial conceitual",
+    "note": "Imagem gerada por IA, não anuncia peça real de estoque.",
+    "text_bounds": [
+      {
+        "text": "PRESENÇA EM CADA DETALHE.",
+        "x0": 61.61,
+        "y0": 1283.1,
+        "x1": 429.73,
+        "y1": 1305.52
+      },
+      {
+        "text": "EDITORIAL CONCEITUAL · IA",
+        "x0": 821.9,
+        "y0": 1317.24,
+        "x1": 1019.68,
+        "y1": 1329.24
+      }
+    ]
+  },
+  {
+    "file": "02-redes/feed/03-ouro-vida.svg",
+    "width": 1080,
+    "height": 1350,
+    "physical_mm": null,
+    "title": "03 — Ouro e vida",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": [
+      {
+        "text": "AURE + VI",
+        "x0": 72.38,
+        "y0": 98.32,
+        "x1": 177.88,
+        "y1": 112.28
+      },
+      {
+        "text": "Ouro no nome.",
+        "x0": 76.07,
+        "y0": 862.21,
+        "x1": 561.88,
+        "y1": 916.08
+      },
+      {
+        "text": "Vida no seu jeito.",
+        "x0": 71.85,
+        "y0": 946.83,
+        "x1": 627.53,
+        "y1": 1030.42
+      },
+      {
+        "text": "Elegância para vestir com atitude.",
+        "x0": 78.1,
+        "y0": 1115.2,
+        "x1": 537.32,
+        "y1": 1145.65
+      },
+      {
+        "text": "@use_aurevi",
+        "x0": 73.68,
+        "y0": 1264.78,
+        "x1": 197.85,
+        "y1": 1282.23
+      },
+      {
+        "text": "NOSSA ESSÊNCIA",
+        "x0": 842.09,
+        "y0": 1262.14,
+        "x1": 1007.62,
+        "y1": 1280.29
+      }
+    ]
+  },
+  {
+    "file": "02-redes/feed/04-detalhes.svg",
+    "width": 1080,
+    "height": 1350,
+    "physical_mm": null,
+    "title": "04 — Detalhes com presença",
+    "status": "Editorial conceitual",
+    "note": "Recorte da fotografia de conceito; substituir pela foto real ao anunciar produto.",
+    "text_bounds": [
+      {
+        "text": "UM OLHAR MAIS DE PERTO",
+        "x0": 73.33,
+        "y0": 98.03,
+        "x1": 369.58,
+        "y1": 112.28
+      },
+      {
+        "text": "O detalhe muda tudo.",
+        "x0": 74.56,
+        "y0": 195.57,
+        "x1": 860.33,
+        "y1": 264.21
+      },
+      {
+        "text": "Recortes, drapeados e movimento.",
+        "x0": 106.03,
+        "y0": 1102.97,
+        "x1": 563.56,
+        "y1": 1130.96
+      },
+      {
+        "text": "Inspiração de styling · editorial conceitual IA",
+        "x0": 105.6,
+        "y0": 1158.17,
+        "x1": 502.77,
+        "y1": 1178.1
+      },
+      {
+        "text": "@use_aurevi",
+        "x0": 73.68,
+        "y0": 1264.78,
+        "x1": 197.85,
+        "y1": 1282.23
+      },
+      {
+        "text": "DETALHES",
+        "x0": 911.01,
+        "y0": 1266.04,
+        "x1": 1007.36,
+        "y1": 1280.29
+      }
+    ]
+  },
+  {
+    "file": "02-redes/feed/05-peca-template.svg",
+    "width": 1080,
+    "height": 1350,
+    "physical_mm": null,
+    "title": "05 — Peça do dia — modelo editável",
+    "status": "Template — preencher",
+    "note": "Inserir foto, nome e disponibilidade reais antes de publicar.",
+    "text_bounds": [
+      {
+        "text": "SUA FOTO DA PEÇA",
+        "x0": 411.38,
+        "y0": 765.89,
+        "x1": 668.98,
+        "y1": 791.24
+      },
+      {
+        "text": "[Nome da peça]",
+        "x0": 78.38,
+        "y0": 1008.45,
+        "x1": 540.64,
+        "y1": 1086.45
+      },
+      {
+        "text": "[Tamanhos e cores disponíveis]",
+        "x0": 79.92,
+        "y0": 1106.14,
+        "x1": 479.2,
+        "y1": 1137.72
+      },
+      {
+        "text": "Consulte disponibilidade pelo direct.",
+        "x0": 76.81,
+        "y0": 1178.15,
+        "x1": 526.46,
+        "y1": 1204.48
+      },
+      {
+        "text": "@use_aurevi",
+        "x0": 73.68,
+        "y0": 1264.78,
+        "x1": 197.85,
+        "y1": 1282.23
+      },
+      {
+        "text": "SEU PRÓXIMO LOOK",
+        "x0": 820.14,
+        "y0": 1261.76,
+        "x1": 1008.0,
+        "y1": 1280.29
+      }
+    ]
+  },
+  {
+    "file": "02-redes/feed/06-presenca.svg",
+    "width": 1080,
+    "height": 1350,
+    "physical_mm": null,
+    "title": "06 — Vista sua presença",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": [
+      {
+        "text": "ELEGÂNCIA COM ATITUDE",
+        "x0": 73.33,
+        "y0": 94.05,
+        "x1": 358.88,
+        "y1": 112.28
+      },
+      {
+        "text": "Tem looks",
+        "x0": 76.79,
+        "y0": 398.38,
+        "x1": 569.55,
+        "y1": 490.62
+      },
+      {
+        "text": "que chegam",
+        "x0": 76.34,
+        "y0": 535.38,
+        "x1": 642.99,
+        "y1": 661.11
+      },
+      {
+        "text": "com você.",
+        "x0": 76.34,
+        "y0": 671.75,
+        "x1": 544.52,
+        "y1": 764.62
+      },
+      {
+        "text": "Vista sua presença.",
+        "x0": 76.2,
+        "y0": 1011.0,
+        "x1": 430.37,
+        "y1": 1049.6
+      },
+      {
+        "text": "@use_aurevi",
+        "x0": 73.68,
+        "y0": 1264.78,
+        "x1": 197.85,
+        "y1": 1282.23
+      },
+      {
+        "text": "AUREVI",
+        "x0": 939.67,
+        "y0": 1266.32,
+        "x1": 1006.48,
+        "y1": 1280.29
+      }
+    ]
+  },
+  {
+    "file": "02-redes/feed/07-provador-template.svg",
+    "width": 1080,
+    "height": 1350,
+    "physical_mm": null,
+    "title": "07 — Provador — modelo editável",
+    "status": "Template — preencher",
+    "note": "Substituir pelo provador real e revisar informações da peça.",
+    "text_bounds": [
+      {
+        "text": "A PEÇA EM MOVIMENTO",
+        "x0": 72.38,
+        "y0": 98.03,
+        "x1": 335.12,
+        "y1": 116.57
+      },
+      {
+        "text": "No seu ritmo.",
+        "x0": 75.62,
+        "y0": 204.62,
+        "x1": 660.54,
+        "y1": 275.77
+      },
+      {
+        "text": "FOTO OU CAPA DO SEU VÍDEO",
+        "x0": 379.39,
+        "y0": 807.96,
+        "x1": 701.57,
+        "y1": 831.36
+      },
+      {
+        "text": "Mostre o caimento.",
+        "x0": 78.17,
+        "y0": 1045.53,
+        "x1": 347.17,
+        "y1": 1068.46
+      },
+      {
+        "text": "Conte os detalhes da peça.",
+        "x0": 76.93,
+        "y0": 1094.21,
+        "x1": 461.85,
+        "y1": 1124.44
+      },
+      {
+        "text": "@use_aurevi",
+        "x0": 73.68,
+        "y0": 1264.78,
+        "x1": 197.85,
+        "y1": 1282.23
+      },
+      {
+        "text": "PROVADOR",
+        "x0": 905.04,
+        "y0": 1266.04,
+        "x1": 1007.24,
+        "y1": 1280.29
+      }
+    ]
+  },
+  {
+    "file": "02-redes/feed/08-combinacoes.svg",
+    "width": 1080,
+    "height": 1350,
+    "physical_mm": null,
+    "title": "08 — Inspiração de cores",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": [
+      {
+        "text": "COMBINAÇÕES COM PERSONALIDADE",
+        "x0": 72.57,
+        "y0": 94.26,
+        "x1": 491.26,
+        "y1": 116.57
+      },
+      {
+        "text": "Vermelho profundo.",
+        "x0": 71.83,
+        "y0": 273.48,
+        "x1": 801.51,
+        "y1": 366.57
+      },
+      {
+        "text": "Ouro na medida.",
+        "x0": 76.56,
+        "y0": 381.57,
+        "x1": 680.79,
+        "y1": 450.21
+      },
+      {
+        "text": "PRESENÇA",
+        "x0": 73.4,
+        "y0": 1004.3,
+        "x1": 185.16,
+        "y1": 1023.8
+      },
+      {
+        "text": "BRILHO",
+        "x0": 391.4,
+        "y0": 1004.3,
+        "x1": 467.31,
+        "y1": 1019.3
+      },
+      {
+        "text": "EQUILÍBRIO",
+        "x0": 709.4,
+        "y0": 999.8,
+        "x1": 828.27,
+        "y1": 1019.3
+      },
+      {
+        "text": "Salve a inspiração para o próximo look.",
+        "x0": 73.0,
+        "y0": 1126.6,
+        "x1": 595.25,
+        "y1": 1157.2
+      },
+      {
+        "text": "@use_aurevi",
+        "x0": 73.68,
+        "y0": 1264.78,
+        "x1": 197.85,
+        "y1": 1282.23
+      },
+      {
+        "text": "INSPIRAÇÃO",
+        "x0": 893.2,
+        "y0": 1262.01,
+        "x1": 1007.43,
+        "y1": 1284.56
+      }
+    ]
+  },
+  {
+    "file": "02-redes/feed/09-conheca.svg",
+    "width": 1080,
+    "height": 1350,
+    "physical_mm": null,
+    "title": "09 — Convite à marca",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": [
+      {
+        "text": "Seu estilo.",
+        "x0": 79.21,
+        "y0": 791.33,
+        "x1": 472.69,
+        "y1": 867.34
+      },
+      {
+        "text": "Sua presença.",
+        "x0": 79.21,
+        "y0": 915.49,
+        "x1": 605.76,
+        "y1": 1009.33
+      },
+      {
+        "text": "Conheça a Aurevi.",
+        "x0": 77.02,
+        "y0": 1095.01,
+        "x1": 354.59,
+        "y1": 1128.16
+      },
+      {
+        "text": "@use_aurevi",
+        "x0": 73.68,
+        "y0": 1264.78,
+        "x1": 197.85,
+        "y1": 1282.23
+      },
+      {
+        "text": "@USE_AUREVI",
+        "x0": 870.79,
+        "y0": 1266.04,
+        "x1": 1006.48,
+        "y1": 1282.02
+      }
+    ]
+  },
+  {
+    "file": "02-redes/stories/01-manifesto.svg",
+    "width": 1080,
+    "height": 1920,
+    "physical_mm": null,
+    "title": "01 — Story manifesto",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": [
+      {
+        "text": "Elegante.",
+        "x0": 95.07,
+        "y0": 998.65,
+        "x1": 529.38,
+        "y1": 1125.39
+      },
+      {
+        "text": "Ousada.",
+        "x0": 96.17,
+        "y0": 1135.65,
+        "x1": 480.87,
+        "y1": 1228.64
+      },
+      {
+        "text": "Do seu jeito.",
+        "x0": 93.94,
+        "y0": 1285.0,
+        "x1": 694.57,
+        "y1": 1399.55
+      },
+      {
+        "text": "VISTA SUA PRESENÇA.",
+        "x0": 96.14,
+        "y0": 1569.42,
+        "x1": 433.72,
+        "y1": 1596.72
+      }
+    ]
+  },
+  {
+    "file": "02-redes/stories/02-editorial.svg",
+    "width": 1080,
+    "height": 1920,
+    "physical_mm": null,
+    "title": "02 — Story editorial",
+    "status": "Editorial conceitual",
+    "note": "Não anuncia peça real de estoque.",
+    "text_bounds": [
+      {
+        "text": "Presença que veste.",
+        "x0": 82.85,
+        "y0": 1643.64,
+        "x1": 647.04,
+        "y1": 1713.17
+      },
+      {
+        "text": "EDITORIAL CONCEITUAL · IA",
+        "x0": 81.4,
+        "y0": 1740.3,
+        "x1": 328.63,
+        "y1": 1755.3
+      }
+    ]
+  },
+  {
+    "file": "02-redes/stories/03-peca-template.svg",
+    "width": 1080,
+    "height": 1920,
+    "physical_mm": null,
+    "title": "03 — Story peça — modelo editável",
+    "status": "Template — preencher",
+    "note": "",
+    "text_bounds": [
+      {
+        "text": "AUREVI / PROVADOR",
+        "x0": 72.38,
+        "y0": 98.03,
+        "x1": 298.23,
+        "y1": 112.28
+      },
+      {
+        "text": "O look da vez.",
+        "x0": 85.1,
+        "y0": 234.6,
+        "x1": 653.78,
+        "y1": 311.35
+      },
+      {
+        "text": "SUA FOTO REAL AQUI",
+        "x0": 420.63,
+        "y0": 1071.62,
+        "x1": 658.2,
+        "y1": 1090.38
+      },
+      {
+        "text": "[Nome da peça]",
+        "x0": 86.22,
+        "y0": 1399.9,
+        "x1": 536.62,
+        "y1": 1475.9
+      },
+      {
+        "text": "[Tamanhos / cores]",
+        "x0": 84.06,
+        "y0": 1494.25,
+        "x1": 335.49,
+        "y1": 1526.32
+      },
+      {
+        "text": "FALE COM A GENTE NO DIRECT",
+        "x0": 353.66,
+        "y0": 1641.62,
+        "x1": 727.84,
+        "y1": 1660.38
+      }
+    ]
+  },
+  {
+    "file": "02-redes/stories/04-enquete-template.svg",
+    "width": 1080,
+    "height": 1920,
+    "physical_mm": null,
+    "title": "04 — Story interação",
+    "status": "Template — adicionar enquete",
+    "note": "",
+    "text_bounds": [
+      {
+        "text": "Qual detalhe",
+        "x0": 85.59,
+        "y0": 767.35,
+        "x1": 649.6,
+        "y1": 878.41
+      },
+      {
+        "text": "faz seu look?",
+        "x0": 82.66,
+        "y0": 893.24,
+        "x1": 634.51,
+        "y1": 977.48
+      },
+      {
+        "text": "RECORTE   /   DRAPEADO   /   ACESSÓRIO",
+        "x0": 81.61,
+        "y0": 1097.92,
+        "x1": 496.89,
+        "y1": 1120.35
+      },
+      {
+        "text": "Adicione uma enquete do Instagram",
+        "x0": 333.96,
+        "y0": 1371.88,
+        "x1": 745.04,
+        "y1": 1396.38
+      },
+      {
+        "text": "A SUA PRESENÇA COMEÇA NA ESCOLHA.",
+        "x0": 80.46,
+        "y0": 1643.1,
+        "x1": 539.73,
+        "y1": 1665.52
+      }
+    ]
+  },
+  {
+    "file": "02-redes/destaques/01-novidades.svg",
+    "width": 1080,
+    "height": 1080,
+    "physical_mm": null,
+    "title": "Destaque Novidades",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": [
+      {
+        "text": "NOVIDADES",
+        "x0": 451.32,
+        "y0": 724.42,
+        "x1": 629.7,
+        "y1": 745.42
+      }
+    ]
+  },
+  {
+    "file": "02-redes/destaques/02-looks.svg",
+    "width": 1080,
+    "height": 1080,
+    "physical_mm": null,
+    "title": "Destaque Looks",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": [
+      {
+        "text": "LOOKS",
+        "x0": 490.6,
+        "y0": 724.42,
+        "x1": 590.71,
+        "y1": 745.42
+      }
+    ]
+  },
+  {
+    "file": "02-redes/destaques/03-provador.svg",
+    "width": 1080,
+    "height": 1080,
+    "physical_mm": null,
+    "title": "Destaque Provador",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": [
+      {
+        "text": "PROVADOR",
+        "x0": 456.27,
+        "y0": 724.42,
+        "x1": 624.57,
+        "y1": 745.42
+      }
+    ]
+  },
+  {
+    "file": "02-redes/destaques/04-detalhes.svg",
+    "width": 1080,
+    "height": 1080,
+    "physical_mm": null,
+    "title": "Destaque Detalhes",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": [
+      {
+        "text": "DETALHES",
+        "x0": 460.67,
+        "y0": 724.43,
+        "x1": 620.35,
+        "y1": 745.42
+      }
+    ]
+  },
+  {
+    "file": "02-redes/destaques/05-aurevi.svg",
+    "width": 1080,
+    "height": 1080,
+    "physical_mm": null,
+    "title": "Destaque Aurevi",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": [
+      {
+        "text": "AUREVI",
+        "x0": 483.62,
+        "y0": 724.84,
+        "x1": 594.7,
+        "y1": 745.42
+      }
+    ]
+  },
+  {
+    "file": "02-redes/destaques/06-atendimento.svg",
+    "width": 1080,
+    "height": 1080,
+    "physical_mm": null,
+    "title": "Destaque Atendimento",
+    "status": "Arte de marca",
+    "note": "",
+    "text_bounds": [
+      {
+        "text": "ATENDIMENTO",
+        "x0": 426.14,
+        "y0": 724.42,
+        "x1": 653.58,
+        "y1": 745.42
+      }
+    ]
+  },
+  {
+    "file": "03-embalagens/tag-frente.svg",
+    "width": 660,
+    "height": 1060,
+    "physical_mm": [
+      66,
+      106
+    ],
+    "title": "Tag frente — 60 × 100 mm + sangria",
+    "status": "Arte de marca",
+    "note": "Corte 60×100 mm, sangria 3 mm; furo pelo fornecedor.",
+    "text_bounds": [
+      {
+        "text": "@use_aurevi",
+        "x0": 264.96,
+        "y0": 895.05,
+        "x1": 395.04,
+        "y1": 913.34
+      }
+    ]
+  },
+  {
+    "file": "03-embalagens/tag-verso.svg",
+    "width": 660,
+    "height": 1060,
+    "physical_mm": [
+      66,
+      106
+    ],
+    "title": "Tag verso — 60 × 100 mm + sangria",
+    "status": "Arte de marca",
+    "note": "Tag de marca; não substitui etiqueta de composição.",
+    "text_bounds": [
+      {
+        "text": "Elegância",
+        "x0": 83.34,
+        "y0": 414.41,
+        "x1": 387.78,
+        "y1": 498.31
+      },
+      {
+        "text": "com atitude.",
+        "x0": 82.88,
+        "y0": 505.82,
+        "x1": 480.74,
+        "y1": 567.08
+      },
+      {
+        "text": "Conheça nossos looks.",
+        "x0": 80.75,
+        "y0": 726.62,
+        "x1": 343.01,
+        "y1": 751.0
+      },
+      {
+        "text": "@use_aurevi",
+        "x0": 82.24,
+        "y0": 784.7,
+        "x1": 247.8,
+        "y1": 807.98
+      },
+      {
+        "text": "Vista sua presença.",
+        "x0": 80.14,
+        "y0": 899.7,
+        "x1": 328.06,
+        "y1": 926.72
+      }
+    ]
+  },
+  {
+    "file": "03-embalagens/cartao-agradecimento.svg",
+    "width": 960,
+    "height": 660,
+    "physical_mm": [
+      96,
+      66
+    ],
+    "title": "Cartão de agradecimento — 90 × 60 mm + sangria",
+    "status": "Arte de marca",
+    "note": "Corte 90×60 mm; sangria 3 mm.",
+    "text_bounds": [
+      {
+        "text": "Seu estilo merece",
+        "x0": 90.04,
+        "y0": 247.8,
+        "x1": 567.36,
+        "y1": 300.94
+      },
+      {
+        "text": "esse momento.",
+        "x0": 87.5,
+        "y0": 347.21,
+        "x1": 491.38,
+        "y1": 380.94
+      },
+      {
+        "text": "Obrigada por escolher a Aurevi.",
+        "x0": 85.75,
+        "y0": 477.62,
+        "x1": 439.25,
+        "y1": 502.38
+      },
+      {
+        "text": "@use_aurevi",
+        "x0": 86.84,
+        "y0": 548.33,
+        "x1": 222.84,
+        "y1": 567.45
+      }
+    ]
+  },
+  {
+    "file": "03-embalagens/cartao-marca.svg",
+    "width": 960,
+    "height": 660,
+    "physical_mm": [
+      96,
+      66
+    ],
+    "title": "Cartão da marca — 90 × 60 mm + sangria",
+    "status": "Arte de marca",
+    "note": "Corte 90×60 mm; sangria 3 mm.",
+    "text_bounds": [
+      {
+        "text": "@use_aurevi",
+        "x0": 400.17,
+        "y0": 510.43,
+        "x1": 559.82,
+        "y1": 532.87
+      }
+    ]
+  },
+  {
+    "file": "03-embalagens/adesivo-redondo.svg",
+    "width": 560,
+    "height": 560,
+    "physical_mm": [
+      56,
+      56
+    ],
+    "title": "Adesivo redondo — diâmetro 50 mm + sangria",
+    "status": "Arte de marca",
+    "note": "Faca circular 50 mm, centralizada; sangria 3 mm. Arte de fundo quadrada.",
+    "text_bounds": [
+      {
+        "text": "AUREVI",
+        "x0": 202.66,
+        "y0": 417.12,
+        "x1": 355.59,
+        "y1": 440.48
+      }
+    ]
+  },
+  {
+    "file": "03-embalagens/sacola-frente.svg",
+    "width": 1800,
+    "height": 2000,
+    "physical_mm": [
+      180,
+      200
+    ],
+    "title": "Frente de sacola — área gráfica 180 × 200 mm",
+    "status": "Arte de marca",
+    "note": "Área gráfica frontal, não é faca industrial; dimensões finais dependem da sacola.",
+    "text_bounds": [
+      {
+        "text": "@use_aurevi",
+        "x0": 772.87,
+        "y0": 1728.83,
+        "x1": 1027.12,
+        "y1": 1764.57
+      }
+    ]
+  },
+  {
+    "file": "03-embalagens/caixa-tampa.svg",
+    "width": 2200,
+    "height": 1600,
+    "physical_mm": [
+      220,
+      160
+    ],
+    "title": "Tampa de caixa — área gráfica 220 × 160 mm",
+    "status": "Arte de marca",
+    "note": "Área gráfica da tampa, não é faca industrial.",
+    "text_bounds": []
+  },
+  {
+    "file": "03-embalagens/padrao-AV.svg",
+    "width": 1000,
+    "height": 1000,
+    "physical_mm": [
+      100,
+      100
+    ],
+    "title": "Padrão AV — módulo 100 × 100 mm",
+    "status": "Arte de marca",
+    "note": "Módulo de repetição para papel de seda e interiores; sangramento decorativo nas bordas é intencional.",
+    "text_bounds": []
+  },
+  {
+    "file": "03-embalagens/mascaras-hot-stamping/tag.svg",
+    "width": 660,
+    "height": 1060,
+    "physical_mm": [
+      66.0,
+      106.0
+    ],
+    "title": "Máscara de hot stamping — tag",
+    "status": "Arte de marca",
+    "note": "Preto indica acabamento metálico; alinhar à arte correspondente. Não imprimir preto no lugar do metal.",
+    "text_bounds": []
+  },
+  {
+    "file": "03-embalagens/mascaras-hot-stamping/sacola.svg",
+    "width": 1800,
+    "height": 2000,
+    "physical_mm": [
+      180.0,
+      200.0
+    ],
+    "title": "Máscara de hot stamping — sacola",
+    "status": "Arte de marca",
+    "note": "Preto indica acabamento metálico; alinhar à arte correspondente. Não imprimir preto no lugar do metal.",
+    "text_bounds": []
+  },
+  {
+    "file": "03-embalagens/mascaras-hot-stamping/caixa.svg",
+    "width": 2200,
+    "height": 1600,
+    "physical_mm": [
+      220.0,
+      160.0
+    ],
+    "title": "Máscara de hot stamping — caixa",
+    "status": "Arte de marca",
+    "note": "Preto indica acabamento metálico; alinhar à arte correspondente. Não imprimir preto no lugar do metal.",
+    "text_bounds": []
+  }
+]

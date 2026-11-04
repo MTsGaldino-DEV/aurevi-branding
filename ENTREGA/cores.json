@@ -1,0 +1,20 @@
+{
+  "brand": "Aurevi",
+  "direction": "Essencial com personalidade",
+  "colors": {
+    "creme": "#F4EFE6",
+    "verde": "#203C32",
+    "coral": "#E98673",
+    "areia": "#D9CCBA",
+    "tinta": "#242824"
+  },
+  "ratios": {
+    "verde/creme": 10.45,
+    "tinta/creme": 13.06,
+    "verde/coral": 4.63,
+    "verde/areia": 7.58,
+    "creme/coral": 2.26
+  },
+  "screen": "sRGB",
+  "print": "Converter com perfil indicado pela gráfica; validar prova física."
+}

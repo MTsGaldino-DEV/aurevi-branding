@@ -1,0 +1,162 @@
+[
+  {
+    "file": "01-logos/logo-verde.svg",
+    "width": 1600,
+    "height": 530,
+    "title": "Aurevi — logo verde",
+    "text_bounds": [],
+    "physical_mm": null
+  },
+  {
+    "file": "01-logos/assinatura-verde.svg",
+    "width": 1600,
+    "height": 660,
+    "title": "Aurevi — assinatura verde",
+    "text_bounds": [
+      {
+        "text": "MODA FEMININA",
+        "bounds": [
+          605.2099999999999,
+          552.07,
+          996.6899999999999,
+          580.57
+        ],
+        "font": "Manrope",
+        "size": 38
+      }
+    ],
+    "physical_mm": null
+  },
+  {
+    "file": "01-logos/simbolo-verde.svg",
+    "width": 600,
+    "height": 600,
+    "title": "Aurevi — símbolo AV verde",
+    "text_bounds": [],
+    "physical_mm": null
+  },
+  {
+    "file": "01-logos/logo-creme.svg",
+    "width": 1600,
+    "height": 530,
+    "title": "Aurevi — logo creme",
+    "text_bounds": [],
+    "physical_mm": null
+  },
+  {
+    "file": "01-logos/assinatura-creme.svg",
+    "width": 1600,
+    "height": 660,
+    "title": "Aurevi — assinatura creme",
+    "text_bounds": [
+      {
+        "text": "MODA FEMININA",
+        "bounds": [
+          605.2099999999999,
+          552.07,
+          996.6899999999999,
+          580.57
+        ],
+        "font": "Manrope",
+        "size": 38
+      }
+    ],
+    "physical_mm": null
+  },
+  {
+    "file": "01-logos/simbolo-creme.svg",
+    "width": 600,
+    "height": 600,
+    "title": "Aurevi — símbolo AV creme",
+    "text_bounds": [],
+    "physical_mm": null
+  },
+  {
+    "file": "01-logos/logo-preto.svg",
+    "width": 1600,
+    "height": 530,
+    "title": "Aurevi — logo preto",
+    "text_bounds": [],
+    "physical_mm": null
+  },
+  {
+    "file": "01-logos/assinatura-preto.svg",
+    "width": 1600,
+    "height": 660,
+    "title": "Aurevi — assinatura preto",
+    "text_bounds": [
+      {
+        "text": "MODA FEMININA",
+        "bounds": [
+          605.2099999999999,
+          552.07,
+          996.6899999999999,
+          580.57
+        ],
+        "font": "Manrope",
+        "size": 38
+      }
+    ],
+    "physical_mm": null
+  },
+  {
+    "file": "01-logos/simbolo-preto.svg",
+    "width": 600,
+    "height": 600,
+    "title": "Aurevi — símbolo AV preto",
+    "text_bounds": [],
+    "physical_mm": null
+  },
+  {
+    "file": "01-logos/logo-branco.svg",
+    "width": 1600,
+    "height": 530,
+    "title": "Aurevi — logo branco",
+    "text_bounds": [],
+    "physical_mm": null
+  },
+  {
+    "file": "01-logos/assinatura-branco.svg",
+    "width": 1600,
+    "height": 660,
+    "title": "Aurevi — assinatura branco",
+    "text_bounds": [
+      {
+        "text": "MODA FEMININA",
+        "bounds": [
+          605.2099999999999,
+          552.07,
+          996.6899999999999,
+          580.57
+        ],
+        "font": "Manrope",
+        "size": 38
+      }
+    ],
+    "physical_mm": null
+  },
+  {
+    "file": "01-logos/simbolo-branco.svg",
+    "width": 600,
+    "height": 600,
+    "title": "Aurevi — símbolo AV branco",
+    "text_bounds": [],
+    "physical_mm": null
+  },
+  {
+    "file": "01-logos/avatar.svg",
+    "width": 1080,
+    "height": 1080,
+    "title": "Aurevi — avatar",
+    "text_bounds": [],
+    "physical_mm": null
+  },
+  {
+    "file": "01-logos/padrao-dobras.svg",
+    "width": 1200,
+    "height": 1200,
+    "title": "Aurevi — padrão de dobras",
+    "text_bounds": [],
+    "physical_mm": null
+  }
+]

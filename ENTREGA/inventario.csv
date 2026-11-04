@@ -1,0 +1,136 @@
+﻿arquivo;formato;bytes;largura_px;altura_px;medida_mm;estado;observacoes;sha256
+01-logos/assinatura-branco.png;png;36394;1600;660;;Marca — pronto;;0a19735f14eae851930cf295fa68cb012dd2606ee9603d40a58ba20c913db7f9
+01-logos/assinatura-branco.svg;svg;20578;1600;660;;Marca — pronto;;cb00c77e4c41d3375bb59063b2396bfa365d019e6fd3e6e22e84347b4947f130
+01-logos/assinatura-creme.png;png;46870;1600;660;;Marca — pronto;;e4b35f1d0550b1e5d4ac948c075c6882288b70893c71df5b13261cd0ad67b0e6
+01-logos/assinatura-creme.svg;svg;20577;1600;660;;Marca — pronto;;9c23c0bfe6065a3551ca8b98dd5707e7ca439f914f9f4d3ecc6a7f8085ede2d8
+01-logos/assinatura-preto.png;png;32945;1600;660;;Marca — pronto;;8ade4e7e94526ac3ef62a84708713886e8d168093139935eec7ee61ea8a71753
+01-logos/assinatura-preto.svg;svg;20577;1600;660;;Marca — pronto;;477d0eecfa2c01d7a872b9f5b5e62d393cb24b2f4fce49a06c5c829a0acaa400
+01-logos/assinatura-verde.png;png;47620;1600;660;;Marca — pronto;;fd28855ca2440236f7801daf439c41e615f26981bb73fc46688fa37e61505bd8
+01-logos/assinatura-verde.svg;svg;20577;1600;660;;Marca — pronto;;6ab1fcd913442a362bd6a3c009e23b4d67bfe48b1e503dd48e24f74a08576fbe
+01-logos/avatar.png;png;22371;1080;1080;;Marca — pronto;;28c0ac0a69a338391624ae956a0407eba77739f7c53df39fb59bfcaad5b38331
+01-logos/avatar.svg;svg;525;1080;1080;;Marca — pronto;;ecafc6a8d588a941e88baf243226fbfede2955c65ebf2697b5177b0211b8a2cd
+01-logos/logo-branco.png;png;30418;1600;530;;Marca — pronto;;bac7deb6dcd4c3861ababd41024643536b1673d9799ace0de08a1acfaaed5692
+01-logos/logo-branco.svg;svg;17072;1600;530;;Marca — pronto;;83cb6ace0ce5469b94cc7062f1c093e3ba6f6a39712b76640529acf3d4fcae86
+01-logos/logo-creme.png;png;39027;1600;530;;Marca — pronto;;7e189327853a92fdd53214fe5c19d7156403e723678d0a8410773dcd6152c0e9
+01-logos/logo-creme.svg;svg;17071;1600;530;;Marca — pronto;;4a0eca2227bb1383b67b19a2a4a657b920eac8167b3c0f5d2a705a22adbb7d9d
+01-logos/logo-preto.png;png;27449;1600;530;;Marca — pronto;;794c5c22ee360a12f9079df8cbe3d0080d6bc891f3e6ca6764c0183b6e55aa36
+01-logos/logo-preto.svg;svg;17071;1600;530;;Marca — pronto;;1e28030612bf74d480b8850e4c6ea9a2d0f933ade23e02a0a936c3cd825be5c2
+01-logos/logo-verde.png;png;39613;1600;530;;Marca — pronto;;87cdf08db25a02a1247a83d3b30a6c9c2f1cd3f94919bc83103ff219c4b767f7
+01-logos/logo-verde.svg;svg;17071;1600;530;;Marca — pronto;;98da575a0d8a8fd7fa541920db86049d86d000296e769538b48bdd62b45b845a
+01-logos/padrao-dobras.png;png;68273;1200;1200;;Marca — pronto;;a246b5ca6fb5adb1d39744cda2aa761551d57ce4358fcbea86c1387e1613b271
+01-logos/padrao-dobras.svg;svg;4320;1200;1200;;Marca — pronto;;fe0e0d5250efb97c5c7f1ce083d70dc9e6aa9f84bccca9d0175d7784a374de50
+01-logos/simbolo-branco.png;png;13887;600;600;;Marca — pronto;;ba04532b9841605e71db1270e45b253781a334874af3922ff18e446eeb5e7b81
+01-logos/simbolo-branco.svg;svg;414;600;600;;Marca — pronto;;1650e241b21e480a417aeddfcaa726c6ccb634e55e1a357b0bd478eeee226de7
+01-logos/simbolo-creme.png;png;17784;600;600;;Marca — pronto;;fa403899087812b46838a2f1d81c2462331d74c8a8615724e7d4173a888c825a
+01-logos/simbolo-creme.svg;svg;413;600;600;;Marca — pronto;;a62d4fb2bdc027c711510031b95240e59e8df7efd7dd90e62379ba91b793d202
+01-logos/simbolo-preto.png;png;12444;600;600;;Marca — pronto;;106d5b206e35dfda22ec752ec09725c9af24677c63841db90a9ed6d2c7cbe57b
+01-logos/simbolo-preto.svg;svg;413;600;600;;Marca — pronto;;5698035c96c002c5cd553dee9748825f32eb776fdbdd89be4db507681e6823c5
+01-logos/simbolo-verde.png;png;17476;600;600;;Marca — pronto;;e7a8a205e051e88e17d0e8701cb16672cd42599d54996332137dc02cdfb140b6
+01-logos/simbolo-verde.svg;svg;413;600;600;;Marca — pronto;;921585fc768ecfb61643c010dacf1f5bdc7f52628231e3862738c94478361ee9
+02-redes/destaques/comprar.png;png;32031;1080;1080;;Pronto — capa;;8f138d0ec4c7e2079b0adfd65a756b19268944756166451a3eb5986ac58bd965
+02-redes/destaques/comprar.svg;svg;597;1080;1080;;Pronto — capa;;829a99d045c677210a1effbce7c481e490fed3be0dd1c8d3b740e162987a992a
+02-redes/destaques/detalhes.png;png;27966;1080;1080;;Pronto — capa;;3f646efde3a30ddfc30e5f0f91818df11b817ae3d6c0eb54facc1e8ff4f50f66
+02-redes/destaques/detalhes.svg;svg;623;1080;1080;;Pronto — capa;;632d3e1c37eac0baad84213cf52ae6466775596942ea9403d0940dac0f14918b
+02-redes/destaques/duvidas.png;png;31312;1080;1080;;Pronto — capa;;6353eb2fe0e93e712f6963c88af2452ba033e166904f78a870859b2a222bcc47
+02-redes/destaques/duvidas.svg;svg;603;1080;1080;;Pronto — capa;;cffb872b5de6bb7ea20a9a9ed9baab87b0a906619a4f855bc60bbe3d291b9020
+02-redes/destaques/editaveis/comprar.svg;svg;1254316;1080;1080;;Editável — conferir fontes e conteúdo;;dfc62077b13acf7628ea26beb230985eeb17e18e771ab947e81f6a5354a8f425
+02-redes/destaques/editaveis/detalhes.svg;svg;1254342;1080;1080;;Editável — conferir fontes e conteúdo;;941bc527682eddceedece814336a328e7f7dac558cb691e87b4ec4ef78330096
+02-redes/destaques/editaveis/duvidas.svg;svg;1254322;1080;1080;;Editável — conferir fontes e conteúdo;;58df883fbf856bfaebcab1b03ba83c0eb8ae63942334ba2b28d202e990b91257
+02-redes/destaques/editaveis/looks.svg;svg;1254236;1080;1080;;Editável — conferir fontes e conteúdo;;89f37ce55ac223b39c416b771f10dbda55fe7a67acb93a35e8357c44d5b7fcf8
+02-redes/destaques/editaveis/novidades.svg;svg;1254241;1080;1080;;Editável — conferir fontes e conteúdo;;94dc207697e10aa353fa54dc5f8f6077b0ebd7dcaa380a2bc18421bf6bfa59da
+02-redes/destaques/editaveis/sobre.svg;svg;1254294;1080;1080;;Editável — conferir fontes e conteúdo;;b424f181fc1b6ec0c00fe408b7d80a70f9164d26c0f89ff8235ace162df8cd8f
+02-redes/destaques/looks.png;png;35901;1080;1080;;Pronto — capa;;4c0edc0086b7900739e5af42d74594f70acf782428b28ec248fc5321648c3bc5
+02-redes/destaques/looks.svg;svg;517;1080;1080;;Pronto — capa;;8b9d61aaeefe072d16d1b3612f346036e85188c8e39c21871e3b7b71536cbea9
+02-redes/destaques/novidades.png;png;30116;1080;1080;;Pronto — capa;;6d960ae9679ad0a7cd147eb8668d0a92a951d24205841cc0ea8f91f89cb07d6f
+02-redes/destaques/novidades.svg;svg;522;1080;1080;;Pronto — capa;;e8de06151cdf5a584755926db6c349bc3292c370419eb43e28132f99885d024a
+02-redes/destaques/sobre.png;png;29564;1080;1080;;Pronto — capa;;84f2839f8d7d727f6a0edfadde756b9bae2be33f802577186ee3d9c46f750b19
+02-redes/destaques/sobre.svg;svg;575;1080;1080;;Pronto — capa;;957397a495449cd388b6f86e4a79944e9aa1cf60c61eb6286abf7977c30bc79d
+02-redes/feed/01-apresentacao.png;png;84864;1080;1350;;Pronto — marca;;bac226211bb9c4bcdf7ec3d051d7c024ea9230435b405f27715f83b6b8f582f9
+02-redes/feed/01-apresentacao.svg;svg;123191;1080;1350;;Pronto — marca;;1204ab5b75079556f1505bcc568887718ae620f15fcd2bf957cf180e3257033c
+02-redes/feed/02-manifesto.png;png;83628;1080;1350;;Pronto — marca;;c466693c6ea2f0dbee404116864147fb95406d68f797a9c04728016abeb17415
+02-redes/feed/02-manifesto.svg;svg;189035;1080;1350;;Pronto — marca;;3544ca80c277839ce43b7652c0c4882a2d42f4b5d37dbeedc85c8aebff05b8a7
+02-redes/feed/03-editorial-looks.png;png;1188909;1080;1350;;Editorial conceitual;"Imagem gerada; não representa peça do catálogo.";2aaabf49809a4b24ec5c895a77a0780e9111528fddd45e79f0044cd93b69fc4e
+02-redes/feed/03-editorial-looks.svg;svg;3152945;1080;1350;;Editorial conceitual;"Imagem gerada; não representa peça do catálogo.";03d855510cf2b507b29412f18e08d35366c63d975cf49f4b2f74dcf3b1ce829f
+02-redes/feed/04-detalhes-template.png;png;71881;1080;1350;;Template — adaptar;Trocar a área de foto, nome da peça e tecido por dados reais.;70846eb4d98c34ed2dcd010fe06a08bac9e01561a7c58b04c04b34fc0e70cd93
+02-redes/feed/04-detalhes-template.svg;svg;191391;1080;1350;;Template — adaptar;Trocar a área de foto, nome da peça e tecido por dados reais.;28e8fbda70dc513df8104a00d8faf36cde45025f33e67cf73a5c06e5ffaaa18d
+02-redes/feed/05-combinacoes.png;png;89219;1080;1350;;Pronto — inspiração;;d32d2480d7a86507a8e5b1e8e1f97a3f7f156b62c923da87009dacb71bad82fb
+02-redes/feed/05-combinacoes.svg;svg;182259;1080;1350;;Pronto — inspiração;;e14c29e2f0f373cc2a95e9c4a11fe5c1ab113d0663f98f58f22f0417b537bb2b
+02-redes/feed/06-bastidores-template.png;png;70900;1080;1350;;Template — adaptar;Inserir foto real e conferir se a descrição corresponde à operação.;5e1150693dcbbf8b4cdff60f648e4f11c6b96e8991bddd58ddeb858f91c4dba3
+02-redes/feed/06-bastidores-template.svg;svg;175027;1080;1350;;Template — adaptar;Inserir foto real e conferir se a descrição corresponde à operação.;a76a44493eeac46dbee786bf9b6069872d8089ac4daa252eb64b779ccb6f72eb
+02-redes/feed/07-seu-jeito.png;png;73690;1080;1350;;Pronto — interação;;9d766162185d2efba27983da82135820231c5c6ae366b80137873223d2651e99
+02-redes/feed/07-seu-jeito.svg;svg;139273;1080;1350;;Pronto — interação;;96f71f65012f49b7369803ed89788841b322d148ca1133a6b55d6cc6b131bfa0
+02-redes/feed/08-como-consultar.png;png;103002;1080;1350;;Pronto — atendimento;Definir canal e fluxo de compra antes de adicionar link ou botão externo.;4600b3b338b5b9e30a89d0adafa3abf5ea7d1699f8f759c59f3240249cce274b
+02-redes/feed/08-como-consultar.svg;svg;321795;1080;1350;;Pronto — atendimento;Definir canal e fluxo de compra antes de adicionar link ou botão externo.;f73bed456a6d69a0f04fba149eb0bd6be39613a9346c84aa71566601e320831f
+02-redes/feed/09-convite.png;png;74535;1080;1350;;Pronto — marca;;6717d60fb8048afb3b009ef9554e3a664cef98d4efed55497d890b86518c17b4
+02-redes/feed/09-convite.svg;svg;135552;1080;1350;;Pronto — marca;;c7df0eb1dc11eaa43eaf6d289f85f244b156927e4ccf2d1b012e81ebae2fbd64
+02-redes/feed/editaveis/01-apresentacao.svg;svg;1272678;1080;1350;;Editável — conferir fontes e conteúdo;;7b7c9b118cd03cdbc772fbec7fda3993ce13770399582ed3d423039b66a0aeb4
+02-redes/feed/editaveis/02-manifesto.svg;svg;1272957;1080;1350;;Editável — conferir fontes e conteúdo;;9f0265af0d6a55884e2c03b8a4dbb17e7e4b6d4fb8b9ccc1288f6bef441e5d6d
+02-redes/feed/editaveis/03-editorial-looks.svg;svg;4298506;1080;1350;;Editável — conferir fontes e conteúdo;"Imagem gerada; não representa peça do catálogo.";9934b3591022c4ff7c783ec7ce689d7c42f92f5eafc5aea59773e21a1cecd539
+02-redes/feed/editaveis/04-detalhes-template.svg;svg;1256381;1080;1350;;Editável — conferir fontes e conteúdo;Trocar a área de foto, nome da peça e tecido por dados reais.;47286aceec0bcaad5b894fb098dae04081338ec02ba48ed76d45a32d986fee9f
+02-redes/feed/editaveis/05-combinacoes.svg;svg;1273243;1080;1350;;Editável — conferir fontes e conteúdo;;295538d2bcc2c5623009aa1e929265e8369299c7205130b90a60fbb2d75a5ceb
+02-redes/feed/editaveis/06-bastidores-template.svg;svg;1256050;1080;1350;;Editável — conferir fontes e conteúdo;Inserir foto real e conferir se a descrição corresponde à operação.;d87ec32c6eeafa759db489cbf3884d88f0d07de95ffea7839eb52158470181dd
+02-redes/feed/editaveis/07-seu-jeito.svg;svg;1273714;1080;1350;;Editável — conferir fontes e conteúdo;;b472d14b02b9f217efdd56547bc049f8efc68b45fff78c959b2481c65813dccb
+02-redes/feed/editaveis/08-como-consultar.svg;svg;1257506;1080;1350;;Editável — conferir fontes e conteúdo;Definir canal e fluxo de compra antes de adicionar link ou botão externo.;95906421f05f7f6a349c0d6e3d7e69fc9e7c7778a41adb235a9489d6450efdd8
+02-redes/feed/editaveis/09-convite.svg;svg;1272398;1080;1350;;Editável — conferir fontes e conteúdo;;8d76687775b13884def47fe05d9a2e96920a91057292765c32d2c713e6c636be
+02-redes/stories/01-boas-vindas.png;png;82150;1080;1920;;Pronto — marca;;941045fd1b55fa8f95f1733c0bf6da05e660260be7ace4a16952c15c7cee1217
+02-redes/stories/01-boas-vindas.svg;svg;156014;1080;1920;;Pronto — marca;;b73e605b21fbbe927c87262e4deac08314069b72021c931552417362fe332a2b
+02-redes/stories/02-editorial.png;png;1519764;1080;1920;;Editorial conceitual;"Imagem gerada; substituir por catálogo real para anunciar produtos.";5824a50be577e7c570b0497087a14df786f43140d29898fd995f401477259e3b
+02-redes/stories/02-editorial.svg;svg;3117484;1080;1920;;Editorial conceitual;"Imagem gerada; substituir por catálogo real para anunciar produtos.";650e9d1d98a89201347bb834905b1c37c3b7d0e26fb8aa94ed408968df8b6461
+02-redes/stories/03-enquete-template.png;png;77447;1080;1920;;Template — adicionar enquete;"Sobrepor sticker de enquete no Instagram; o PNG não tem interação.";baaebd6367179233578aac177745d77127c24c610a3f33d694941314e6560416
+02-redes/stories/03-enquete-template.svg;svg;113765;1080;1920;;Template — adicionar enquete;"Sobrepor sticker de enquete no Instagram; o PNG não tem interação.";a72f12e733e6e474ce979f8e15a95ce21b4061cbd89029b05edb560dbd207a28
+02-redes/stories/04-peca-template.png;png;65179;1080;1920;;Template — adaptar;Inserir foto, nome, preço, tamanhos, estoque e canal reais antes de publicar.;3b67494194f293940a8b378d1c27fbf38a8e080c0596c240e5d01a067bf01835
+02-redes/stories/04-peca-template.svg;svg;153382;1080;1920;;Template — adaptar;Inserir foto, nome, preço, tamanhos, estoque e canal reais antes de publicar.;ecc58d95088fcd61504e4675384169b4319c2e3ff6eb4fff1ecc9a6f2b38c6d3
+02-redes/stories/editaveis/01-boas-vindas.svg;svg;1272379;1080;1920;;Editável — conferir fontes e conteúdo;;ba06caa74487f60a2cfb39d53a59e41983cad0160c824bf0c23bb8b8862b4f94
+02-redes/stories/editaveis/02-editorial.svg;svg;4298184;1080;1920;;Editável — conferir fontes e conteúdo;"Imagem gerada; substituir por catálogo real para anunciar produtos.";34f42de52abf9f0fd8e2e5c49ea5952c1b89809c839a6b14d463ca9b5c994e61
+02-redes/stories/editaveis/03-enquete-template.svg;svg;1255826;1080;1920;;Editável — conferir fontes e conteúdo;"Sobrepor sticker de enquete no Instagram; o PNG não tem interação.";1a0affb73af9e041dd92a8a0ce4221610529c8f128c3f1dc7c64b5d0ae75b5bb
+02-redes/stories/editaveis/04-peca-template.svg;svg;1272457;1080;1920;;Editável — conferir fontes e conteúdo;Inserir foto, nome, preço, tamanhos, estoque e canal reais antes de publicar.;96d6094b24f55cdff703772006fbd979491a2d3f634c19961024d734f006f91f
+03-embalagens/adesivo-lacre.pdf;pdf;1266;;;[56, 56];Arte de embalagem — validar gráfica;"Corte circular Ø50mm centrado; arquivo 56×56mm; sangria 3mm. Faca separada com a gráfica.";3011cf5777f26d99fe0bae2f88d1ff21d13c9da8227a8f4b23663d4c5a380586
+03-embalagens/adesivo-lacre.png;png;8738;560;560;[56, 56];Arte de embalagem — validar gráfica;"Corte circular Ø50mm centrado; arquivo 56×56mm; sangria 3mm. Faca separada com a gráfica.";352b428c9885c8894c76b7cf8a5e5ec2f2633256f81256888ae53a19462bea82
+03-embalagens/adesivo-lacre.svg;svg;505;560;560;[56, 56];Arte de embalagem — validar gráfica;"Corte circular Ø50mm centrado; arquivo 56×56mm; sangria 3mm. Faca separada com a gráfica.";20bcd230bc80610d0e6ca270f32d3b4a218b6f18818460ee64ec60d9b907c9ba
+03-embalagens/cartao-frente.pdf;pdf;32088;;;[96, 61];Arte de embalagem — validar gráfica;"Corte 90×55mm; arquivo 96×61mm; sangria 3mm.";ccbea11aaf6cbfe4a25d016ae0e50436571c689d6c66efb2c4ef030c522eb88b
+03-embalagens/cartao-frente.png;png;37550;960;610;[96, 61];Arte de embalagem — validar gráfica;"Corte 90×55mm; arquivo 96×61mm; sangria 3mm.";3a1f57faa72d1e8f6ffd7a272433c02ad7fd07219d945e93ac7be9c137ca77f8
+03-embalagens/cartao-frente.svg;svg;83310;960;610;[96, 61];Arte de embalagem — validar gráfica;"Corte 90×55mm; arquivo 96×61mm; sangria 3mm.";f32aaa11e656b4f750dd13807e4ff9a0c12f6aa36d65c7e63a6ae06dad21b623
+03-embalagens/cartao-verso.pdf;pdf;76031;;;[96, 61];Arte de embalagem — validar gráfica;Não inclui cupom nem regra de troca não confirmada.;3cb5b4a9a1d8bdd0282d760aa48285eea392d884d2bb9767c0b4ae978d4cba56
+03-embalagens/cartao-verso.png;png;49531;960;610;[96, 61];Arte de embalagem — validar gráfica;Não inclui cupom nem regra de troca não confirmada.;2b197248fddf5f61e485c065f15b65ed5a868bcdc92211e9614e0f8d72d4298e
+03-embalagens/cartao-verso.svg;svg;224430;960;610;[96, 61];Arte de embalagem — validar gráfica;Não inclui cupom nem regra de troca não confirmada.;fac04388388db5ebdec7289a7b349d481a0f8f07659de977ab75c3ad3c790e4a
+03-embalagens/editaveis/adesivo-lacre.svg;svg;1254224;560;560;[56, 56];Editável — conferir fontes e conteúdo;"Corte circular Ø50mm centrado; arquivo 56×56mm; sangria 3mm. Faca separada com a gráfica.";413c87927b2024768b350eccaf0706b647d71027c3976b84140eb9bbe9001f62
+03-embalagens/editaveis/cartao-frente.svg;svg;1271823;960;610;[96, 61];Editável — conferir fontes e conteúdo;"Corte 90×55mm; arquivo 96×61mm; sangria 3mm.";a6696baa7ae0e38ba47f56768832796b6b6fbd46117b0073766ff9de54417c39
+03-embalagens/editaveis/cartao-verso.svg;svg;1271892;960;610;[96, 61];Editável — conferir fontes e conteúdo;Não inclui cupom nem regra de troca não confirmada.;bd8e682eb9844d1d136613e26e202d77784e1f7226ede814a1adaf85bc5600e6
+03-embalagens/editaveis/sacola-aplicacao-creme.svg;svg;1271065;1400;880;;Editável — conferir fontes e conteúdo;Versão creme para substrato verde escuro.;f4267ee07f192e251b1dca0d510c4a7bd59e8043e05794b3899f480d6554bded
+03-embalagens/editaveis/sacola-aplicacao.svg;svg;1271059;1400;880;;Editável — conferir fontes e conteúdo;"Arte transparente; escala e gabarito definidos pelo fabricante da sacola.";f2f133f47809e0993d318791dc64fe9da42b458df4d440814c1299a74b90e44c
+03-embalagens/editaveis/tag-frente.svg;svg;1271373;610;1010;[61, 101];Editável — conferir fontes e conteúdo;"Corte 55×95mm; arquivo 61×101mm; sangria 3mm; furo a definir no gabarito.";4b99f6edca2347c0a590ae1bcbbd1faaa0dbbeeae841a8c0dbe03bf38f3c9a48
+03-embalagens/editaveis/tag-verso.svg;svg;1272239;610;1010;[61, 101];Editável — conferir fontes e conteúdo;Campos para preenchimento. Não substitui etiqueta de composição/cuidados. Corte 55×95mm, sangria 3mm.;70fe19078f0a71b1f1f053002261107ca2dd1fc5b7b7b07ad58d4cdfcfec9502
+03-embalagens/sacola-aplicacao-creme.png;png;49629;1400;880;;Estudo de aplicação;Versão creme para substrato verde escuro.;183b17c79acd774a34884a7a9ed78c114390c9c52e6c1ebd5e669bf7c07f9ce9
+03-embalagens/sacola-aplicacao-creme.svg;svg;31839;1400;880;;Estudo de aplicação;Versão creme para substrato verde escuro.;3715d76058b9854ad3fa502609d7640e42ad5dc10f369b1eb9e8570074be0fda
+03-embalagens/sacola-aplicacao.png;png;50524;1400;880;;Estudo de aplicação;"Arte transparente; escala e gabarito definidos pelo fabricante da sacola.";0a8a664d59a39c3e38bbad39f85d7488dcef1ff9bd702e4c25b8f95cfc60f81a
+03-embalagens/sacola-aplicacao.svg;svg;31833;1400;880;;Estudo de aplicação;"Arte transparente; escala e gabarito definidos pelo fabricante da sacola.";33487611cc538e2603a1d1eef69dc912a0deca216a84bfe8d474bc99d98918d6
+03-embalagens/tag-frente.pdf;pdf;14785;;;[61, 101];Arte de embalagem — validar gráfica;"Corte 55×95mm; arquivo 61×101mm; sangria 3mm; furo a definir no gabarito.";a6cb233178f57eadf3b87648f42cb4f3081fef4b4a8bb5fa4add35afd337b72b
+03-embalagens/tag-frente.png;png;26228;610;1010;[61, 101];Arte de embalagem — validar gráfica;"Corte 55×95mm; arquivo 61×101mm; sangria 3mm; furo a definir no gabarito.";9072f4e890a7a0ca58a4cdc8a0c549baed91445fc711bd5b891844586f58d663
+03-embalagens/tag-frente.svg;svg;31356;610;1010;[61, 101];Arte de embalagem — validar gráfica;"Corte 55×95mm; arquivo 61×101mm; sangria 3mm; furo a definir no gabarito.";8559b34aacb2e32803333417d289addee17ea1d1de21eb52da62e5f188973735
+03-embalagens/tag-verso.pdf;pdf;20785;;;[61, 101];Arte de embalagem — validar gráfica;Campos para preenchimento. Não substitui etiqueta de composição/cuidados. Corte 55×95mm, sangria 3mm.;c5003ea6258bf3db56ac794c210431cbb45964400a50c8efc3bec10ed451c9d7
+03-embalagens/tag-verso.png;png;21808;610;1010;[61, 101];Arte de embalagem — validar gráfica;Campos para preenchimento. Não substitui etiqueta de composição/cuidados. Corte 55×95mm, sangria 3mm.;03cbe48dd2ae9bdb51b147713fd1958c5399fc3a90e8e173d7e6c068e88320ca
+03-embalagens/tag-verso.svg;svg;45215;610;1010;[61, 101];Arte de embalagem — validar gráfica;Campos para preenchimento. Não substitui etiqueta de composição/cuidados. Corte 55×95mm, sangria 3mm.;5cb125f1039c2a5af6ed224fddec45c4a22d414f0b5c4fd92212d8b7f9aaffa3
+04-conteudo/Guia-de-conteudo.html;html;13845;;;;Recurso de apoio;;0c817bd613049ea7b1436a49d6471944d81bf32193f8dc482e02447a0c97b53c
+04-conteudo/Guia-de-conteudo.md;md;10340;;;;Recurso de apoio;;2e2e42c3b69f28be7b2de31b460aa8971df376c79e792dbe76414e4096d3c528
+04-conteudo/Guia-de-conteudo.pdf;pdf;329970;;;;Recurso de apoio;;2eee2b2779deb591ada5c425669caf3ca6d05cf9f6c98311e11e3bf6ccb8b5a8
+04-conteudo/Ideias-para-a-loja.html;html;6442;;;;Recurso de apoio;;b54a03dcd749be5b083de6886086d468dafb61ca124430de40f3ba44776c08e5
+04-conteudo/Ideias-para-a-loja.md;md;4474;;;;Recurso de apoio;;1923d79a387aa169a68e646108c20086f6c761db8d4ccc2ca254fdfc84ae278f
+04-conteudo/Ideias-para-a-loja.pdf;pdf;138540;;;;Recurso de apoio;;c81b7ed918b830fd8f88ef25c67b299dc697cb0315892dcc3730e99c87e5ca22
+05-editorial/editorial-conceitual.png;png;2269688;1122;1402;;Recurso de apoio;;dc6bd8c7ca5724a50c219c92a27aa907f49de5a00e0261d887e8add14ee11dd2
+05-editorial/LEIA-ME.txt;txt;1987;;;;Recurso de apoio;;d5df0d5fe1be61f6d9bee86e34e1a6360ba71ab30151675c3a3ee013b869780a
+06-fontes/Fraunces-Italic.ttf;ttf;414904;;;;Recurso de apoio;;b24448c43702fac4ee856781d461a0dfba8d8e594b6e8e190234b75fed2c0e01
+06-fontes/Fraunces-LICENCA.txt;txt;4391;;;;Recurso de apoio;;bdf4c22802eaf804f998195871c6b8938aac2ac14b2d78a8bd66a6f1eced833b
+06-fontes/Fraunces.ttf;ttf;360440;;;;Recurso de apoio;;177ff6c0f14e5550a3c624247cd1189611d4eb65d000b14944c63d967958abbb
+06-fontes/Manrope-LICENCA.txt;txt;4387;;;;Recurso de apoio;;58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b
+06-fontes/Manrope.ttf;ttf;164700;;;;Recurso de apoio;;3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6
+07-mockups-kittl/01-sacola.png;png;1576847;1080;1080;;Mockup Kittl — estudo de aplicação;;461f53d0ba1ba0830e49512009067c379d50fe1d3c548bb30fa3623e51b95e48
+07-mockups-kittl/02-ecobag.png;png;905787;1080;1080;;Mockup Kittl — estudo de aplicação;;08d03ab01ffcbf31f18de0d40e80573c1eed93601d92975c6f15399b003f149a
+07-mockups-kittl/03-tag-clara.png;png;1537790;1080;1080;;Mockup Kittl — estudo de aplicação;;1222a55c65fbe12731797e90a662106aba68bd76a0217091bb25e3da532f516e
+07-mockups-kittl/04-cartao.png;png;2288208;1080;1080;;Mockup Kittl — estudo de aplicação;;2ed2428ee6d5f535bedf3613abbf23f7a40cd13f8b98e9487151802186d6411d
+07-mockups-kittl/LEIA-ME.md;md;2672;;;;Mockup Kittl — estudo de aplicação;;d11ee81de7614e4d91b8161866320549e29108a30767f7cb1b9738a5baae71ee
+07-mockups-kittl/links.json;json;3847;;;;Mockup Kittl — estudo de aplicação;;77d7a7eabac134e4fd41328180291656a24b458f8161a62bbee2e4041765bad3
+COMECE-AQUI.html;html;38553;;;;Recurso de apoio;;683709b8cfdbabdce7f7df91bed073d6d0e38c54e35d9fff03bf0aef3db8dbea
+cores.json;json;473;;;;Recurso de apoio;;6558caa84ab47ad671ab15095d6f2d47ef6c698f9efa50552d1a056d634db489
+LEIA-ME.md;md;4645;;;;Recurso de apoio;;7e87d494b2a76ab1aa5f62529752b1b05245c305166d98af5013053b1d734625
+Manual-Aurevi.pdf;pdf;18790160;;;;Recurso de apoio;;40d0efdf4193c5d07f9b87f20fcf3e0a731ff8b922be709d52304cfdf45c0836
+Visao-geral-Aurevi.png;png;1076602;1800;1540;;Recurso de apoio;;5762e0a04ab6c7d8a86714b2b8792c61bb8ccd7fd9b5ae600462b1aba0b439f9

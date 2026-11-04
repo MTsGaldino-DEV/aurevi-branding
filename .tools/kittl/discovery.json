@@ -1,0 +1,6 @@
+[
+ {"tool":"kittl-list-teams","arguments":{},"output":"teams.json"},
+ {"tool":"kittl-search-mockup-templates","arguments":{"search":"shopping bag","take":8},"output":"templates-sacolas.json"},
+ {"tool":"kittl-search-mockup-templates","arguments":{"search":"hang tag","take":6},"output":"templates-tags.json"},
+ {"tool":"kittl-search-mockup-templates","arguments":{"search":"business card","take":6},"output":"templates-cartoes.json"}
+]

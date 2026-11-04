@@ -1,0 +1,1014 @@
+{
+  "total": 250,
+  "passed": 250,
+  "failed": [],
+  "contraste": {
+    "marfim_sobre_vermelho": 14.95,
+    "ouro_sobre_vermelho": 8.23,
+    "grafite_sobre_marfim": 14.41,
+    "vermelho_sobre_cinza": 5.66,
+    "ouro_sobre_marfim": 1.82
+  },
+  "checks": [
+    {
+      "check": "01-marca/AV-sangue.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-sangue.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-sangue.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-sangue.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-sangue.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-sangue.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-sangue.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-sangue.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-sangue.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-sangue.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-sangue.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-sangue.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-sangue.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-sangue.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-sangue.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-sangue.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-sangue.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-sangue.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-sangue.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-sangue.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-ouro.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-ouro.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-ouro.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-ouro.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-ouro.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-ouro.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-ouro.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-ouro.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-ouro.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-ouro.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-ouro.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-ouro.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-ouro.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-ouro.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-ouro.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-ouro.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-ouro.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-ouro.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-ouro.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-ouro.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-marfim.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-marfim.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-marfim.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-marfim.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-marfim.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-marfim.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-marfim.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-marfim.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-marfim.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-marfim.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-marfim.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-marfim.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-marfim.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-marfim.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-marfim.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-marfim.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-marfim.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-marfim.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-marfim.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-marfim.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-grafite.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-grafite.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-grafite.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-grafite.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-grafite.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-grafite.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-grafite.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-grafite.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-grafite.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-grafite.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-grafite.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-grafite.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-grafite.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-grafite.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-grafite.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-grafite.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-grafite.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-grafite.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-grafite.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-grafite.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-metalico.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-metalico.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-metalico.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-metalico.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AV-metalico.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-metalico.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-metalico.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-metalico.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-metalico.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/AUREVI-metalico.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-metalico.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-metalico.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-metalico.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-metalico.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/principal-metalico.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-metalico.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-metalico.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-metalico.svg transparente",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-metalico.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "01-marca/horizontal-metalico.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/avatares/avatar-vermelho.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/avatares/avatar-vermelho.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/avatares/avatar-vermelho.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/avatares/avatar-vermelho.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/avatares/avatar-cinza.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/avatares/avatar-cinza.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/avatares/avatar-cinza.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/avatares/avatar-cinza.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/01-elegante-ousada.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/01-elegante-ousada.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/01-elegante-ousada.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/01-elegante-ousada.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/02-editorial.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/02-editorial.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/02-editorial.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/02-editorial.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/03-ouro-vida.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/03-ouro-vida.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/03-ouro-vida.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/03-ouro-vida.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/05-peca-template.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/05-peca-template.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/05-peca-template.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/05-peca-template.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/06-presenca.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/06-presenca.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/06-presenca.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/06-presenca.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/07-provador-template.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/07-provador-template.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/07-provador-template.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/07-provador-template.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/08-combinacoes.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/08-combinacoes.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/08-combinacoes.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/08-combinacoes.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/09-conheca.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/09-conheca.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/09-conheca.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/feed/09-conheca.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/01-manifesto.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/01-manifesto.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/01-manifesto.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/01-manifesto.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/02-editorial.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/02-editorial.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/02-editorial.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/02-editorial.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/03-peca-template.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/03-peca-template.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/03-peca-template.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/03-peca-template.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/04-enquete-template.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/04-enquete-template.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/04-enquete-template.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/stories/04-enquete-template.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/01-novidades.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/01-novidades.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/01-novidades.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/01-novidades.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/02-looks.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/02-looks.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/02-looks.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/02-looks.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/03-provador.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/03-provador.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/03-provador.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/03-provador.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/04-detalhes.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/04-detalhes.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/04-detalhes.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/04-detalhes.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/05-aurevi.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/05-aurevi.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/05-aurevi.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/05-aurevi.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/06-atendimento.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/06-atendimento.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/06-atendimento.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "02-redes/destaques/06-atendimento.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/tag-frente.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/tag-frente.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/tag-frente.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/tag-frente.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/tag-frente.svg PDF físico",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/tag-verso.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/tag-verso.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/tag-verso.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/tag-verso.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/tag-verso.svg PDF físico",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/cartao-agradecimento.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/cartao-agradecimento.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/cartao-agradecimento.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/cartao-agradecimento.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/cartao-agradecimento.svg PDF físico",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/cartao-marca.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/cartao-marca.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/cartao-marca.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/cartao-marca.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/cartao-marca.svg PDF físico",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/adesivo-redondo.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/adesivo-redondo.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/adesivo-redondo.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/adesivo-redondo.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/adesivo-redondo.svg PDF físico",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/sacola-frente.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/sacola-frente.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/sacola-frente.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/sacola-frente.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/sacola-frente.svg PDF físico",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/caixa-tampa.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/caixa-tampa.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/caixa-tampa.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/caixa-tampa.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/caixa-tampa.svg PDF físico",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/padrao-AV.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/padrao-AV.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/padrao-AV.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/padrao-AV.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/padrao-AV.svg PDF físico",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/tag.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/tag.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/tag.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/tag.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/tag.svg PDF físico",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/sacola.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/sacola.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/sacola.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/sacola.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/sacola.svg PDF físico",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/caixa.svg SVG válido",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/caixa.svg dimensão PNG",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/caixa.svg textos dentro",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/caixa.svg sem imagem externa",
+      "ok": true
+    },
+    {
+      "check": "03-embalagens/mascaras-hot-stamping/caixa.svg PDF físico",
+      "ok": true
+    },
+    {
+      "check": "Manual com 18 páginas",
+      "ok": true
+    },
+    {
+      "check": "Texto do manual extraível",
+      "ok": true
+    },
+    {
+      "check": "Nove posts",
+      "ok": true
+    },
+    {
+      "check": "Quatro stories",
+      "ok": true
+    },
+    {
+      "check": "Seis destaques",
+      "ok": true
+    },
+    {
+      "check": "Dois avatares",
+      "ok": true
+    },
+    {
+      "check": "Textos editáveis",
+      "ok": true
+    },
+    {
+      "check": "CormorantGaramond fonte e licença",
+      "ok": true
+    },
+    {
+      "check": "Manrope fonte e licença",
+      "ok": true
+    },
+    {
+      "check": "Navegador offline e limites",
+      "ok": true
+    },
+    {
+      "check": "Contraste dos textos principais",
+      "ok": true
+    }
+  ]
+}

@@ -1,0 +1,1510 @@
+[
+  {
+    "file": "02-redes/feed/01-apresentacao.svg",
+    "width": 1080,
+    "height": 1350,
+    "title": "01 — Apresentação Aurevi",
+    "text_bounds": [
+      {
+        "text": "BOM GOSTO. DO SEU JEITO.",
+        "bounds": [
+          73.4,
+          95.3,
+          421.9533333333334,
+          110.3
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "Seu jeito,",
+        "bounds": [
+          77.47502155911585,
+          737.325184371229,
+          523.7433262401125,
+          846.8034623127843
+        ],
+        "font": "Fraunces",
+        "size": 116
+      },
+      {
+        "text": "bem vestido.",
+        "bounds": [
+          72.97822651548071,
+          866.3594762677681,
+          694.7706210622814,
+          953.2821134065896
+        ],
+        "font": "Fraunces",
+        "size": 116
+      },
+      {
+        "text": "Prazer, somos a Aurevi.",
+        "bounds": [
+          78.03,
+          1108.975,
+          377.63866666666667,
+          1133.08125
+        ],
+        "font": "Manrope",
+        "size": 29
+      },
+      {
+        "text": "@use_aurevi",
+        "bounds": [
+          73.6,
+          1277.45,
+          193.71,
+          1294.23
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "01 / A MARCA",
+        "bounds": [
+          896.787,
+          1278.77,
+          1007.6370000000001,
+          1292.27
+        ],
+        "font": "Manrope",
+        "size": 18
+      }
+    ],
+    "physical_mm": null,
+    "status": "Pronto — marca",
+    "notes": "",
+    "kind": "feed"
+  },
+  {
+    "file": "02-redes/feed/02-manifesto.svg",
+    "width": 1080,
+    "height": 1350,
+    "title": "02 — Manifesto",
+    "text_bounds": [
+      {
+        "text": "Vestir bem",
+        "bounds": [
+          72.89175059349283,
+          315.5001117437441,
+          661.3808259572712,
+          411.41474582796087
+        ],
+        "font": "Fraunces",
+        "size": 128
+      },
+      {
+        "text": "é se sentir",
+        "bounds": [
+          75.91220817958762,
+          468.69923595725714,
+          618.4435967428062,
+          556.4147458279608
+        ],
+        "font": "Fraunces",
+        "size": 128
+      },
+      {
+        "text": "você.",
+        "bounds": [
+          71.98220120685501,
+          615.4064541904153,
+          347.48316806872447,
+          701.4051369235056
+        ],
+        "font": "Fraunces",
+        "size": 128
+      },
+      {
+        "text": "Tem dias de sair. Dias de ficar.",
+        "bounds": [
+          76.31,
+          957.215,
+          490.97633333333323,
+          980.465
+        ],
+        "font": "Manrope",
+        "size": 31
+      },
+      {
+        "text": "E tantos jeitos de ser a gente.",
+        "bounds": [
+          78.17,
+          1008.525,
+          492.7898333333332,
+          1038.905
+        ],
+        "font": "Manrope",
+        "size": 31
+      },
+      {
+        "text": "A Aurevi combina com o seu.",
+        "bounds": [
+          76.62,
+          1059.525,
+          476.2978333333333,
+          1082.465
+        ],
+        "font": "Manrope",
+        "size": 31
+      },
+      {
+        "text": "@use_aurevi",
+        "bounds": [
+          73.6,
+          1277.45,
+          193.71,
+          1294.23
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "02 / NOSSO JEITO",
+        "bounds": [
+          857.826,
+          1278.77,
+          1007.4630000000001,
+          1292.27
+        ],
+        "font": "Manrope",
+        "size": 18
+      }
+    ],
+    "physical_mm": null,
+    "status": "Pronto — marca",
+    "notes": "",
+    "kind": "feed"
+  },
+  {
+    "file": "02-redes/feed/03-editorial-looks.svg",
+    "width": 1080,
+    "height": 1350,
+    "title": "03 — Um look, mais de um plano",
+    "text_bounds": [
+      {
+        "text": "IDEIA DE LOOK",
+        "bounds": [
+          797.5705,
+          71.83,
+          944.1858333333333,
+          88.33
+        ],
+        "font": "Manrope",
+        "size": 22
+      },
+      {
+        "text": "Um look, mais de um plano.",
+        "bounds": [
+          66.68703883837134,
+          1109.750055871872,
+          822.2215840343622,
+          1171.9530654401017
+        ],
+        "font": "Fraunces",
+        "size": 64
+      },
+      {
+        "text": "Combine com o seu dia.",
+        "bounds": [
+          68.84,
+          1199.42,
+          369.8213333333333,
+          1220.42
+        ],
+        "font": "Manrope",
+        "size": 28
+      },
+      {
+        "text": "EDITORIAL CONCEITUAL • IMAGEM GERADA POR IA",
+        "bounds": [
+          70.1,
+          1282.95,
+          759.3099999999998,
+          1305.45
+        ],
+        "font": "Manrope",
+        "size": 30
+      }
+    ],
+    "physical_mm": null,
+    "status": "Editorial conceitual",
+    "notes": "Imagem gerada; não representa peça do catálogo.",
+    "kind": "feed"
+  },
+  {
+    "file": "02-redes/feed/04-detalhes-template.svg",
+    "width": 1080,
+    "height": 1350,
+    "title": "04 — Template detalhes",
+    "text_bounds": [
+      {
+        "text": "UM OLHAR MAIS DE PERTO",
+        "bounds": [
+          73.4,
+          95.3,
+          406.16333333333336,
+          110.3
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "O detalhe faz parte.",
+        "bounds": [
+          75.23867227103328,
+          181.5078875778281,
+          785.3452535461741,
+          265.0931816851367
+        ],
+        "font": "Fraunces",
+        "size": 86
+      },
+      {
+        "text": "INSIRA A FOTO REAL",
+        "bounds": [
+          430.446,
+          577.36,
+          651.114,
+          595.36
+        ],
+        "font": "Manrope",
+        "size": 24
+      },
+      {
+        "text": "DO DETALHE DA PEÇA",
+        "bounds": [
+          420.462,
+          620.36,
+          660.738,
+          643.772
+        ],
+        "font": "Manrope",
+        "size": 24
+      },
+      {
+        "text": "Textura, acabamento e movimento.",
+        "bounds": [
+          72.31,
+          982.525,
+          568.7388333333332,
+          1008.29375
+        ],
+        "font": "Manrope",
+        "size": 31
+      },
+      {
+        "text": "Mostre o que a foto de longe não conta.",
+        "bounds": [
+          74.17,
+          1031.0083333333334,
+          632.0563333333331,
+          1061.905
+        ],
+        "font": "Manrope",
+        "size": 31
+      },
+      {
+        "text": "[Nome da peça] • [tecido conferido]",
+        "bounds": [
+          75.36,
+          1112.616,
+          475.71600000000007,
+          1139.772
+        ],
+        "font": "Manrope",
+        "size": 24
+      },
+      {
+        "text": "@use_aurevi",
+        "bounds": [
+          73.6,
+          1277.45,
+          193.71,
+          1294.23
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "04 / DETALHES",
+        "bounds": [
+          882.909,
+          1278.77,
+          1007.3430000000001,
+          1292.27
+        ],
+        "font": "Manrope",
+        "size": 18
+      }
+    ],
+    "physical_mm": null,
+    "status": "Template — adaptar",
+    "notes": "Trocar a área de foto, nome da peça e tecido por dados reais.",
+    "kind": "feed"
+  },
+  {
+    "file": "02-redes/feed/05-combinacoes.svg",
+    "width": 1080,
+    "height": 1350,
+    "title": "05 — Guia de combinações",
+    "text_bounds": [
+      {
+        "text": "Cor que conversa.",
+        "bounds": [
+          75.40053991081606,
+          279.95551250526637,
+          770.6718147988587,
+          366.2716665490301
+        ],
+        "font": "Fraunces",
+        "size": 91
+      },
+      {
+        "text": "Look que funciona.",
+        "bounds": [
+          76.13078400953718,
+          385.8164856928181,
+          816.5813147988589,
+          474.2716665490301
+        ],
+        "font": "Fraunces",
+        "size": 91
+      },
+      {
+        "text": "CREME + VERDE",
+        "bounds": [
+          139.655,
+          992.3,
+          299.94500000000005,
+          1007.3
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "CORAL + CREME",
+        "bounds": [
+          458.39500000000004,
+          992.3,
+          621.205,
+          1007.3
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "VERDE + AREIA",
+        "bounds": [
+          784.95,
+          992.6,
+          934.7466666666667,
+          1007.0
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "Salve para testar com o que você já tem.",
+        "bounds": [
+          72.93333333333334,
+          1118.16,
+          583.2613333333335,
+          1146.72
+        ],
+        "font": "Manrope",
+        "size": 28
+      },
+      {
+        "text": "@use_aurevi",
+        "bounds": [
+          73.6,
+          1277.45,
+          193.71,
+          1294.23
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "05 / COMBINAÇÕES",
+        "bounds": [
+          842.22,
+          1274.984,
+          1007.3430000000001,
+          1296.338
+        ],
+        "font": "Manrope",
+        "size": 18
+      }
+    ],
+    "physical_mm": null,
+    "status": "Pronto — inspiração",
+    "notes": "",
+    "kind": "feed"
+  },
+  {
+    "file": "02-redes/feed/06-bastidores-template.svg",
+    "width": 1080,
+    "height": 1350,
+    "title": "06 — Template bastidores",
+    "text_bounds": [
+      {
+        "text": "POR AQUI, CADA ESCOLHA IMPORTA.",
+        "bounds": [
+          73.4,
+          95.3,
+          538.2433333333333,
+          112.43762711864406
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "Por trás do look.",
+        "bounds": [
+          76.38253058028364,
+          197.1250838078081,
+          747.6203760515433,
+          269.06105937097067
+        ],
+        "font": "Fraunces",
+        "size": 96
+      },
+      {
+        "text": "SUA FOTO DOS BASTIDORES",
+        "bounds": [
+          372.478,
+          817.36,
+          707.522,
+          835.36
+        ],
+        "font": "Manrope",
+        "size": 24
+      },
+      {
+        "text": "Da escolha das peças ao cuidado",
+        "bounds": [
+          74.17,
+          1067.215,
+          541.6396666666667,
+          1097.44
+        ],
+        "font": "Manrope",
+        "size": 31
+      },
+      {
+        "text": "com cada pedido. Vem ver de perto.",
+        "bounds": [
+          73.24,
+          1115.525,
+          570.5058333333333,
+          1145.44
+        ],
+        "font": "Manrope",
+        "size": 31
+      },
+      {
+        "text": "@use_aurevi",
+        "bounds": [
+          73.6,
+          1277.45,
+          193.71,
+          1294.23
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "06 / BASTIDORES",
+        "bounds": [
+          862.605,
+          1278.77,
+          1007.3430000000001,
+          1292.27
+        ],
+        "font": "Manrope",
+        "size": 18
+      }
+    ],
+    "physical_mm": null,
+    "status": "Template — adaptar",
+    "notes": "Inserir foto real e conferir se a descrição corresponde à operação.",
+    "kind": "feed"
+  },
+  {
+    "file": "02-redes/feed/07-seu-jeito.svg",
+    "width": 1080,
+    "height": 1350,
+    "title": "07 — Conversa com a comunidade",
+    "text_bounds": [
+      {
+        "text": "ME CONTA UMA COISA:",
+        "bounds": [
+          73.54,
+          313.83,
+          366.50033333333334,
+          330.33
+        ],
+        "font": "Manrope",
+        "size": 22
+      },
+      {
+        "text": "Hoje você",
+        "bounds": [
+          77.55806986186687,
+          391.0,
+          578.2317862637291,
+          502.7277196339148
+        ],
+        "font": "Fraunces",
+        "size": 120
+      },
+      {
+        "text": "vai de…",
+        "bounds": [
+          71.98331363142657,
+          526.4063547597601,
+          451.67668648545566,
+          616.3194278330913
+        ],
+        "font": "Fraunces",
+        "size": 120
+      },
+      {
+        "text": "01",
+        "bounds": [
+          112.68,
+          822.36,
+          133.656,
+          840.36
+        ],
+        "font": "Manrope",
+        "size": 24
+      },
+      {
+        "text": "Um básico com presença",
+        "bounds": [
+          180.1,
+          816.375,
+          525.73,
+          847.215
+        ],
+        "font": "Manrope",
+        "size": 30
+      },
+      {
+        "text": "02",
+        "bounds": [
+          112.68,
+          953.36,
+          139.296,
+          971.36
+        ],
+        "font": "Manrope",
+        "size": 24
+      },
+      {
+        "text": "Uma cor pra mudar o dia",
+        "bounds": [
+          180.1,
+          949.175,
+          511.97499999999997,
+          978.2
+        ],
+        "font": "Manrope",
+        "size": 30
+      },
+      {
+        "text": "03",
+        "bounds": [
+          112.68,
+          1084.36,
+          138.696,
+          1102.36
+        ],
+        "font": "Manrope",
+        "size": 24
+      },
+      {
+        "text": "Um look que já é favorito",
+        "bounds": [
+          180.1,
+          1078.375,
+          517.3,
+          1109.2
+        ],
+        "font": "Manrope",
+        "size": 30
+      },
+      {
+        "text": "@use_aurevi",
+        "bounds": [
+          73.6,
+          1277.45,
+          193.71,
+          1294.23
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "07 / CONVERSA",
+        "bounds": [
+          877.482,
+          1278.77,
+          1007.637,
+          1292.27
+        ],
+        "font": "Manrope",
+        "size": 18
+      }
+    ],
+    "physical_mm": null,
+    "status": "Pronto — interação",
+    "notes": "",
+    "kind": "feed"
+  },
+  {
+    "file": "02-redes/feed/08-como-consultar.svg",
+    "width": 1080,
+    "height": 1350,
+    "title": "08 — Como consultar uma peça",
+    "text_bounds": [
+      {
+        "text": "PODE CHEGAR. A GENTE CONVERSA.",
+        "bounds": [
+          73.4,
+          95.3,
+          530.3033333333334,
+          110.3
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "Gostou?",
+        "bounds": [
+          75.71930903593862,
+          267.328908304045,
+          427.8396545050804,
+          340.49413176850163
+        ],
+        "font": "Fraunces",
+        "size": 99
+      },
+      {
+        "text": "Vamos conversar.",
+        "bounds": [
+          72.68971334965461,
+          386.7,
+          825.361512803154,
+          457.0942174763135
+        ],
+        "font": "Fraunces",
+        "size": 99
+      },
+      {
+        "text": "1",
+        "bounds": [
+          98.225,
+          639.0,
+          104.27499999999999,
+          657.0
+        ],
+        "font": "Manrope",
+        "size": 25
+      },
+      {
+        "text": "Mande a referência.",
+        "bounds": [
+          159.59401437367953,
+          628.992224165916,
+          513.2159145225502,
+          660.4617997415819
+        ],
+        "font": "Fraunces",
+        "size": 42
+      },
+      {
+        "text": "Uma foto ou o nome da peça já ajuda.",
+        "bounds": [
+          160.89,
+          692.94,
+          616.5104999999999,
+          720.48
+        ],
+        "font": "Manrope",
+        "size": 27
+      },
+      {
+        "text": "2",
+        "bounds": [
+          95.9125,
+          802.625,
+          108.08749999999999,
+          820.9833333333333
+        ],
+        "font": "Manrope",
+        "size": 25
+      },
+      {
+        "text": "Conte o seu jeito.",
+        "bounds": [
+          160.56947995883817,
+          793.9794673101229,
+          463.9289145225502,
+          833.7047018718702
+        ],
+        "font": "Fraunces",
+        "size": 42
+      },
+      {
+        "text": "Ocasião, tamanho e o que você prefere.",
+        "bounds": [
+          159.81,
+          857.48,
+          645.3735,
+          884.48
+        ],
+        "font": "Manrope",
+        "size": 27
+      },
+      {
+        "text": "3",
+        "bounds": [
+          95.85,
+          967.0,
+          107.64999999999999,
+          985.3416666666667
+        ],
+        "font": "Manrope",
+        "size": 25
+      },
+      {
+        "text": "Confira os detalhes.",
+        "bounds": [
+          160.56947995883817,
+          956.992224165916,
+          514.6859145225502,
+          988.6958685371052
+        ],
+        "font": "Fraunces",
+        "size": 42
+      },
+      {
+        "text": "Consulte medidas e disponibilidade.",
+        "bounds": [
+          159.81,
+          1022.155,
+          603.4155000000001,
+          1048.48
+        ],
+        "font": "Manrope",
+        "size": 27
+      },
+      {
+        "text": "@use_aurevi",
+        "bounds": [
+          73.6,
+          1277.45,
+          193.71,
+          1294.23
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "08 / ATENDIMENTO",
+        "bounds": [
+          847.521,
+          1278.77,
+          1007.463,
+          1292.27
+        ],
+        "font": "Manrope",
+        "size": 18
+      }
+    ],
+    "physical_mm": null,
+    "status": "Pronto — atendimento",
+    "notes": "Definir canal e fluxo de compra antes de adicionar link ou botão externo.",
+    "kind": "feed"
+  },
+  {
+    "file": "02-redes/feed/09-convite.svg",
+    "width": 1080,
+    "height": 1350,
+    "title": "09 — Convite Aurevi",
+    "text_bounds": [
+      {
+        "text": "Tem espaço",
+        "bounds": [
+          279.55666411799984,
+          586.0651785075477,
+          799.6241075574449,
+          684.0650896926637
+        ],
+        "font": "Fraunces",
+        "size": 103
+      },
+      {
+        "text": "pro seu jeito.",
+        "bounds": [
+          259.26882958169455,
+          712.5548539343554,
+          818.9201118053018,
+          806.0650896926637
+        ],
+        "font": "Fraunces",
+        "size": 103
+      },
+      {
+        "text": "Inspiração para vestir a vida como ela é.",
+        "bounds": [
+          263.3405,
+          910.82,
+          816.5303333333333,
+          942.44
+        ],
+        "font": "Manrope",
+        "size": 31
+      },
+      {
+        "text": "@use_aurevi",
+        "bounds": [
+          73.6,
+          1277.45,
+          193.71,
+          1294.23
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "09 / VEM COM A GENTE",
+        "bounds": [
+          812.826,
+          1278.77,
+          1007.0999999999999,
+          1292.27
+        ],
+        "font": "Manrope",
+        "size": 18
+      }
+    ],
+    "physical_mm": null,
+    "status": "Pronto — marca",
+    "notes": "",
+    "kind": "feed"
+  },
+  {
+    "file": "02-redes/stories/01-boas-vindas.svg",
+    "width": 1080,
+    "height": 1920,
+    "title": "Story 01 — Manifesto Aurevi",
+    "text_bounds": [
+      {
+        "text": "Seu jeito,",
+        "bounds": [
+          77.94700617628101,
+          780.1980450928868,
+          562.6867164332255,
+          899.1141056156105
+        ],
+        "font": "Fraunces",
+        "size": 126
+      },
+      {
+        "text": "bem vestido.",
+        "bounds": [
+          73.06255638750491,
+          921.9766724977482,
+          748.4577435676507,
+          1016.392640424399
+        ],
+        "font": "Fraunces",
+        "size": 126
+      },
+      {
+        "text": "Esse é o nosso ponto de partida.",
+        "bounds": [
+          78.24,
+          1165.04,
+          549.1146666666666,
+          1197.68
+        ],
+        "font": "Manrope",
+        "size": 32
+      },
+      {
+        "text": "Conheça a Aurevi.",
+        "bounds": [
+          346.8184285224264,
+          1509.0859811499001,
+          733.0606125268454,
+          1556.520072710749
+        ],
+        "font": "Fraunces",
+        "size": 50
+      },
+      {
+        "text": "@use_aurevi",
+        "bounds": [
+          73.92,
+          1722.54,
+          218.05200000000002,
+          1742.676
+        ],
+        "font": "Manrope",
+        "size": 24
+      }
+    ],
+    "physical_mm": null,
+    "status": "Pronto — marca",
+    "notes": "",
+    "kind": "stories"
+  },
+  {
+    "file": "02-redes/stories/02-editorial.svg",
+    "width": 1080,
+    "height": 1920,
+    "title": "Story 02 — Editorial conceitual",
+    "text_bounds": [
+      {
+        "text": "Um look.",
+        "bounds": [
+          75.44276851166327,
+          1439.4610090858362,
+          388.1274045440266,
+          1501.2423016550233
+        ],
+        "font": "Fraunces",
+        "size": 82
+      },
+      {
+        "text": "Vários planos.",
+        "bounds": [
+          72.57127772395634,
+          1534.4610090858362,
+          564.8784045440266,
+          1614.1586150951302
+        ],
+        "font": "Fraunces",
+        "size": 82
+      },
+      {
+        "text": "EDITORIAL CONCEITUAL • IMAGEM GERADA POR IA",
+        "bounds": [
+          74.1,
+          1645.95,
+          763.3099999999998,
+          1668.45
+        ],
+        "font": "Manrope",
+        "size": 30
+      }
+    ],
+    "physical_mm": null,
+    "status": "Editorial conceitual",
+    "notes": "Imagem gerada; substituir por catálogo real para anunciar produtos.",
+    "kind": "stories"
+  },
+  {
+    "file": "02-redes/stories/03-enquete-template.svg",
+    "width": 1080,
+    "height": 1920,
+    "title": "Story 03 — Enquete de cores",
+    "text_bounds": [
+      {
+        "text": "QUAL É A SUA COMBINAÇÃO?",
+        "bounds": [
+          72.6,
+          285.5,
+          438.43666666666667,
+          309.82
+        ],
+        "font": "Manrope",
+        "size": 20
+      },
+      {
+        "text": "O look começa",
+        "bounds": [
+          75.76589798957357,
+          516.1719622998,
+          708.3088838988389,
+          611.0401454214979
+        ],
+        "font": "Fraunces",
+        "size": 100
+      },
+      {
+        "text": "com o seu jeito.",
+        "bounds": [
+          75.11057955078114,
+          642.5775280916072,
+          726.5712250536909,
+          733.1064330282622
+        ],
+        "font": "Fraunces",
+        "size": 100
+      },
+      {
+        "text": "VERDE + CREME",
+        "bounds": [
+          215.6705,
+          1393.83,
+          379.33950000000004,
+          1410.33
+        ],
+        "font": "Manrope",
+        "size": 22
+      },
+      {
+        "text": "AREIA + CORAL",
+        "bounds": [
+          703.4390000000001,
+          1393.83,
+          858.6746666666667,
+          1410.33
+        ],
+        "font": "Manrope",
+        "size": 22
+      },
+      {
+        "text": "ADICIONE UMA ENQUETE AQUI",
+        "bounds": [
+          368.634,
+          1604.36,
+          709.9300000000001,
+          1622.36
+        ],
+        "font": "Manrope",
+        "size": 24
+      },
+      {
+        "text": "@use_aurevi",
+        "bounds": [
+          73.92,
+          1762.54,
+          218.05200000000002,
+          1782.676
+        ],
+        "font": "Manrope",
+        "size": 24
+      }
+    ],
+    "physical_mm": null,
+    "status": "Template — adicionar enquete",
+    "notes": "Sobrepor sticker de enquete no Instagram; o PNG não tem interação.",
+    "kind": "stories"
+  },
+  {
+    "file": "02-redes/stories/04-peca-template.svg",
+    "width": 1080,
+    "height": 1920,
+    "title": "Story 04 — Template de peça",
+    "text_bounds": [
+      {
+        "text": "INSIRA SUA FOTO REAL",
+        "bounds": [
+          393.875,
+          824.42,
+          687.945,
+          845.42
+        ],
+        "font": "Manrope",
+        "size": 28
+      },
+      {
+        "text": "[Nome da peça]",
+        "bounds": [
+          78.62375223249984,
+          1343.1992894628381,
+          608.3250976018282,
+          1421.9249734476286
+        ],
+        "font": "Fraunces",
+        "size": 81
+      },
+      {
+        "text": "[Tamanhos e cores disponíveis]",
+        "bounds": [
+          76.06,
+          1459.248,
+          489.6,
+          1491.96
+        ],
+        "font": "Manrope",
+        "size": 29
+      },
+      {
+        "text": "[Preço e condição conferidos]",
+        "bounds": [
+          76.06,
+          1514.248,
+          468.8795,
+          1546.96
+        ],
+        "font": "Manrope",
+        "size": 29
+      },
+      {
+        "text": "CONSULTE OS DETALHES",
+        "bounds": [
+          224.18125,
+          1646.625,
+          519.65625,
+          1665.375
+        ],
+        "font": "Manrope",
+        "size": 25
+      },
+      {
+        "text": "@use_aurevi",
+        "bounds": [
+          73.92,
+          1767.54,
+          218.05200000000002,
+          1787.676
+        ],
+        "font": "Manrope",
+        "size": 24
+      }
+    ],
+    "physical_mm": null,
+    "status": "Template — adaptar",
+    "notes": "Inserir foto, nome, preço, tamanhos, estoque e canal reais antes de publicar.",
+    "kind": "stories"
+  },
+  {
+    "file": "02-redes/destaques/novidades.svg",
+    "width": 1080,
+    "height": 1080,
+    "title": "Destaque — Novidades",
+    "text_bounds": [],
+    "physical_mm": null,
+    "status": "Pronto — capa",
+    "notes": "",
+    "kind": "destaques"
+  },
+  {
+    "file": "02-redes/destaques/looks.svg",
+    "width": 1080,
+    "height": 1080,
+    "title": "Destaque — Looks",
+    "text_bounds": [],
+    "physical_mm": null,
+    "status": "Pronto — capa",
+    "notes": "",
+    "kind": "destaques"
+  },
+  {
+    "file": "02-redes/destaques/detalhes.svg",
+    "width": 1080,
+    "height": 1080,
+    "title": "Destaque — Detalhes",
+    "text_bounds": [],
+    "physical_mm": null,
+    "status": "Pronto — capa",
+    "notes": "",
+    "kind": "destaques"
+  },
+  {
+    "file": "02-redes/destaques/sobre.svg",
+    "width": 1080,
+    "height": 1080,
+    "title": "Destaque — Sobre",
+    "text_bounds": [],
+    "physical_mm": null,
+    "status": "Pronto — capa",
+    "notes": "",
+    "kind": "destaques"
+  },
+  {
+    "file": "02-redes/destaques/duvidas.svg",
+    "width": 1080,
+    "height": 1080,
+    "title": "Destaque — Dúvidas",
+    "text_bounds": [],
+    "physical_mm": null,
+    "status": "Pronto — capa",
+    "notes": "",
+    "kind": "destaques"
+  },
+  {
+    "file": "02-redes/destaques/comprar.svg",
+    "width": 1080,
+    "height": 1080,
+    "title": "Destaque — Comprar",
+    "text_bounds": [],
+    "physical_mm": null,
+    "status": "Pronto — capa",
+    "notes": "",
+    "kind": "destaques"
+  },
+  {
+    "file": "03-embalagens/tag-frente.svg",
+    "width": 610,
+    "height": 1010,
+    "title": "Tag frente — 55×95mm + sangria 3mm",
+    "text_bounds": [
+      {
+        "text": "Seu jeito, bem vestido.",
+        "bounds": [
+          181.726,
+          792.3679724137932,
+          427.05400000000003,
+          815.76
+        ],
+        "font": "Manrope",
+        "size": 24
+      }
+    ],
+    "physical_mm": [
+      61,
+      101
+    ],
+    "status": "Arte de embalagem — validar gráfica",
+    "notes": "Corte 55×95mm; arquivo 61×101mm; sangria 3mm; furo a definir no gabarito.",
+    "kind": "print"
+  },
+  {
+    "file": "03-embalagens/tag-verso.svg",
+    "width": 610,
+    "height": 1010,
+    "title": "Tag verso — 55×95mm + sangria 3mm",
+    "text_bounds": [
+      {
+        "text": "DO SEU JEITO.",
+        "bounds": [
+          86.68,
+          312.36,
+          267.25999999999993,
+          330.36
+        ],
+        "font": "Manrope",
+        "size": 24
+      },
+      {
+        "text": "PEÇA",
+        "bounds": [
+          86.19,
+          442.505,
+          133.93916666666667,
+          459.097
+        ],
+        "font": "Manrope",
+        "size": 17
+      },
+      {
+        "text": "TAMANHO",
+        "bounds": [
+          85.17,
+          577.505,
+          179.92033333333333,
+          590.255
+        ],
+        "font": "Manrope",
+        "size": 17
+      },
+      {
+        "text": "REFERÊNCIA",
+        "bounds": [
+          86.19,
+          708.85,
+          203.25466666666665,
+          725.255
+        ],
+        "font": "Manrope",
+        "size": 17
+      },
+      {
+        "text": "@use_aurevi",
+        "bounds": [
+          86.84,
+          893.2675,
+          224.9665,
+          912.5645000000001
+        ],
+        "font": "Manrope",
+        "size": 23
+      }
+    ],
+    "physical_mm": [
+      61,
+      101
+    ],
+    "status": "Arte de embalagem — validar gráfica",
+    "notes": "Campos para preenchimento. Não substitui etiqueta de composição/cuidados. Corte 55×95mm, sangria 3mm.",
+    "kind": "print"
+  },
+  {
+    "file": "03-embalagens/cartao-frente.svg",
+    "width": 960,
+    "height": 610,
+    "title": "Cartão frente — 90×55mm + sangria 3mm",
+    "text_bounds": [
+      {
+        "text": "Que bom ter você",
+        "bounds": [
+          87.26256325300243,
+          319.2266166258761,
+          551.5560895695933,
+          373.43696272940355
+        ],
+        "font": "Fraunces",
+        "size": 62
+      },
+      {
+        "text": "por aqui.",
+        "bounds": [
+          86.37668868024329,
+          396.19806741679645,
+          319.1251595332884,
+          452.49278380263587
+        ],
+        "font": "Fraunces",
+        "size": 62
+      },
+      {
+        "text": "@use_aurevi",
+        "bounds": [
+          86.76,
+          518.995,
+          218.881,
+          537.4530000000001
+        ],
+        "font": "Manrope",
+        "size": 22
+      }
+    ],
+    "physical_mm": [
+      96,
+      61
+    ],
+    "status": "Arte de embalagem — validar gráfica",
+    "notes": "Corte 90×55mm; arquivo 96×61mm; sangria 3mm.",
+    "kind": "print"
+  },
+  {
+    "file": "03-embalagens/cartao-verso.svg",
+    "width": 960,
+    "height": 610,
+    "title": "Cartão verso — 90×55mm + sangria 3mm",
+    "text_bounds": [
+      {
+        "text": "Obrigada por escolher a Aurevi.",
+        "bounds": [
+          86.61933613551663,
+          143.25394378891406,
+          671.142126773087,
+          185.55707267405467
+        ],
+        "font": "Fraunces",
+        "size": 43
+      },
+      {
+        "text": "Esperamos que essa escolha acompanhe",
+        "bounds": [
+          86.82,
+          262.89,
+          576.9222233856893,
+          288.24
+        ],
+        "font": "Manrope",
+        "size": 26
+      },
+      {
+        "text": "muitos momentos do seu jeito.",
+        "bounds": [
+          86.81133333333334,
+          310.15,
+          448.5016666666666,
+          335.24
+        ],
+        "font": "Manrope",
+        "size": 26
+      },
+      {
+        "text": "Se quiser compartilhar seu look, marque a gente.",
+        "bounds": [
+          85.86666666666666,
+          356.89,
+          662.1046666666666,
+          382.63
+        ],
+        "font": "Manrope",
+        "size": 26
+      }
+    ],
+    "physical_mm": [
+      96,
+      61
+    ],
+    "status": "Arte de embalagem — validar gráfica",
+    "notes": "Não inclui cupom nem regra de troca não confirmada.",
+    "kind": "print"
+  },
+  {
+    "file": "03-embalagens/adesivo-lacre.svg",
+    "width": 560,
+    "height": 560,
+    "title": "Adesivo circular — diâmetro 50mm + sangria 3mm",
+    "text_bounds": [],
+    "physical_mm": [
+      56,
+      56
+    ],
+    "status": "Arte de embalagem — validar gráfica",
+    "notes": "Corte circular Ø50mm centrado; arquivo 56×56mm; sangria 3mm. Faca separada com a gráfica.",
+    "kind": "print"
+  },
+  {
+    "file": "03-embalagens/sacola-aplicacao.svg",
+    "width": 1400,
+    "height": 880,
+    "title": "Arte de aplicação na sacola — sem gabarito",
+    "text_bounds": [
+      {
+        "text": "Seu jeito, bem vestido.",
+        "bounds": [
+          422.6335,
+          665.3279379310345,
+          974.6215,
+          717.96
+        ],
+        "font": "Manrope",
+        "size": 54
+      }
+    ],
+    "physical_mm": null,
+    "status": "Estudo de aplicação",
+    "notes": "Arte transparente; escala e gabarito definidos pelo fabricante da sacola.",
+    "kind": "print"
+  },
+  {
+    "file": "03-embalagens/sacola-aplicacao-creme.svg",
+    "width": 1400,
+    "height": 880,
+    "title": "Arte creme de aplicação na sacola — sem gabarito",
+    "text_bounds": [
+      {
+        "text": "Seu jeito, bem vestido.",
+        "bounds": [
+          422.6335,
+          665.3279379310345,
+          974.6215,
+          717.96
+        ],
+        "font": "Manrope",
+        "size": 54
+      }
+    ],
+    "physical_mm": null,
+    "status": "Estudo de aplicação",
+    "notes": "Versão creme para substrato verde escuro.",
+    "kind": "print"
+  }
+]

@@ -1,0 +1,273 @@
+{
+  "view": "mockup-templates",
+  "templates": [
+    {
+      "id": 5853,
+      "name": "The Noon Shift Collection #5853",
+      "premium": false,
+      "slots": [
+        {
+          "centerX": 0.4923893550576849,
+          "centerY": 0.552672773486846,
+          "maxSize": 0.1987538892790217
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1750832944088.preview.jpeg@webp"
+    },
+    {
+      "id": 3126,
+      "name": "Dopamine Overdose Collection #3126",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.4735121708894845,
+          "centerY": 0.4732927749602082,
+          "maxSize": 0.16622281719757637
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1747386980758.preview.jpeg@webp"
+    },
+    {
+      "id": 4703,
+      "name": "Of Balm and Bloom Collection #4703",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.3620301730094266,
+          "centerY": 0.4105893322069546,
+          "maxSize": 0.1377480048242583
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1750149205785.preview.jpeg@webp"
+    },
+    {
+      "id": 2788,
+      "name": "Dusty Glow Collection #2788",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.4496627073996882,
+          "centerY": 0.38339600400013535,
+          "maxSize": 0.08241182964515335
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1746263582920.preview.jpeg@webp"
+    },
+    {
+      "id": 12975,
+      "name": "House Blend Collection #12975",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.3768330253616987,
+          "centerY": 0.6012331298397007,
+          "maxSize": 0.2
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1769710921785.preview.jpeg@webp"
+    },
+    {
+      "id": 9752,
+      "name": "Blackout Deals Collection #9752",
+      "premium": false,
+      "slots": [
+        {
+          "centerX": 0.40655776832439844,
+          "centerY": 0.5072494263205907,
+          "maxSize": 0.09468918595881552
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1759672012256.preview.jpeg@webp"
+    },
+    {
+      "id": 18763,
+      "name": "Spotlight Collection #18763",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.36261355758573616,
+          "centerY": 0.3704907039842648,
+          "maxSize": 0.16595664802899557
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1789379726311.preview.jpeg@webp"
+    },
+    {
+      "id": 19226,
+      "name": "Object Study Collection #19226",
+      "premium": false,
+      "slots": [
+        {
+          "centerX": 0.4575153177420272,
+          "centerY": 0.4838286307109494,
+          "maxSize": 0.22366857266505566
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1791123467681.preview.jpeg@webp"
+    },
+    {
+      "id": 12938,
+      "name": "House Blend Collection #12938",
+      "premium": false,
+      "slots": [
+        {
+          "centerX": 0.4325112467735328,
+          "centerY": 0.4898766870160296,
+          "maxSize": 0.2
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1769707546606.preview.jpeg@webp"
+    },
+    {
+      "id": 12819,
+      "name": "Be my Valentine Collection #12819",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.5414932565010718,
+          "centerY": 0.7731756088702806,
+          "maxSize": 0.1100286748070315
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1769143250632.preview.jpeg@webp"
+    },
+    {
+      "id": 2713,
+      "name": "Little Voyagers Collection #2713",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.3984187036121235,
+          "centerY": 0.5271484811536984,
+          "maxSize": 0.1693426622955252
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1745501556221.preview.jpeg@webp"
+    },
+    {
+      "id": 9901,
+      "name": "Gift O’Clock Collection #9901",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.45526578007156115,
+          "centerY": 0.664628558399938,
+          "maxSize": 0.2338621151156657
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1760069900639.preview.jpeg@webp"
+    },
+    {
+      "id": 2702,
+      "name": "Earthbound Collection #2702",
+      "premium": false,
+      "slots": [
+        {
+          "centerX": 0.36828905449511995,
+          "centerY": 0.5257904035225324,
+          "maxSize": 0.15409879869373527
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1745382579419.preview.jpeg@webp"
+    },
+    {
+      "id": 18518,
+      "name": "To Go Collection #18518",
+      "premium": false,
+      "slots": [
+        {
+          "centerX": 0.2800972989546396,
+          "centerY": 0.42826242866277925,
+          "maxSize": 0.1368848157473097
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1788856853576.preview.jpeg@webp"
+    },
+    {
+      "id": 507,
+      "name": "Paper Bags Collection #507",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.5380061771088954,
+          "centerY": 0.5766219697993475,
+          "maxSize": 0.30911930283113226
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1694532795906.preview.jpeg@webp"
+    },
+    {
+      "id": 8536,
+      "name": "Tutti Frutti Collection #8536",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.5202859150191599,
+          "centerY": 0.47658846042650216,
+          "maxSize": 0.24464365567375518
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1755763869214.preview.jpeg@webp"
+    },
+    {
+      "id": 71,
+      "name": "Tote Bags Collection #71",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.33292322278847053,
+          "centerY": 0.6817605279611687,
+          "maxSize": 0.23067611311655545
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1678894139303.preview.jpeg@webp"
+    },
+    {
+      "id": 4203,
+      "name": "House Blend Collection #4203",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.43116929160744866,
+          "centerY": 0.541597176984961,
+          "maxSize": 0.26365026642393397
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1749284178459.preview.jpeg@webp"
+    },
+    {
+      "id": 13044,
+      "name": "House Blend Collection #13044",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.41671406803243816,
+          "centerY": 0.746681045868496,
+          "maxSize": 0.2832107068028497
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1769755252886.preview.jpeg@webp"
+    },
+    {
+      "id": 509,
+      "name": "Paper Bags Collection #509",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.49698925338176436,
+          "centerY": 0.5246959539418757,
+          "maxSize": 0.31671060513278687
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1694533098548.preview.jpeg@webp"
+    }
+  ],
+  "meta": {
+    "search": "paper shopping bag",
+    "take": 20,
+    "skip": 0,
+    "total": 401,
+    "nextSkip": 20,
+    "skippedUnrenderable": 0
+  }
+}

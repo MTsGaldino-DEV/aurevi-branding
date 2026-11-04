@@ -1,0 +1,99 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"view\": \"mockup-templates\",\n  \"templates\": [\n    {\n      \"id\": 1795,\n      \"name\": \"Business Cards Collection #1795\",\n      \"premium\": true,\n      \"slots\": [\n        {\n          \"centerX\": 0.28563602608067906,\n          \"centerY\": 0.47515945734852805,\n          \"maxSize\": 0.2667491380308765\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1727787757574.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 1800,\n      \"name\": \"Business Cards Collection #1800\",\n      \"premium\": true,\n      \"slots\": [\n        {\n          \"centerX\": 0.2786221648680507,\n          \"centerY\": 0.440799919735799,\n          \"maxSize\": 0.2682693085903044\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1727840236970.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 1801,\n      \"name\": \"Business Cards Collection #1801\",\n      \"premium\": true,\n      \"slots\": [\n        {\n          \"centerX\": 0.24107938872996723,\n          \"centerY\": 0.4748536389218044,\n          \"maxSize\": 0.2676931050697231\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1727840623784.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 2806,\n      \"name\": \"In the Clouds Collection #2806\",\n      \"premium\": false,\n      \"slots\": [\n        {\n          \"centerX\": 0.5082176855234797,\n          \"centerY\": 0.40794747468113857,\n          \"maxSize\": 0.18596101839918927\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1747058438909.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 4534,\n      \"name\": \"Sweat On Collection #4534\",\n      \"premium\": true,\n      \"slots\": [\n        {\n          \"centerX\": 0.6042244507286794,\n          \"centerY\": 0.592193851386977,\n          \"maxSize\": 0.1955873724556686\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1749116643040.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 1786,\n      \"name\": \"Business Cards Collection #1786\",\n      \"premium\": false,\n      \"slots\": [\n        {\n          \"centerX\": 0.25124687910055604,\n          \"centerY\": 0.5135524556794239,\n          \"maxSize\": 0.267349469957733\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1727366985458.preview.jpeg@webp\"\n    }\n  ],\n  \"meta\": {\n    \"search\": \"business card\",\n    \"take\": 6,\n    \"skip\": 0,\n    \"total\": 240,\n    \"nextSkip\": 6,\n    \"skippedUnrenderable\": 0\n  }\n}"
+    }
+  ],
+  "structuredContent": {
+    "view": "mockup-templates",
+    "templates": [
+      {
+        "id": 1795,
+        "name": "Business Cards Collection #1795",
+        "premium": true,
+        "slots": [
+          {
+            "centerX": 0.28563602608067906,
+            "centerY": 0.47515945734852805,
+            "maxSize": 0.2667491380308765
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1727787757574.preview.jpeg@webp"
+      },
+      {
+        "id": 1800,
+        "name": "Business Cards Collection #1800",
+        "premium": true,
+        "slots": [
+          {
+            "centerX": 0.2786221648680507,
+            "centerY": 0.440799919735799,
+            "maxSize": 0.2682693085903044
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1727840236970.preview.jpeg@webp"
+      },
+      {
+        "id": 1801,
+        "name": "Business Cards Collection #1801",
+        "premium": true,
+        "slots": [
+          {
+            "centerX": 0.24107938872996723,
+            "centerY": 0.4748536389218044,
+            "maxSize": 0.2676931050697231
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1727840623784.preview.jpeg@webp"
+      },
+      {
+        "id": 2806,
+        "name": "In the Clouds Collection #2806",
+        "premium": false,
+        "slots": [
+          {
+            "centerX": 0.5082176855234797,
+            "centerY": 0.40794747468113857,
+            "maxSize": 0.18596101839918927
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1747058438909.preview.jpeg@webp"
+      },
+      {
+        "id": 4534,
+        "name": "Sweat On Collection #4534",
+        "premium": true,
+        "slots": [
+          {
+            "centerX": 0.6042244507286794,
+            "centerY": 0.592193851386977,
+            "maxSize": 0.1955873724556686
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1749116643040.preview.jpeg@webp"
+      },
+      {
+        "id": 1786,
+        "name": "Business Cards Collection #1786",
+        "premium": false,
+        "slots": [
+          {
+            "centerX": 0.25124687910055604,
+            "centerY": 0.5135524556794239,
+            "maxSize": 0.267349469957733
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1727366985458.preview.jpeg@webp"
+      }
+    ],
+    "meta": {
+      "search": "business card",
+      "take": 6,
+      "skip": 0,
+      "total": 240,
+      "nextSkip": 6,
+      "skippedUnrenderable": 0
+    }
+  }
+}

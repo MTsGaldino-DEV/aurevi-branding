@@ -1,0 +1,162 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"view\": \"mockup-render\", \"renders\": [{\"status\": \"ready\", \"key\": \"cmw28rrnd0cic0j9d36mx28jz\", \"uploadId\": \"cmw28rrnd0cic0j9d36mx28jz\", \"objectId\": \"cmw28rqka0ckx0jacen1jaz8z\", \"mockupTemplateId\": 5853, \"name\": \"The Noon Shift Collection #5853\", \"url\": \"https://cache.kittl.com/pr:sharp/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28rrnd0cic0j9d36mx28jz.png\", \"thumbnailUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:768:768:0/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28rrnd0cic0j9d36mx28jz.png@webp\", \"editUrl\": \"https://app.kittl.com/?wid=cmw288xol0ac50j9dgjzxfj42&ndm=%7B%22img%22%3A%22users%2Fcmw288xol0ac50j9dgjzxfj42%2Fuploads%2Fcmw28rn2m0chv0j9dgnkw2tem.png%22%2C%22w%22%3A1400%2C%22h%22%3A880%2C%22m%22%3A%5B%7B%22id%22%3A5853%2C%22r%22%3A%5B0.3923828125%2C0.5227938729745369%2C0.17133396079648894%2C0.10771829572297778%5D%7D%5D%2C%22bg%22%3A%22%23f4efe6%22%7D\", \"slotCount\": 1, \"designs\": [{\"slot\": 0, \"placement\": {\"centerX\": 0.533, \"centerY\": 0.611, \"maxSize\": 0.282}, \"bounds\": {\"x\": 0.388, \"y\": 0.522, \"width\": 0.275, \"height\": 0.177}, \"visibleRatio\": 1}], \"printAreas\": [{\"x\": 0.332, \"y\": 0.383, \"width\": 0.402, \"height\": 0.457}]}, {\"status\": \"ready\", \"key\": \"cmw28rv890cgj0ka19wnv790h\", \"uploadId\": \"cmw28rv890cgj0ka19wnv790h\", \"objectId\": \"cmw28ru9h0cge0ka1gahbel9l\", \"mockupTemplateId\": 4868, \"name\": \"Of Balm and Bloom Collection #4868\", \"url\": \"https://cache.kittl.com/pr:sharp/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28rv890cgj0ka19wnv790h.png\", \"thumbnailUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:768:768:0/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28rv890cgj0ka19wnv790h.png@webp\", \"editUrl\": \"https://app.kittl.com/?wid=cmw288xol0ac50j9dgjzxfj42&ndm=%7B%22img%22%3A%22users%2Fcmw288xol0ac50j9dgjzxfj42%2Fuploads%2Fcmw28rn2m0chv0j9dgnkw2tem.png%22%2C%22w%22%3A1400%2C%22h%22%3A880%2C%22m%22%3A%5B%7B%22id%22%3A4868%2C%22r%22%3A%5B0.3724609375%2C0.6324839048032407%2C0.1844389857276265%2C0.11595747343431333%5D%7D%5D%2C%22bg%22%3A%22%23f4efe6%22%7D\", \"slotCount\": 1, \"designs\": [{\"slot\": 0, \"placement\": {\"centerX\": 0.494, \"centerY\": 0.709, \"maxSize\": 0.243}, \"bounds\": {\"x\": 0.372, \"y\": 0.63, \"width\": 0.233, \"height\": 0.158}, \"visibleRatio\": 1}], \"printAreas\": [{\"x\": 0.32, \"y\": 0.492, \"width\": 0.348, \"height\": 0.434}]}, {\"status\": \"ready\", \"key\": \"cmw28x6ob0d6j0jaccykhbtal\", \"uploadId\": \"cmw28x6ob0d6j0jaccykhbtal\", \"objectId\": \"cmw28x5to0d3n0j9ddapxf4fz\", \"mockupTemplateId\": 463, \"name\": \"Tags Collection #463\", \"url\": \"https://cache.kittl.com/pr:sharp/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28x6ob0d6j0jaccykhbtal.png\", \"thumbnailUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:768:768:0/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28x6ob0d6j0jaccykhbtal.png@webp\", \"editUrl\": \"https://app.kittl.com/?wid=cmw288xol0ac50j9dgjzxfj42&ndm=%7B%22img%22%3A%22users%2Fcmw288xol0ac50j9dgjzxfj42%2Fuploads%2Fcmw28x3b20d9z0j7qgywj96bf.png%22%2C%22w%22%3A1600%2C%22h%22%3A530%2C%22m%22%3A%5B%7B%22id%22%3A463%2C%22r%22%3A%5B0.38%2C0.4836203703703704%2C0.1310701959919362%2C0.04344734274547515%5D%7D%5D%2C%22bg%22%3A%22%23f4efe6%22%7D\", \"slotCount\": 1, \"designs\": [{\"slot\": 0, \"placement\": {\"centerX\": 0.535, \"centerY\": 0.535, \"maxSize\": 0.31}, \"bounds\": {\"x\": 0.336, \"y\": 0.484, \"width\": 0.308, \"height\": 0.215}, \"visibleRatio\": 1}], \"printAreas\": [{\"x\": 0.09, \"y\": 0.242, \"width\": 0.77, \"height\": 0.582}]}, {\"status\": \"ready\", \"key\": \"cmw29t9z50gij0ka16rgxbme5\", \"uploadId\": \"cmw29t9z50gij0ka16rgxbme5\", \"objectId\": \"cmw29t8xe0ggl0jb46i0dam93\", \"mockupTemplateId\": 1786, \"name\": \"Business Cards Collection #1786\", \"url\": \"https://cache.kittl.com/pr:sharp/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw29t9z50gij0ka16rgxbme5.png\", \"thumbnailUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:768:768:0/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw29t9z50gij0ka16rgxbme5.png@webp\", \"editUrl\": \"https://app.kittl.com/?wid=cmw288xol0ac50j9dgjzxfj42&ndm=%7B%22img%22%3A%22users%2Fcmw288xol0ac50j9dgjzxfj42%2Fuploads%2Fcmw28rkyd0chi0j9d0sszgapz.png%22%2C%22w%22%3A960%2C%22h%22%3A610%2C%22m%22%3A%5B%7B%22id%22%3A1786%2C%22r%22%3A%5B0.11757214412168954%2C0.42861330116160246%2C0.267349469957733%2C0.16987830903564285%5D%7D%5D%2C%22bg%22%3A%22%23f4efe6%22%7D\", \"slotCount\": 1, \"designs\": [{\"slot\": 0, \"placement\": {\"centerX\": 0.332, \"centerY\": 0.565, \"maxSize\": 0.429}, \"bounds\": {\"x\": 0.118, \"y\": 0.222, \"width\": 0.808, \"height\": 0.51}, \"visibleRatio\": 1}], \"printAreas\": [{\"x\": 0.078, \"y\": 0.191, \"width\": 0.863, \"height\": 0.563}]}], \"message\": \"To move or resize a design, call kittl-render-mockup again with an adjusted placement, starting from each design's reported placement. Regenerating or redrawing the design would change the design itself.\"}"
+    }
+  ],
+  "structuredContent": {
+    "view": "mockup-render",
+    "renders": [
+      {
+        "status": "ready",
+        "key": "cmw28rrnd0cic0j9d36mx28jz",
+        "uploadId": "cmw28rrnd0cic0j9d36mx28jz",
+        "objectId": "cmw28rqka0ckx0jacen1jaz8z",
+        "mockupTemplateId": 5853,
+        "name": "The Noon Shift Collection #5853",
+        "url": "https://cache.kittl.com/pr:sharp/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28rrnd0cic0j9d36mx28jz.png",
+        "thumbnailUrl": "https://cache.kittl.com/pr:sharp/rs:fit:768:768:0/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28rrnd0cic0j9d36mx28jz.png@webp",
+        "editUrl": "https://app.kittl.com/?wid=cmw288xol0ac50j9dgjzxfj42&ndm=%7B%22img%22%3A%22users%2Fcmw288xol0ac50j9dgjzxfj42%2Fuploads%2Fcmw28rn2m0chv0j9dgnkw2tem.png%22%2C%22w%22%3A1400%2C%22h%22%3A880%2C%22m%22%3A%5B%7B%22id%22%3A5853%2C%22r%22%3A%5B0.3923828125%2C0.5227938729745369%2C0.17133396079648894%2C0.10771829572297778%5D%7D%5D%2C%22bg%22%3A%22%23f4efe6%22%7D",
+        "slotCount": 1,
+        "designs": [
+          {
+            "slot": 0,
+            "placement": {
+              "centerX": 0.533,
+              "centerY": 0.611,
+              "maxSize": 0.282
+            },
+            "bounds": {
+              "x": 0.388,
+              "y": 0.522,
+              "width": 0.275,
+              "height": 0.177
+            },
+            "visibleRatio": 1
+          }
+        ],
+        "printAreas": [
+          {
+            "x": 0.332,
+            "y": 0.383,
+            "width": 0.402,
+            "height": 0.457
+          }
+        ]
+      },
+      {
+        "status": "ready",
+        "key": "cmw28rv890cgj0ka19wnv790h",
+        "uploadId": "cmw28rv890cgj0ka19wnv790h",
+        "objectId": "cmw28ru9h0cge0ka1gahbel9l",
+        "mockupTemplateId": 4868,
+        "name": "Of Balm and Bloom Collection #4868",
+        "url": "https://cache.kittl.com/pr:sharp/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28rv890cgj0ka19wnv790h.png",
+        "thumbnailUrl": "https://cache.kittl.com/pr:sharp/rs:fit:768:768:0/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28rv890cgj0ka19wnv790h.png@webp",
+        "editUrl": "https://app.kittl.com/?wid=cmw288xol0ac50j9dgjzxfj42&ndm=%7B%22img%22%3A%22users%2Fcmw288xol0ac50j9dgjzxfj42%2Fuploads%2Fcmw28rn2m0chv0j9dgnkw2tem.png%22%2C%22w%22%3A1400%2C%22h%22%3A880%2C%22m%22%3A%5B%7B%22id%22%3A4868%2C%22r%22%3A%5B0.3724609375%2C0.6324839048032407%2C0.1844389857276265%2C0.11595747343431333%5D%7D%5D%2C%22bg%22%3A%22%23f4efe6%22%7D",
+        "slotCount": 1,
+        "designs": [
+          {
+            "slot": 0,
+            "placement": {
+              "centerX": 0.494,
+              "centerY": 0.709,
+              "maxSize": 0.243
+            },
+            "bounds": {
+              "x": 0.372,
+              "y": 0.63,
+              "width": 0.233,
+              "height": 0.158
+            },
+            "visibleRatio": 1
+          }
+        ],
+        "printAreas": [
+          {
+            "x": 0.32,
+            "y": 0.492,
+            "width": 0.348,
+            "height": 0.434
+          }
+        ]
+      },
+      {
+        "status": "ready",
+        "key": "cmw28x6ob0d6j0jaccykhbtal",
+        "uploadId": "cmw28x6ob0d6j0jaccykhbtal",
+        "objectId": "cmw28x5to0d3n0j9ddapxf4fz",
+        "mockupTemplateId": 463,
+        "name": "Tags Collection #463",
+        "url": "https://cache.kittl.com/pr:sharp/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28x6ob0d6j0jaccykhbtal.png",
+        "thumbnailUrl": "https://cache.kittl.com/pr:sharp/rs:fit:768:768:0/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28x6ob0d6j0jaccykhbtal.png@webp",
+        "editUrl": "https://app.kittl.com/?wid=cmw288xol0ac50j9dgjzxfj42&ndm=%7B%22img%22%3A%22users%2Fcmw288xol0ac50j9dgjzxfj42%2Fuploads%2Fcmw28x3b20d9z0j7qgywj96bf.png%22%2C%22w%22%3A1600%2C%22h%22%3A530%2C%22m%22%3A%5B%7B%22id%22%3A463%2C%22r%22%3A%5B0.38%2C0.4836203703703704%2C0.1310701959919362%2C0.04344734274547515%5D%7D%5D%2C%22bg%22%3A%22%23f4efe6%22%7D",
+        "slotCount": 1,
+        "designs": [
+          {
+            "slot": 0,
+            "placement": {
+              "centerX": 0.535,
+              "centerY": 0.535,
+              "maxSize": 0.31
+            },
+            "bounds": {
+              "x": 0.336,
+              "y": 0.484,
+              "width": 0.308,
+              "height": 0.215
+            },
+            "visibleRatio": 1
+          }
+        ],
+        "printAreas": [
+          {
+            "x": 0.09,
+            "y": 0.242,
+            "width": 0.77,
+            "height": 0.582
+          }
+        ]
+      },
+      {
+        "status": "ready",
+        "key": "cmw29t9z50gij0ka16rgxbme5",
+        "uploadId": "cmw29t9z50gij0ka16rgxbme5",
+        "objectId": "cmw29t8xe0ggl0jb46i0dam93",
+        "mockupTemplateId": 1786,
+        "name": "Business Cards Collection #1786",
+        "url": "https://cache.kittl.com/pr:sharp/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw29t9z50gij0ka16rgxbme5.png",
+        "thumbnailUrl": "https://cache.kittl.com/pr:sharp/rs:fit:768:768:0/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw29t9z50gij0ka16rgxbme5.png@webp",
+        "editUrl": "https://app.kittl.com/?wid=cmw288xol0ac50j9dgjzxfj42&ndm=%7B%22img%22%3A%22users%2Fcmw288xol0ac50j9dgjzxfj42%2Fuploads%2Fcmw28rkyd0chi0j9d0sszgapz.png%22%2C%22w%22%3A960%2C%22h%22%3A610%2C%22m%22%3A%5B%7B%22id%22%3A1786%2C%22r%22%3A%5B0.11757214412168954%2C0.42861330116160246%2C0.267349469957733%2C0.16987830903564285%5D%7D%5D%2C%22bg%22%3A%22%23f4efe6%22%7D",
+        "slotCount": 1,
+        "designs": [
+          {
+            "slot": 0,
+            "placement": {
+              "centerX": 0.332,
+              "centerY": 0.565,
+              "maxSize": 0.429
+            },
+            "bounds": {
+              "x": 0.118,
+              "y": 0.222,
+              "width": 0.808,
+              "height": 0.51
+            },
+            "visibleRatio": 1
+          }
+        ],
+        "printAreas": [
+          {
+            "x": 0.078,
+            "y": 0.191,
+            "width": 0.863,
+            "height": 0.563
+          }
+        ]
+      }
+    ],
+    "message": "To move or resize a design, call kittl-render-mockup again with an adjusted placement, starting from each design's reported placement. Regenerating or redrawing the design would change the design itself."
+  }
+}

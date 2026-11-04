@@ -1,0 +1,1553 @@
+{
+  "marca": "Aurevi",
+  "versao": "1.0",
+  "data": "2026-11-04",
+  "observacao": "Lista exclui os dois inventários e VERIFICACAO.md para evitar referência circular. Para SVG físico, os números de largura/altura são unidades do viewBox; a medida em mm define o tamanho de impressão.",
+  "arquivos": [
+    {
+      "arquivo": "01-logos/assinatura-branco.png",
+      "formato": "png",
+      "bytes": 36394,
+      "largura_px": 1600,
+      "altura_px": 660,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "0a19735f14eae851930cf295fa68cb012dd2606ee9603d40a58ba20c913db7f9"
+    },
+    {
+      "arquivo": "01-logos/assinatura-branco.svg",
+      "formato": "svg",
+      "bytes": 20578,
+      "largura_px": 1600,
+      "altura_px": 660,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "cb00c77e4c41d3375bb59063b2396bfa365d019e6fd3e6e22e84347b4947f130"
+    },
+    {
+      "arquivo": "01-logos/assinatura-creme.png",
+      "formato": "png",
+      "bytes": 46870,
+      "largura_px": 1600,
+      "altura_px": 660,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "e4b35f1d0550b1e5d4ac948c075c6882288b70893c71df5b13261cd0ad67b0e6"
+    },
+    {
+      "arquivo": "01-logos/assinatura-creme.svg",
+      "formato": "svg",
+      "bytes": 20577,
+      "largura_px": 1600,
+      "altura_px": 660,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "9c23c0bfe6065a3551ca8b98dd5707e7ca439f914f9f4d3ecc6a7f8085ede2d8"
+    },
+    {
+      "arquivo": "01-logos/assinatura-preto.png",
+      "formato": "png",
+      "bytes": 32945,
+      "largura_px": 1600,
+      "altura_px": 660,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "8ade4e7e94526ac3ef62a84708713886e8d168093139935eec7ee61ea8a71753"
+    },
+    {
+      "arquivo": "01-logos/assinatura-preto.svg",
+      "formato": "svg",
+      "bytes": 20577,
+      "largura_px": 1600,
+      "altura_px": 660,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "477d0eecfa2c01d7a872b9f5b5e62d393cb24b2f4fce49a06c5c829a0acaa400"
+    },
+    {
+      "arquivo": "01-logos/assinatura-verde.png",
+      "formato": "png",
+      "bytes": 47620,
+      "largura_px": 1600,
+      "altura_px": 660,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "fd28855ca2440236f7801daf439c41e615f26981bb73fc46688fa37e61505bd8"
+    },
+    {
+      "arquivo": "01-logos/assinatura-verde.svg",
+      "formato": "svg",
+      "bytes": 20577,
+      "largura_px": 1600,
+      "altura_px": 660,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "6ab1fcd913442a362bd6a3c009e23b4d67bfe48b1e503dd48e24f74a08576fbe"
+    },
+    {
+      "arquivo": "01-logos/avatar.png",
+      "formato": "png",
+      "bytes": 22371,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "28c0ac0a69a338391624ae956a0407eba77739f7c53df39fb59bfcaad5b38331"
+    },
+    {
+      "arquivo": "01-logos/avatar.svg",
+      "formato": "svg",
+      "bytes": 525,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "ecafc6a8d588a941e88baf243226fbfede2955c65ebf2697b5177b0211b8a2cd"
+    },
+    {
+      "arquivo": "01-logos/logo-branco.png",
+      "formato": "png",
+      "bytes": 30418,
+      "largura_px": 1600,
+      "altura_px": 530,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "bac7deb6dcd4c3861ababd41024643536b1673d9799ace0de08a1acfaaed5692"
+    },
+    {
+      "arquivo": "01-logos/logo-branco.svg",
+      "formato": "svg",
+      "bytes": 17072,
+      "largura_px": 1600,
+      "altura_px": 530,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "83cb6ace0ce5469b94cc7062f1c093e3ba6f6a39712b76640529acf3d4fcae86"
+    },
+    {
+      "arquivo": "01-logos/logo-creme.png",
+      "formato": "png",
+      "bytes": 39027,
+      "largura_px": 1600,
+      "altura_px": 530,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "7e189327853a92fdd53214fe5c19d7156403e723678d0a8410773dcd6152c0e9"
+    },
+    {
+      "arquivo": "01-logos/logo-creme.svg",
+      "formato": "svg",
+      "bytes": 17071,
+      "largura_px": 1600,
+      "altura_px": 530,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "4a0eca2227bb1383b67b19a2a4a657b920eac8167b3c0f5d2a705a22adbb7d9d"
+    },
+    {
+      "arquivo": "01-logos/logo-preto.png",
+      "formato": "png",
+      "bytes": 27449,
+      "largura_px": 1600,
+      "altura_px": 530,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "794c5c22ee360a12f9079df8cbe3d0080d6bc891f3e6ca6764c0183b6e55aa36"
+    },
+    {
+      "arquivo": "01-logos/logo-preto.svg",
+      "formato": "svg",
+      "bytes": 17071,
+      "largura_px": 1600,
+      "altura_px": 530,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "1e28030612bf74d480b8850e4c6ea9a2d0f933ade23e02a0a936c3cd825be5c2"
+    },
+    {
+      "arquivo": "01-logos/logo-verde.png",
+      "formato": "png",
+      "bytes": 39613,
+      "largura_px": 1600,
+      "altura_px": 530,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "87cdf08db25a02a1247a83d3b30a6c9c2f1cd3f94919bc83103ff219c4b767f7"
+    },
+    {
+      "arquivo": "01-logos/logo-verde.svg",
+      "formato": "svg",
+      "bytes": 17071,
+      "largura_px": 1600,
+      "altura_px": 530,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "98da575a0d8a8fd7fa541920db86049d86d000296e769538b48bdd62b45b845a"
+    },
+    {
+      "arquivo": "01-logos/padrao-dobras.png",
+      "formato": "png",
+      "bytes": 68273,
+      "largura_px": 1200,
+      "altura_px": 1200,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "a246b5ca6fb5adb1d39744cda2aa761551d57ce4358fcbea86c1387e1613b271"
+    },
+    {
+      "arquivo": "01-logos/padrao-dobras.svg",
+      "formato": "svg",
+      "bytes": 4320,
+      "largura_px": 1200,
+      "altura_px": 1200,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "fe0e0d5250efb97c5c7f1ce083d70dc9e6aa9f84bccca9d0175d7784a374de50"
+    },
+    {
+      "arquivo": "01-logos/simbolo-branco.png",
+      "formato": "png",
+      "bytes": 13887,
+      "largura_px": 600,
+      "altura_px": 600,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "ba04532b9841605e71db1270e45b253781a334874af3922ff18e446eeb5e7b81"
+    },
+    {
+      "arquivo": "01-logos/simbolo-branco.svg",
+      "formato": "svg",
+      "bytes": 414,
+      "largura_px": 600,
+      "altura_px": 600,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "1650e241b21e480a417aeddfcaa726c6ccb634e55e1a357b0bd478eeee226de7"
+    },
+    {
+      "arquivo": "01-logos/simbolo-creme.png",
+      "formato": "png",
+      "bytes": 17784,
+      "largura_px": 600,
+      "altura_px": 600,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "fa403899087812b46838a2f1d81c2462331d74c8a8615724e7d4173a888c825a"
+    },
+    {
+      "arquivo": "01-logos/simbolo-creme.svg",
+      "formato": "svg",
+      "bytes": 413,
+      "largura_px": 600,
+      "altura_px": 600,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "a62d4fb2bdc027c711510031b95240e59e8df7efd7dd90e62379ba91b793d202"
+    },
+    {
+      "arquivo": "01-logos/simbolo-preto.png",
+      "formato": "png",
+      "bytes": 12444,
+      "largura_px": 600,
+      "altura_px": 600,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "106d5b206e35dfda22ec752ec09725c9af24677c63841db90a9ed6d2c7cbe57b"
+    },
+    {
+      "arquivo": "01-logos/simbolo-preto.svg",
+      "formato": "svg",
+      "bytes": 413,
+      "largura_px": 600,
+      "altura_px": 600,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "5698035c96c002c5cd553dee9748825f32eb776fdbdd89be4db507681e6823c5"
+    },
+    {
+      "arquivo": "01-logos/simbolo-verde.png",
+      "formato": "png",
+      "bytes": 17476,
+      "largura_px": 600,
+      "altura_px": 600,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "e7a8a205e051e88e17d0e8701cb16672cd42599d54996332137dc02cdfb140b6"
+    },
+    {
+      "arquivo": "01-logos/simbolo-verde.svg",
+      "formato": "svg",
+      "bytes": 413,
+      "largura_px": 600,
+      "altura_px": 600,
+      "medida_mm": "",
+      "estado": "Marca — pronto",
+      "observacoes": "",
+      "sha256": "921585fc768ecfb61643c010dacf1f5bdc7f52628231e3862738c94478361ee9"
+    },
+    {
+      "arquivo": "02-redes/destaques/comprar.png",
+      "formato": "png",
+      "bytes": 32031,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Pronto — capa",
+      "observacoes": "",
+      "sha256": "8f138d0ec4c7e2079b0adfd65a756b19268944756166451a3eb5986ac58bd965"
+    },
+    {
+      "arquivo": "02-redes/destaques/comprar.svg",
+      "formato": "svg",
+      "bytes": 597,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Pronto — capa",
+      "observacoes": "",
+      "sha256": "829a99d045c677210a1effbce7c481e490fed3be0dd1c8d3b740e162987a992a"
+    },
+    {
+      "arquivo": "02-redes/destaques/detalhes.png",
+      "formato": "png",
+      "bytes": 27966,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Pronto — capa",
+      "observacoes": "",
+      "sha256": "3f646efde3a30ddfc30e5f0f91818df11b817ae3d6c0eb54facc1e8ff4f50f66"
+    },
+    {
+      "arquivo": "02-redes/destaques/detalhes.svg",
+      "formato": "svg",
+      "bytes": 623,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Pronto — capa",
+      "observacoes": "",
+      "sha256": "632d3e1c37eac0baad84213cf52ae6466775596942ea9403d0940dac0f14918b"
+    },
+    {
+      "arquivo": "02-redes/destaques/duvidas.png",
+      "formato": "png",
+      "bytes": 31312,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Pronto — capa",
+      "observacoes": "",
+      "sha256": "6353eb2fe0e93e712f6963c88af2452ba033e166904f78a870859b2a222bcc47"
+    },
+    {
+      "arquivo": "02-redes/destaques/duvidas.svg",
+      "formato": "svg",
+      "bytes": 603,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Pronto — capa",
+      "observacoes": "",
+      "sha256": "cffb872b5de6bb7ea20a9a9ed9baab87b0a906619a4f855bc60bbe3d291b9020"
+    },
+    {
+      "arquivo": "02-redes/destaques/editaveis/comprar.svg",
+      "formato": "svg",
+      "bytes": 1254316,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "",
+      "sha256": "dfc62077b13acf7628ea26beb230985eeb17e18e771ab947e81f6a5354a8f425"
+    },
+    {
+      "arquivo": "02-redes/destaques/editaveis/detalhes.svg",
+      "formato": "svg",
+      "bytes": 1254342,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "",
+      "sha256": "941bc527682eddceedece814336a328e7f7dac558cb691e87b4ec4ef78330096"
+    },
+    {
+      "arquivo": "02-redes/destaques/editaveis/duvidas.svg",
+      "formato": "svg",
+      "bytes": 1254322,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "",
+      "sha256": "58df883fbf856bfaebcab1b03ba83c0eb8ae63942334ba2b28d202e990b91257"
+    },
+    {
+      "arquivo": "02-redes/destaques/editaveis/looks.svg",
+      "formato": "svg",
+      "bytes": 1254236,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "",
+      "sha256": "89f37ce55ac223b39c416b771f10dbda55fe7a67acb93a35e8357c44d5b7fcf8"
+    },
+    {
+      "arquivo": "02-redes/destaques/editaveis/novidades.svg",
+      "formato": "svg",
+      "bytes": 1254241,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "",
+      "sha256": "94dc207697e10aa353fa54dc5f8f6077b0ebd7dcaa380a2bc18421bf6bfa59da"
+    },
+    {
+      "arquivo": "02-redes/destaques/editaveis/sobre.svg",
+      "formato": "svg",
+      "bytes": 1254294,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "",
+      "sha256": "b424f181fc1b6ec0c00fe408b7d80a70f9164d26c0f89ff8235ace162df8cd8f"
+    },
+    {
+      "arquivo": "02-redes/destaques/looks.png",
+      "formato": "png",
+      "bytes": 35901,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Pronto — capa",
+      "observacoes": "",
+      "sha256": "4c0edc0086b7900739e5af42d74594f70acf782428b28ec248fc5321648c3bc5"
+    },
+    {
+      "arquivo": "02-redes/destaques/looks.svg",
+      "formato": "svg",
+      "bytes": 517,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Pronto — capa",
+      "observacoes": "",
+      "sha256": "8b9d61aaeefe072d16d1b3612f346036e85188c8e39c21871e3b7b71536cbea9"
+    },
+    {
+      "arquivo": "02-redes/destaques/novidades.png",
+      "formato": "png",
+      "bytes": 30116,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Pronto — capa",
+      "observacoes": "",
+      "sha256": "6d960ae9679ad0a7cd147eb8668d0a92a951d24205841cc0ea8f91f89cb07d6f"
+    },
+    {
+      "arquivo": "02-redes/destaques/novidades.svg",
+      "formato": "svg",
+      "bytes": 522,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Pronto — capa",
+      "observacoes": "",
+      "sha256": "e8de06151cdf5a584755926db6c349bc3292c370419eb43e28132f99885d024a"
+    },
+    {
+      "arquivo": "02-redes/destaques/sobre.png",
+      "formato": "png",
+      "bytes": 29564,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Pronto — capa",
+      "observacoes": "",
+      "sha256": "84f2839f8d7d727f6a0edfadde756b9bae2be33f802577186ee3d9c46f750b19"
+    },
+    {
+      "arquivo": "02-redes/destaques/sobre.svg",
+      "formato": "svg",
+      "bytes": 575,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Pronto — capa",
+      "observacoes": "",
+      "sha256": "957397a495449cd388b6f86e4a79944e9aa1cf60c61eb6286abf7977c30bc79d"
+    },
+    {
+      "arquivo": "02-redes/feed/01-apresentacao.png",
+      "formato": "png",
+      "bytes": 84864,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Pronto — marca",
+      "observacoes": "",
+      "sha256": "bac226211bb9c4bcdf7ec3d051d7c024ea9230435b405f27715f83b6b8f582f9"
+    },
+    {
+      "arquivo": "02-redes/feed/01-apresentacao.svg",
+      "formato": "svg",
+      "bytes": 123191,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Pronto — marca",
+      "observacoes": "",
+      "sha256": "1204ab5b75079556f1505bcc568887718ae620f15fcd2bf957cf180e3257033c"
+    },
+    {
+      "arquivo": "02-redes/feed/02-manifesto.png",
+      "formato": "png",
+      "bytes": 83628,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Pronto — marca",
+      "observacoes": "",
+      "sha256": "c466693c6ea2f0dbee404116864147fb95406d68f797a9c04728016abeb17415"
+    },
+    {
+      "arquivo": "02-redes/feed/02-manifesto.svg",
+      "formato": "svg",
+      "bytes": 189035,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Pronto — marca",
+      "observacoes": "",
+      "sha256": "3544ca80c277839ce43b7652c0c4882a2d42f4b5d37dbeedc85c8aebff05b8a7"
+    },
+    {
+      "arquivo": "02-redes/feed/03-editorial-looks.png",
+      "formato": "png",
+      "bytes": 1188909,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Editorial conceitual",
+      "observacoes": "Imagem gerada; não representa peça do catálogo.",
+      "sha256": "2aaabf49809a4b24ec5c895a77a0780e9111528fddd45e79f0044cd93b69fc4e"
+    },
+    {
+      "arquivo": "02-redes/feed/03-editorial-looks.svg",
+      "formato": "svg",
+      "bytes": 3152945,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Editorial conceitual",
+      "observacoes": "Imagem gerada; não representa peça do catálogo.",
+      "sha256": "03d855510cf2b507b29412f18e08d35366c63d975cf49f4b2f74dcf3b1ce829f"
+    },
+    {
+      "arquivo": "02-redes/feed/04-detalhes-template.png",
+      "formato": "png",
+      "bytes": 71881,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Template — adaptar",
+      "observacoes": "Trocar a área de foto, nome da peça e tecido por dados reais.",
+      "sha256": "70846eb4d98c34ed2dcd010fe06a08bac9e01561a7c58b04c04b34fc0e70cd93"
+    },
+    {
+      "arquivo": "02-redes/feed/04-detalhes-template.svg",
+      "formato": "svg",
+      "bytes": 191391,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Template — adaptar",
+      "observacoes": "Trocar a área de foto, nome da peça e tecido por dados reais.",
+      "sha256": "28e8fbda70dc513df8104a00d8faf36cde45025f33e67cf73a5c06e5ffaaa18d"
+    },
+    {
+      "arquivo": "02-redes/feed/05-combinacoes.png",
+      "formato": "png",
+      "bytes": 89219,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Pronto — inspiração",
+      "observacoes": "",
+      "sha256": "d32d2480d7a86507a8e5b1e8e1f97a3f7f156b62c923da87009dacb71bad82fb"
+    },
+    {
+      "arquivo": "02-redes/feed/05-combinacoes.svg",
+      "formato": "svg",
+      "bytes": 182259,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Pronto — inspiração",
+      "observacoes": "",
+      "sha256": "e14c29e2f0f373cc2a95e9c4a11fe5c1ab113d0663f98f58f22f0417b537bb2b"
+    },
+    {
+      "arquivo": "02-redes/feed/06-bastidores-template.png",
+      "formato": "png",
+      "bytes": 70900,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Template — adaptar",
+      "observacoes": "Inserir foto real e conferir se a descrição corresponde à operação.",
+      "sha256": "5e1150693dcbbf8b4cdff60f648e4f11c6b96e8991bddd58ddeb858f91c4dba3"
+    },
+    {
+      "arquivo": "02-redes/feed/06-bastidores-template.svg",
+      "formato": "svg",
+      "bytes": 175027,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Template — adaptar",
+      "observacoes": "Inserir foto real e conferir se a descrição corresponde à operação.",
+      "sha256": "a76a44493eeac46dbee786bf9b6069872d8089ac4daa252eb64b779ccb6f72eb"
+    },
+    {
+      "arquivo": "02-redes/feed/07-seu-jeito.png",
+      "formato": "png",
+      "bytes": 73690,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Pronto — interação",
+      "observacoes": "",
+      "sha256": "9d766162185d2efba27983da82135820231c5c6ae366b80137873223d2651e99"
+    },
+    {
+      "arquivo": "02-redes/feed/07-seu-jeito.svg",
+      "formato": "svg",
+      "bytes": 139273,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Pronto — interação",
+      "observacoes": "",
+      "sha256": "96f71f65012f49b7369803ed89788841b322d148ca1133a6b55d6cc6b131bfa0"
+    },
+    {
+      "arquivo": "02-redes/feed/08-como-consultar.png",
+      "formato": "png",
+      "bytes": 103002,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Pronto — atendimento",
+      "observacoes": "Definir canal e fluxo de compra antes de adicionar link ou botão externo.",
+      "sha256": "4600b3b338b5b9e30a89d0adafa3abf5ea7d1699f8f759c59f3240249cce274b"
+    },
+    {
+      "arquivo": "02-redes/feed/08-como-consultar.svg",
+      "formato": "svg",
+      "bytes": 321795,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Pronto — atendimento",
+      "observacoes": "Definir canal e fluxo de compra antes de adicionar link ou botão externo.",
+      "sha256": "f73bed456a6d69a0f04fba149eb0bd6be39613a9346c84aa71566601e320831f"
+    },
+    {
+      "arquivo": "02-redes/feed/09-convite.png",
+      "formato": "png",
+      "bytes": 74535,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Pronto — marca",
+      "observacoes": "",
+      "sha256": "6717d60fb8048afb3b009ef9554e3a664cef98d4efed55497d890b86518c17b4"
+    },
+    {
+      "arquivo": "02-redes/feed/09-convite.svg",
+      "formato": "svg",
+      "bytes": 135552,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Pronto — marca",
+      "observacoes": "",
+      "sha256": "c7df0eb1dc11eaa43eaf6d289f85f244b156927e4ccf2d1b012e81ebae2fbd64"
+    },
+    {
+      "arquivo": "02-redes/feed/editaveis/01-apresentacao.svg",
+      "formato": "svg",
+      "bytes": 1272678,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "",
+      "sha256": "7b7c9b118cd03cdbc772fbec7fda3993ce13770399582ed3d423039b66a0aeb4"
+    },
+    {
+      "arquivo": "02-redes/feed/editaveis/02-manifesto.svg",
+      "formato": "svg",
+      "bytes": 1272957,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "",
+      "sha256": "9f0265af0d6a55884e2c03b8a4dbb17e7e4b6d4fb8b9ccc1288f6bef441e5d6d"
+    },
+    {
+      "arquivo": "02-redes/feed/editaveis/03-editorial-looks.svg",
+      "formato": "svg",
+      "bytes": 4298506,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "Imagem gerada; não representa peça do catálogo.",
+      "sha256": "9934b3591022c4ff7c783ec7ce689d7c42f92f5eafc5aea59773e21a1cecd539"
+    },
+    {
+      "arquivo": "02-redes/feed/editaveis/04-detalhes-template.svg",
+      "formato": "svg",
+      "bytes": 1256381,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "Trocar a área de foto, nome da peça e tecido por dados reais.",
+      "sha256": "47286aceec0bcaad5b894fb098dae04081338ec02ba48ed76d45a32d986fee9f"
+    },
+    {
+      "arquivo": "02-redes/feed/editaveis/05-combinacoes.svg",
+      "formato": "svg",
+      "bytes": 1273243,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "",
+      "sha256": "295538d2bcc2c5623009aa1e929265e8369299c7205130b90a60fbb2d75a5ceb"
+    },
+    {
+      "arquivo": "02-redes/feed/editaveis/06-bastidores-template.svg",
+      "formato": "svg",
+      "bytes": 1256050,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "Inserir foto real e conferir se a descrição corresponde à operação.",
+      "sha256": "d87ec32c6eeafa759db489cbf3884d88f0d07de95ffea7839eb52158470181dd"
+    },
+    {
+      "arquivo": "02-redes/feed/editaveis/07-seu-jeito.svg",
+      "formato": "svg",
+      "bytes": 1273714,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "",
+      "sha256": "b472d14b02b9f217efdd56547bc049f8efc68b45fff78c959b2481c65813dccb"
+    },
+    {
+      "arquivo": "02-redes/feed/editaveis/08-como-consultar.svg",
+      "formato": "svg",
+      "bytes": 1257506,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "Definir canal e fluxo de compra antes de adicionar link ou botão externo.",
+      "sha256": "95906421f05f7f6a349c0d6e3d7e69fc9e7c7778a41adb235a9489d6450efdd8"
+    },
+    {
+      "arquivo": "02-redes/feed/editaveis/09-convite.svg",
+      "formato": "svg",
+      "bytes": 1272398,
+      "largura_px": 1080,
+      "altura_px": 1350,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "",
+      "sha256": "8d76687775b13884def47fe05d9a2e96920a91057292765c32d2c713e6c636be"
+    },
+    {
+      "arquivo": "02-redes/stories/01-boas-vindas.png",
+      "formato": "png",
+      "bytes": 82150,
+      "largura_px": 1080,
+      "altura_px": 1920,
+      "medida_mm": "",
+      "estado": "Pronto — marca",
+      "observacoes": "",
+      "sha256": "941045fd1b55fa8f95f1733c0bf6da05e660260be7ace4a16952c15c7cee1217"
+    },
+    {
+      "arquivo": "02-redes/stories/01-boas-vindas.svg",
+      "formato": "svg",
+      "bytes": 156014,
+      "largura_px": 1080,
+      "altura_px": 1920,
+      "medida_mm": "",
+      "estado": "Pronto — marca",
+      "observacoes": "",
+      "sha256": "b73e605b21fbbe927c87262e4deac08314069b72021c931552417362fe332a2b"
+    },
+    {
+      "arquivo": "02-redes/stories/02-editorial.png",
+      "formato": "png",
+      "bytes": 1519764,
+      "largura_px": 1080,
+      "altura_px": 1920,
+      "medida_mm": "",
+      "estado": "Editorial conceitual",
+      "observacoes": "Imagem gerada; substituir por catálogo real para anunciar produtos.",
+      "sha256": "5824a50be577e7c570b0497087a14df786f43140d29898fd995f401477259e3b"
+    },
+    {
+      "arquivo": "02-redes/stories/02-editorial.svg",
+      "formato": "svg",
+      "bytes": 3117484,
+      "largura_px": 1080,
+      "altura_px": 1920,
+      "medida_mm": "",
+      "estado": "Editorial conceitual",
+      "observacoes": "Imagem gerada; substituir por catálogo real para anunciar produtos.",
+      "sha256": "650e9d1d98a89201347bb834905b1c37c3b7d0e26fb8aa94ed408968df8b6461"
+    },
+    {
+      "arquivo": "02-redes/stories/03-enquete-template.png",
+      "formato": "png",
+      "bytes": 77447,
+      "largura_px": 1080,
+      "altura_px": 1920,
+      "medida_mm": "",
+      "estado": "Template — adicionar enquete",
+      "observacoes": "Sobrepor sticker de enquete no Instagram; o PNG não tem interação.",
+      "sha256": "baaebd6367179233578aac177745d77127c24c610a3f33d694941314e6560416"
+    },
+    {
+      "arquivo": "02-redes/stories/03-enquete-template.svg",
+      "formato": "svg",
+      "bytes": 113765,
+      "largura_px": 1080,
+      "altura_px": 1920,
+      "medida_mm": "",
+      "estado": "Template — adicionar enquete",
+      "observacoes": "Sobrepor sticker de enquete no Instagram; o PNG não tem interação.",
+      "sha256": "a72f12e733e6e474ce979f8e15a95ce21b4061cbd89029b05edb560dbd207a28"
+    },
+    {
+      "arquivo": "02-redes/stories/04-peca-template.png",
+      "formato": "png",
+      "bytes": 65179,
+      "largura_px": 1080,
+      "altura_px": 1920,
+      "medida_mm": "",
+      "estado": "Template — adaptar",
+      "observacoes": "Inserir foto, nome, preço, tamanhos, estoque e canal reais antes de publicar.",
+      "sha256": "3b67494194f293940a8b378d1c27fbf38a8e080c0596c240e5d01a067bf01835"
+    },
+    {
+      "arquivo": "02-redes/stories/04-peca-template.svg",
+      "formato": "svg",
+      "bytes": 153382,
+      "largura_px": 1080,
+      "altura_px": 1920,
+      "medida_mm": "",
+      "estado": "Template — adaptar",
+      "observacoes": "Inserir foto, nome, preço, tamanhos, estoque e canal reais antes de publicar.",
+      "sha256": "ecc58d95088fcd61504e4675384169b4319c2e3ff6eb4fff1ecc9a6f2b38c6d3"
+    },
+    {
+      "arquivo": "02-redes/stories/editaveis/01-boas-vindas.svg",
+      "formato": "svg",
+      "bytes": 1272379,
+      "largura_px": 1080,
+      "altura_px": 1920,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "",
+      "sha256": "ba06caa74487f60a2cfb39d53a59e41983cad0160c824bf0c23bb8b8862b4f94"
+    },
+    {
+      "arquivo": "02-redes/stories/editaveis/02-editorial.svg",
+      "formato": "svg",
+      "bytes": 4298184,
+      "largura_px": 1080,
+      "altura_px": 1920,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "Imagem gerada; substituir por catálogo real para anunciar produtos.",
+      "sha256": "34f42de52abf9f0fd8e2e5c49ea5952c1b89809c839a6b14d463ca9b5c994e61"
+    },
+    {
+      "arquivo": "02-redes/stories/editaveis/03-enquete-template.svg",
+      "formato": "svg",
+      "bytes": 1255826,
+      "largura_px": 1080,
+      "altura_px": 1920,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "Sobrepor sticker de enquete no Instagram; o PNG não tem interação.",
+      "sha256": "1a0affb73af9e041dd92a8a0ce4221610529c8f128c3f1dc7c64b5d0ae75b5bb"
+    },
+    {
+      "arquivo": "02-redes/stories/editaveis/04-peca-template.svg",
+      "formato": "svg",
+      "bytes": 1272457,
+      "largura_px": 1080,
+      "altura_px": 1920,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "Inserir foto, nome, preço, tamanhos, estoque e canal reais antes de publicar.",
+      "sha256": "96d6094b24f55cdff703772006fbd979491a2d3f634c19961024d734f006f91f"
+    },
+    {
+      "arquivo": "03-embalagens/adesivo-lacre.pdf",
+      "formato": "pdf",
+      "bytes": 1266,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": [
+        56,
+        56
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Corte circular Ø50mm centrado; arquivo 56×56mm; sangria 3mm. Faca separada com a gráfica.",
+      "sha256": "3011cf5777f26d99fe0bae2f88d1ff21d13c9da8227a8f4b23663d4c5a380586"
+    },
+    {
+      "arquivo": "03-embalagens/adesivo-lacre.png",
+      "formato": "png",
+      "bytes": 8738,
+      "largura_px": 560,
+      "altura_px": 560,
+      "medida_mm": [
+        56,
+        56
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Corte circular Ø50mm centrado; arquivo 56×56mm; sangria 3mm. Faca separada com a gráfica.",
+      "sha256": "352b428c9885c8894c76b7cf8a5e5ec2f2633256f81256888ae53a19462bea82"
+    },
+    {
+      "arquivo": "03-embalagens/adesivo-lacre.svg",
+      "formato": "svg",
+      "bytes": 505,
+      "largura_px": 560,
+      "altura_px": 560,
+      "medida_mm": [
+        56,
+        56
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Corte circular Ø50mm centrado; arquivo 56×56mm; sangria 3mm. Faca separada com a gráfica.",
+      "sha256": "20bcd230bc80610d0e6ca270f32d3b4a218b6f18818460ee64ec60d9b907c9ba"
+    },
+    {
+      "arquivo": "03-embalagens/cartao-frente.pdf",
+      "formato": "pdf",
+      "bytes": 32088,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": [
+        96,
+        61
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Corte 90×55mm; arquivo 96×61mm; sangria 3mm.",
+      "sha256": "ccbea11aaf6cbfe4a25d016ae0e50436571c689d6c66efb2c4ef030c522eb88b"
+    },
+    {
+      "arquivo": "03-embalagens/cartao-frente.png",
+      "formato": "png",
+      "bytes": 37550,
+      "largura_px": 960,
+      "altura_px": 610,
+      "medida_mm": [
+        96,
+        61
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Corte 90×55mm; arquivo 96×61mm; sangria 3mm.",
+      "sha256": "3a1f57faa72d1e8f6ffd7a272433c02ad7fd07219d945e93ac7be9c137ca77f8"
+    },
+    {
+      "arquivo": "03-embalagens/cartao-frente.svg",
+      "formato": "svg",
+      "bytes": 83310,
+      "largura_px": 960,
+      "altura_px": 610,
+      "medida_mm": [
+        96,
+        61
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Corte 90×55mm; arquivo 96×61mm; sangria 3mm.",
+      "sha256": "f32aaa11e656b4f750dd13807e4ff9a0c12f6aa36d65c7e63a6ae06dad21b623"
+    },
+    {
+      "arquivo": "03-embalagens/cartao-verso.pdf",
+      "formato": "pdf",
+      "bytes": 76031,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": [
+        96,
+        61
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Não inclui cupom nem regra de troca não confirmada.",
+      "sha256": "3cb5b4a9a1d8bdd0282d760aa48285eea392d884d2bb9767c0b4ae978d4cba56"
+    },
+    {
+      "arquivo": "03-embalagens/cartao-verso.png",
+      "formato": "png",
+      "bytes": 49531,
+      "largura_px": 960,
+      "altura_px": 610,
+      "medida_mm": [
+        96,
+        61
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Não inclui cupom nem regra de troca não confirmada.",
+      "sha256": "2b197248fddf5f61e485c065f15b65ed5a868bcdc92211e9614e0f8d72d4298e"
+    },
+    {
+      "arquivo": "03-embalagens/cartao-verso.svg",
+      "formato": "svg",
+      "bytes": 224430,
+      "largura_px": 960,
+      "altura_px": 610,
+      "medida_mm": [
+        96,
+        61
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Não inclui cupom nem regra de troca não confirmada.",
+      "sha256": "fac04388388db5ebdec7289a7b349d481a0f8f07659de977ab75c3ad3c790e4a"
+    },
+    {
+      "arquivo": "03-embalagens/editaveis/adesivo-lacre.svg",
+      "formato": "svg",
+      "bytes": 1254224,
+      "largura_px": 560,
+      "altura_px": 560,
+      "medida_mm": [
+        56,
+        56
+      ],
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "Corte circular Ø50mm centrado; arquivo 56×56mm; sangria 3mm. Faca separada com a gráfica.",
+      "sha256": "413c87927b2024768b350eccaf0706b647d71027c3976b84140eb9bbe9001f62"
+    },
+    {
+      "arquivo": "03-embalagens/editaveis/cartao-frente.svg",
+      "formato": "svg",
+      "bytes": 1271823,
+      "largura_px": 960,
+      "altura_px": 610,
+      "medida_mm": [
+        96,
+        61
+      ],
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "Corte 90×55mm; arquivo 96×61mm; sangria 3mm.",
+      "sha256": "a6696baa7ae0e38ba47f56768832796b6b6fbd46117b0073766ff9de54417c39"
+    },
+    {
+      "arquivo": "03-embalagens/editaveis/cartao-verso.svg",
+      "formato": "svg",
+      "bytes": 1271892,
+      "largura_px": 960,
+      "altura_px": 610,
+      "medida_mm": [
+        96,
+        61
+      ],
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "Não inclui cupom nem regra de troca não confirmada.",
+      "sha256": "bd8e682eb9844d1d136613e26e202d77784e1f7226ede814a1adaf85bc5600e6"
+    },
+    {
+      "arquivo": "03-embalagens/editaveis/sacola-aplicacao-creme.svg",
+      "formato": "svg",
+      "bytes": 1271065,
+      "largura_px": 1400,
+      "altura_px": 880,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "Versão creme para substrato verde escuro.",
+      "sha256": "f4267ee07f192e251b1dca0d510c4a7bd59e8043e05794b3899f480d6554bded"
+    },
+    {
+      "arquivo": "03-embalagens/editaveis/sacola-aplicacao.svg",
+      "formato": "svg",
+      "bytes": 1271059,
+      "largura_px": 1400,
+      "altura_px": 880,
+      "medida_mm": "",
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "Arte transparente; escala e gabarito definidos pelo fabricante da sacola.",
+      "sha256": "f2f133f47809e0993d318791dc64fe9da42b458df4d440814c1299a74b90e44c"
+    },
+    {
+      "arquivo": "03-embalagens/editaveis/tag-frente.svg",
+      "formato": "svg",
+      "bytes": 1271373,
+      "largura_px": 610,
+      "altura_px": 1010,
+      "medida_mm": [
+        61,
+        101
+      ],
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "Corte 55×95mm; arquivo 61×101mm; sangria 3mm; furo a definir no gabarito.",
+      "sha256": "4b99f6edca2347c0a590ae1bcbbd1faaa0dbbeeae841a8c0dbe03bf38f3c9a48"
+    },
+    {
+      "arquivo": "03-embalagens/editaveis/tag-verso.svg",
+      "formato": "svg",
+      "bytes": 1272239,
+      "largura_px": 610,
+      "altura_px": 1010,
+      "medida_mm": [
+        61,
+        101
+      ],
+      "estado": "Editável — conferir fontes e conteúdo",
+      "observacoes": "Campos para preenchimento. Não substitui etiqueta de composição/cuidados. Corte 55×95mm, sangria 3mm.",
+      "sha256": "70fe19078f0a71b1f1f053002261107ca2dd1fc5b7b7b07ad58d4cdfcfec9502"
+    },
+    {
+      "arquivo": "03-embalagens/sacola-aplicacao-creme.png",
+      "formato": "png",
+      "bytes": 49629,
+      "largura_px": 1400,
+      "altura_px": 880,
+      "medida_mm": "",
+      "estado": "Estudo de aplicação",
+      "observacoes": "Versão creme para substrato verde escuro.",
+      "sha256": "183b17c79acd774a34884a7a9ed78c114390c9c52e6c1ebd5e669bf7c07f9ce9"
+    },
+    {
+      "arquivo": "03-embalagens/sacola-aplicacao-creme.svg",
+      "formato": "svg",
+      "bytes": 31839,
+      "largura_px": 1400,
+      "altura_px": 880,
+      "medida_mm": "",
+      "estado": "Estudo de aplicação",
+      "observacoes": "Versão creme para substrato verde escuro.",
+      "sha256": "3715d76058b9854ad3fa502609d7640e42ad5dc10f369b1eb9e8570074be0fda"
+    },
+    {
+      "arquivo": "03-embalagens/sacola-aplicacao.png",
+      "formato": "png",
+      "bytes": 50524,
+      "largura_px": 1400,
+      "altura_px": 880,
+      "medida_mm": "",
+      "estado": "Estudo de aplicação",
+      "observacoes": "Arte transparente; escala e gabarito definidos pelo fabricante da sacola.",
+      "sha256": "0a8a664d59a39c3e38bbad39f85d7488dcef1ff9bd702e4c25b8f95cfc60f81a"
+    },
+    {
+      "arquivo": "03-embalagens/sacola-aplicacao.svg",
+      "formato": "svg",
+      "bytes": 31833,
+      "largura_px": 1400,
+      "altura_px": 880,
+      "medida_mm": "",
+      "estado": "Estudo de aplicação",
+      "observacoes": "Arte transparente; escala e gabarito definidos pelo fabricante da sacola.",
+      "sha256": "33487611cc538e2603a1d1eef69dc912a0deca216a84bfe8d474bc99d98918d6"
+    },
+    {
+      "arquivo": "03-embalagens/tag-frente.pdf",
+      "formato": "pdf",
+      "bytes": 14785,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": [
+        61,
+        101
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Corte 55×95mm; arquivo 61×101mm; sangria 3mm; furo a definir no gabarito.",
+      "sha256": "a6cb233178f57eadf3b87648f42cb4f3081fef4b4a8bb5fa4add35afd337b72b"
+    },
+    {
+      "arquivo": "03-embalagens/tag-frente.png",
+      "formato": "png",
+      "bytes": 26228,
+      "largura_px": 610,
+      "altura_px": 1010,
+      "medida_mm": [
+        61,
+        101
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Corte 55×95mm; arquivo 61×101mm; sangria 3mm; furo a definir no gabarito.",
+      "sha256": "9072f4e890a7a0ca58a4cdc8a0c549baed91445fc711bd5b891844586f58d663"
+    },
+    {
+      "arquivo": "03-embalagens/tag-frente.svg",
+      "formato": "svg",
+      "bytes": 31356,
+      "largura_px": 610,
+      "altura_px": 1010,
+      "medida_mm": [
+        61,
+        101
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Corte 55×95mm; arquivo 61×101mm; sangria 3mm; furo a definir no gabarito.",
+      "sha256": "8559b34aacb2e32803333417d289addee17ea1d1de21eb52da62e5f188973735"
+    },
+    {
+      "arquivo": "03-embalagens/tag-verso.pdf",
+      "formato": "pdf",
+      "bytes": 20785,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": [
+        61,
+        101
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Campos para preenchimento. Não substitui etiqueta de composição/cuidados. Corte 55×95mm, sangria 3mm.",
+      "sha256": "c5003ea6258bf3db56ac794c210431cbb45964400a50c8efc3bec10ed451c9d7"
+    },
+    {
+      "arquivo": "03-embalagens/tag-verso.png",
+      "formato": "png",
+      "bytes": 21808,
+      "largura_px": 610,
+      "altura_px": 1010,
+      "medida_mm": [
+        61,
+        101
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Campos para preenchimento. Não substitui etiqueta de composição/cuidados. Corte 55×95mm, sangria 3mm.",
+      "sha256": "03cbe48dd2ae9bdb51b147713fd1958c5399fc3a90e8e173d7e6c068e88320ca"
+    },
+    {
+      "arquivo": "03-embalagens/tag-verso.svg",
+      "formato": "svg",
+      "bytes": 45215,
+      "largura_px": 610,
+      "altura_px": 1010,
+      "medida_mm": [
+        61,
+        101
+      ],
+      "estado": "Arte de embalagem — validar gráfica",
+      "observacoes": "Campos para preenchimento. Não substitui etiqueta de composição/cuidados. Corte 55×95mm, sangria 3mm.",
+      "sha256": "5cb125f1039c2a5af6ed224fddec45c4a22d414f0b5c4fd92212d8b7f9aaffa3"
+    },
+    {
+      "arquivo": "04-conteudo/Guia-de-conteudo.html",
+      "formato": "html",
+      "bytes": 13845,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "0c817bd613049ea7b1436a49d6471944d81bf32193f8dc482e02447a0c97b53c"
+    },
+    {
+      "arquivo": "04-conteudo/Guia-de-conteudo.md",
+      "formato": "md",
+      "bytes": 10340,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "2e2e42c3b69f28be7b2de31b460aa8971df376c79e792dbe76414e4096d3c528"
+    },
+    {
+      "arquivo": "04-conteudo/Guia-de-conteudo.pdf",
+      "formato": "pdf",
+      "bytes": 329970,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "2eee2b2779deb591ada5c425669caf3ca6d05cf9f6c98311e11e3bf6ccb8b5a8"
+    },
+    {
+      "arquivo": "04-conteudo/Ideias-para-a-loja.html",
+      "formato": "html",
+      "bytes": 6442,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "b54a03dcd749be5b083de6886086d468dafb61ca124430de40f3ba44776c08e5"
+    },
+    {
+      "arquivo": "04-conteudo/Ideias-para-a-loja.md",
+      "formato": "md",
+      "bytes": 4474,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "1923d79a387aa169a68e646108c20086f6c761db8d4ccc2ca254fdfc84ae278f"
+    },
+    {
+      "arquivo": "04-conteudo/Ideias-para-a-loja.pdf",
+      "formato": "pdf",
+      "bytes": 138540,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "c81b7ed918b830fd8f88ef25c67b299dc697cb0315892dcc3730e99c87e5ca22"
+    },
+    {
+      "arquivo": "05-editorial/editorial-conceitual.png",
+      "formato": "png",
+      "bytes": 2269688,
+      "largura_px": 1122,
+      "altura_px": 1402,
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "dc6bd8c7ca5724a50c219c92a27aa907f49de5a00e0261d887e8add14ee11dd2"
+    },
+    {
+      "arquivo": "05-editorial/LEIA-ME.txt",
+      "formato": "txt",
+      "bytes": 1987,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "d5df0d5fe1be61f6d9bee86e34e1a6360ba71ab30151675c3a3ee013b869780a"
+    },
+    {
+      "arquivo": "06-fontes/Fraunces-Italic.ttf",
+      "formato": "ttf",
+      "bytes": 414904,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "b24448c43702fac4ee856781d461a0dfba8d8e594b6e8e190234b75fed2c0e01"
+    },
+    {
+      "arquivo": "06-fontes/Fraunces-LICENCA.txt",
+      "formato": "txt",
+      "bytes": 4391,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "bdf4c22802eaf804f998195871c6b8938aac2ac14b2d78a8bd66a6f1eced833b"
+    },
+    {
+      "arquivo": "06-fontes/Fraunces.ttf",
+      "formato": "ttf",
+      "bytes": 360440,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "177ff6c0f14e5550a3c624247cd1189611d4eb65d000b14944c63d967958abbb"
+    },
+    {
+      "arquivo": "06-fontes/Manrope-LICENCA.txt",
+      "formato": "txt",
+      "bytes": 4387,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+    },
+    {
+      "arquivo": "06-fontes/Manrope.ttf",
+      "formato": "ttf",
+      "bytes": 164700,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+    },
+    {
+      "arquivo": "07-mockups-kittl/01-sacola.png",
+      "formato": "png",
+      "bytes": 1576847,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Mockup Kittl — estudo de aplicação",
+      "observacoes": "",
+      "sha256": "461f53d0ba1ba0830e49512009067c379d50fe1d3c548bb30fa3623e51b95e48"
+    },
+    {
+      "arquivo": "07-mockups-kittl/02-ecobag.png",
+      "formato": "png",
+      "bytes": 905787,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Mockup Kittl — estudo de aplicação",
+      "observacoes": "",
+      "sha256": "08d03ab01ffcbf31f18de0d40e80573c1eed93601d92975c6f15399b003f149a"
+    },
+    {
+      "arquivo": "07-mockups-kittl/03-tag-clara.png",
+      "formato": "png",
+      "bytes": 1537790,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Mockup Kittl — estudo de aplicação",
+      "observacoes": "",
+      "sha256": "1222a55c65fbe12731797e90a662106aba68bd76a0217091bb25e3da532f516e"
+    },
+    {
+      "arquivo": "07-mockups-kittl/04-cartao.png",
+      "formato": "png",
+      "bytes": 2288208,
+      "largura_px": 1080,
+      "altura_px": 1080,
+      "medida_mm": "",
+      "estado": "Mockup Kittl — estudo de aplicação",
+      "observacoes": "",
+      "sha256": "2ed2428ee6d5f535bedf3613abbf23f7a40cd13f8b98e9487151802186d6411d"
+    },
+    {
+      "arquivo": "07-mockups-kittl/LEIA-ME.md",
+      "formato": "md",
+      "bytes": 2672,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Mockup Kittl — estudo de aplicação",
+      "observacoes": "",
+      "sha256": "d11ee81de7614e4d91b8161866320549e29108a30767f7cb1b9738a5baae71ee"
+    },
+    {
+      "arquivo": "07-mockups-kittl/links.json",
+      "formato": "json",
+      "bytes": 3847,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Mockup Kittl — estudo de aplicação",
+      "observacoes": "",
+      "sha256": "77d7a7eabac134e4fd41328180291656a24b458f8161a62bbee2e4041765bad3"
+    },
+    {
+      "arquivo": "COMECE-AQUI.html",
+      "formato": "html",
+      "bytes": 38553,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "683709b8cfdbabdce7f7df91bed073d6d0e38c54e35d9fff03bf0aef3db8dbea"
+    },
+    {
+      "arquivo": "cores.json",
+      "formato": "json",
+      "bytes": 473,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "6558caa84ab47ad671ab15095d6f2d47ef6c698f9efa50552d1a056d634db489"
+    },
+    {
+      "arquivo": "LEIA-ME.md",
+      "formato": "md",
+      "bytes": 4645,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "7e87d494b2a76ab1aa5f62529752b1b05245c305166d98af5013053b1d734625"
+    },
+    {
+      "arquivo": "Manual-Aurevi.pdf",
+      "formato": "pdf",
+      "bytes": 18790160,
+      "largura_px": "",
+      "altura_px": "",
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "40d0efdf4193c5d07f9b87f20fcf3e0a731ff8b922be709d52304cfdf45c0836"
+    },
+    {
+      "arquivo": "Visao-geral-Aurevi.png",
+      "formato": "png",
+      "bytes": 1076602,
+      "largura_px": 1800,
+      "altura_px": 1540,
+      "medida_mm": "",
+      "estado": "Recurso de apoio",
+      "observacoes": "",
+      "sha256": "5762e0a04ab6c7d8a86714b2b8792c61bb8ccd7fd9b5ae600462b1aba0b439f9"
+    }
+  ]
+}

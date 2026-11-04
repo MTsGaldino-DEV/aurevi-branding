@@ -1,0 +1,99 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"view\": \"mockup-templates\",\n  \"templates\": [\n    {\n      \"id\": 11285,\n      \"name\": \"Labeled Collection #11285\",\n      \"premium\": true,\n      \"slots\": [\n        {\n          \"centerX\": 0.49785439504318985,\n          \"centerY\": 0.5289453517777968,\n          \"maxSize\": 0.06486358140663019\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1764739822576.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 2717,\n      \"name\": \"Little Voyagers Collection #2717\",\n      \"premium\": true,\n      \"slots\": [\n        {\n          \"centerX\": 0.4454309788973476,\n          \"centerY\": 0.6310304391707113,\n          \"maxSize\": 0.15600222205771502\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1745050786953.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 11352,\n      \"name\": \"Labeled Collection #11352\",\n      \"premium\": false,\n      \"slots\": [\n        {\n          \"centerX\": 0.46883551999666095,\n          \"centerY\": 0.3310270858462927,\n          \"maxSize\": 0.06528166479108675\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1764754137581.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 11489,\n      \"name\": \"Theory of Light Collection #11489\",\n      \"premium\": true,\n      \"slots\": [\n        {\n          \"centerX\": 0.3281771194782483,\n          \"centerY\": 0.5315742840825444,\n          \"maxSize\": 0.06267895801665875\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1764868262477.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 462,\n      \"name\": \"Tags Collection #462\",\n      \"premium\": true,\n      \"slots\": [\n        {\n          \"centerX\": 0.47014585326170943,\n          \"centerY\": 0.5458234391849333,\n          \"maxSize\": 0.11333534238887936\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1782718232602.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 463,\n      \"name\": \"Tags Collection #463\",\n      \"premium\": false,\n      \"slots\": [\n        {\n          \"centerX\": 0.5125241588466843,\n          \"centerY\": 0.42694592670038245,\n          \"maxSize\": 0.12124948574635354\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1694165240076.preview.jpeg@webp\"\n    }\n  ],\n  \"meta\": {\n    \"search\": \"hang tag\",\n    \"take\": 6,\n    \"skip\": 0,\n    \"total\": 130,\n    \"nextSkip\": 6,\n    \"skippedUnrenderable\": 0\n  }\n}"
+    }
+  ],
+  "structuredContent": {
+    "view": "mockup-templates",
+    "templates": [
+      {
+        "id": 11285,
+        "name": "Labeled Collection #11285",
+        "premium": true,
+        "slots": [
+          {
+            "centerX": 0.49785439504318985,
+            "centerY": 0.5289453517777968,
+            "maxSize": 0.06486358140663019
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1764739822576.preview.jpeg@webp"
+      },
+      {
+        "id": 2717,
+        "name": "Little Voyagers Collection #2717",
+        "premium": true,
+        "slots": [
+          {
+            "centerX": 0.4454309788973476,
+            "centerY": 0.6310304391707113,
+            "maxSize": 0.15600222205771502
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1745050786953.preview.jpeg@webp"
+      },
+      {
+        "id": 11352,
+        "name": "Labeled Collection #11352",
+        "premium": false,
+        "slots": [
+          {
+            "centerX": 0.46883551999666095,
+            "centerY": 0.3310270858462927,
+            "maxSize": 0.06528166479108675
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1764754137581.preview.jpeg@webp"
+      },
+      {
+        "id": 11489,
+        "name": "Theory of Light Collection #11489",
+        "premium": true,
+        "slots": [
+          {
+            "centerX": 0.3281771194782483,
+            "centerY": 0.5315742840825444,
+            "maxSize": 0.06267895801665875
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1764868262477.preview.jpeg@webp"
+      },
+      {
+        "id": 462,
+        "name": "Tags Collection #462",
+        "premium": true,
+        "slots": [
+          {
+            "centerX": 0.47014585326170943,
+            "centerY": 0.5458234391849333,
+            "maxSize": 0.11333534238887936
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1782718232602.preview.jpeg@webp"
+      },
+      {
+        "id": 463,
+        "name": "Tags Collection #463",
+        "premium": false,
+        "slots": [
+          {
+            "centerX": 0.5125241588466843,
+            "centerY": 0.42694592670038245,
+            "maxSize": 0.12124948574635354
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1694165240076.preview.jpeg@webp"
+      }
+    ],
+    "meta": {
+      "search": "hang tag",
+      "take": 6,
+      "skip": 0,
+      "total": 130,
+      "nextSkip": 6,
+      "skippedUnrenderable": 0
+    }
+  }
+}

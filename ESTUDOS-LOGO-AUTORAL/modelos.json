@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "key": "presenca",
+    "name": "Presença",
+    "spacing": 22,
+    "scaleX": 1,
+    "tag": "CLÁSSICA COM PERSONALIDADE",
+    "desc": [
+      "Serifas precisas e contraste de traços.",
+      "O corte ascendente no A dá assinatura."
+    ]
+  },
+  {
+    "id": "02",
+    "key": "enlace",
+    "name": "Enlace",
+    "spacing": 20,
+    "scaleX": 0.96,
+    "tag": "FEMININA E EXPRESSIVA",
+    "desc": [
+      "Curvas com movimento e terminais suaves.",
+      "Um gesto mais envolvente no AV e no nome."
+    ]
+  },
+  {
+    "id": "03",
+    "key": "vertice",
+    "name": "Vértice",
+    "spacing": 28,
+    "scaleX": 0.92,
+    "tag": "ESCULTURAL E OUSADA",
+    "desc": [
+      "Desenho limpo com cortes diagonais.",
+      "O AV vira uma assinatura arquitetônica."
+    ]
+  }
+]

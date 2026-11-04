@@ -1,0 +1,125 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"view\": \"mockup-templates\",\n  \"templates\": [\n    {\n      \"id\": 4203,\n      \"name\": \"House Blend Collection #4203\",\n      \"premium\": true,\n      \"slots\": [\n        {\n          \"centerX\": 0.43116929160744866,\n          \"centerY\": 0.541597176984961,\n          \"maxSize\": 0.26365026642393397\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1749284178459.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 4868,\n      \"name\": \"Of Balm and Bloom Collection #4868\",\n      \"premium\": false,\n      \"slots\": [\n        {\n          \"centerX\": 0.4528568542919589,\n          \"centerY\": 0.6708679300616404,\n          \"maxSize\": 0.2\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1749475797396.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 5853,\n      \"name\": \"The Noon Shift Collection #5853\",\n      \"premium\": false,\n      \"slots\": [\n        {\n          \"centerX\": 0.4923893550576849,\n          \"centerY\": 0.552672773486846,\n          \"maxSize\": 0.1987538892790217\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1750832944088.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 4703,\n      \"name\": \"Of Balm and Bloom Collection #4703\",\n      \"premium\": true,\n      \"slots\": [\n        {\n          \"centerX\": 0.3620301730094266,\n          \"centerY\": 0.4105893322069546,\n          \"maxSize\": 0.1377480048242583\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1750149205785.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 13342,\n      \"name\": \"Earthbound Collection #13342\",\n      \"premium\": true,\n      \"slots\": [\n        {\n          \"centerX\": 0.44385962909751975,\n          \"centerY\": 0.50701754636281,\n          \"maxSize\": 0.2\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1770291654606.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 5654,\n      \"name\": \"Sun Kissed Collection #5654\",\n      \"premium\": true,\n      \"slots\": [\n        {\n          \"centerX\": 0.48935041721784867,\n          \"centerY\": 0.6189203410673577,\n          \"maxSize\": 0.2\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1756801166648.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 12938,\n      \"name\": \"House Blend Collection #12938\",\n      \"premium\": false,\n      \"slots\": [\n        {\n          \"centerX\": 0.4325112467735328,\n          \"centerY\": 0.4898766870160296,\n          \"maxSize\": 0.2\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1769707546606.preview.jpeg@webp\"\n    },\n    {\n      \"id\": 8536,\n      \"name\": \"Tutti Frutti Collection #8536\",\n      \"premium\": true,\n      \"slots\": [\n        {\n          \"centerX\": 0.5202859150191599,\n          \"centerY\": 0.47658846042650216,\n          \"maxSize\": 0.24464365567375518\n        }\n      ],\n      \"previewUrl\": \"https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1755763869214.preview.jpeg@webp\"\n    }\n  ],\n  \"meta\": {\n    \"search\": \"shopping bag\",\n    \"take\": 8,\n    \"skip\": 0,\n    \"total\": 274,\n    \"nextSkip\": 8,\n    \"skippedUnrenderable\": 0\n  }\n}"
+    }
+  ],
+  "structuredContent": {
+    "view": "mockup-templates",
+    "templates": [
+      {
+        "id": 4203,
+        "name": "House Blend Collection #4203",
+        "premium": true,
+        "slots": [
+          {
+            "centerX": 0.43116929160744866,
+            "centerY": 0.541597176984961,
+            "maxSize": 0.26365026642393397
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1749284178459.preview.jpeg@webp"
+      },
+      {
+        "id": 4868,
+        "name": "Of Balm and Bloom Collection #4868",
+        "premium": false,
+        "slots": [
+          {
+            "centerX": 0.4528568542919589,
+            "centerY": 0.6708679300616404,
+            "maxSize": 0.2
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1749475797396.preview.jpeg@webp"
+      },
+      {
+        "id": 5853,
+        "name": "The Noon Shift Collection #5853",
+        "premium": false,
+        "slots": [
+          {
+            "centerX": 0.4923893550576849,
+            "centerY": 0.552672773486846,
+            "maxSize": 0.1987538892790217
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1750832944088.preview.jpeg@webp"
+      },
+      {
+        "id": 4703,
+        "name": "Of Balm and Bloom Collection #4703",
+        "premium": true,
+        "slots": [
+          {
+            "centerX": 0.3620301730094266,
+            "centerY": 0.4105893322069546,
+            "maxSize": 0.1377480048242583
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1750149205785.preview.jpeg@webp"
+      },
+      {
+        "id": 13342,
+        "name": "Earthbound Collection #13342",
+        "premium": true,
+        "slots": [
+          {
+            "centerX": 0.44385962909751975,
+            "centerY": 0.50701754636281,
+            "maxSize": 0.2
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1770291654606.preview.jpeg@webp"
+      },
+      {
+        "id": 5654,
+        "name": "Sun Kissed Collection #5654",
+        "premium": true,
+        "slots": [
+          {
+            "centerX": 0.48935041721784867,
+            "centerY": 0.6189203410673577,
+            "maxSize": 0.2
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1756801166648.preview.jpeg@webp"
+      },
+      {
+        "id": 12938,
+        "name": "House Blend Collection #12938",
+        "premium": false,
+        "slots": [
+          {
+            "centerX": 0.4325112467735328,
+            "centerY": 0.4898766870160296,
+            "maxSize": 0.2
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1769707546606.preview.jpeg@webp"
+      },
+      {
+        "id": 8536,
+        "name": "Tutti Frutti Collection #8536",
+        "premium": true,
+        "slots": [
+          {
+            "centerX": 0.5202859150191599,
+            "centerY": 0.47658846042650216,
+            "maxSize": 0.24464365567375518
+          }
+        ],
+        "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1755763869214.preview.jpeg@webp"
+      }
+    ],
+    "meta": {
+      "search": "shopping bag",
+      "take": 8,
+      "skip": 0,
+      "total": 274,
+      "nextSkip": 8,
+      "skippedUnrenderable": 0
+    }
+  }
+}

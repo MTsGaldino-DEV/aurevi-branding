@@ -1,0 +1,22 @@
+{
+  "desktop": {
+    "pages": 21,
+    "failedImages": 0,
+    "fonts": [
+      true,
+      true
+    ],
+    "overflow": false
+  },
+  "mobile": {
+    "overflow": false,
+    "firstPageWidth": 366,
+    "viewport": 390
+  },
+  "zoomWorks": true,
+  "externalResourceRequests": [],
+  "editable": {
+    "textNodes": 8,
+    "fontLoaded": true
+  }
+}

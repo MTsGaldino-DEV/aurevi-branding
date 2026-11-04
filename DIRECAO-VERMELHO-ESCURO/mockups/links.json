@@ -1,0 +1,78 @@
+[
+  {
+    "filename": "sacola-boutique.png",
+    "status": "ready",
+    "key": "cmw2dplzi0yfj0ka186zt7uyr",
+    "uploadId": "cmw2dplzi0yfj0ka186zt7uyr",
+    "objectId": "cmw2dpl6i0yn40j7q02ut1v89",
+    "mockupTemplateId": 9752,
+    "name": "Blackout Deals Collection #9752",
+    "url": "https://cache.kittl.com/pr:sharp/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw2dplzi0yfj0ka186zt7uyr.png",
+    "thumbnailUrl": "https://cache.kittl.com/pr:sharp/rs:fit:768:768:0/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw2dplzi0yfj0ka186zt7uyr.png@webp",
+    "editUrl": "https://app.kittl.com/?wid=cmw288xol0ac50j9dgjzxfj42&ndm=%7B%22img%22%3A%22users%2Fcmw288xol0ac50j9dgjzxfj42%2Fuploads%2Fcmw2dlatq0xvu0j9d96deemtx.png%22%2C%22w%22%3A1600%2C%22h%22%3A560%2C%22m%22%3A%5B%7B%22id%22%3A9752%2C%22r%22%3A%5B0.3592131753449907%2C0.490678818777798%2C0.09468918595881552%2C0.033141215085585436%5D%7D%5D%7D",
+    "slotCount": 1,
+    "designs": [
+      {
+        "slot": 0,
+        "placement": {
+          "centerX": 0.485,
+          "centerY": 0.535,
+          "maxSize": 0.252
+        },
+        "bounds": {
+          "x": 0.359,
+          "y": 0.465,
+          "width": 0.308,
+          "height": 0.127
+        },
+        "visibleRatio": 1
+      }
+    ],
+    "printAreas": [
+      {
+        "x": 0.211,
+        "y": 0.34,
+        "width": 0.609,
+        "height": 0.609
+      }
+    ]
+  },
+  {
+    "filename": "sacola-em-uso.png",
+    "status": "ready",
+    "key": "cmw2dpp970ylw0jb428vgby7t",
+    "uploadId": "cmw2dpp970ylw0jb428vgby7t",
+    "objectId": "cmw2dpofw0yfw0ka1houm88m0",
+    "mockupTemplateId": 18518,
+    "name": "To Go Collection #18518",
+    "url": "https://cache.kittl.com/pr:sharp/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw2dpp970ylw0jb428vgby7t.png",
+    "thumbnailUrl": "https://cache.kittl.com/pr:sharp/rs:fit:768:768:0/plain/api/users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw2dpp970ylw0jb428vgby7t.png@webp",
+    "editUrl": "https://app.kittl.com/?wid=cmw288xol0ac50j9dgjzxfj42&ndm=%7B%22img%22%3A%22users%2Fcmw288xol0ac50j9dgjzxfj42%2Fuploads%2Fcmw2dlatq0xvu0j9d96deemtx.png%22%2C%22w%22%3A1600%2C%22h%22%3A560%2C%22m%22%3A%5B%7B%22id%22%3A18518%2C%22r%22%3A%5B0.21165489108098468%2C0.40430758590700006%2C0.1368848157473097%2C0.04790968551155839%5D%7D%5D%7D",
+    "slotCount": 1,
+    "designs": [
+      {
+        "slot": 0,
+        "placement": {
+          "centerX": 0.433,
+          "centerY": 0.482,
+          "maxSize": 0.442
+        },
+        "bounds": {
+          "x": 0.212,
+          "y": 0.314,
+          "width": 0.517,
+          "height": 0.266
+        },
+        "visibleRatio": 1
+      }
+    ],
+    "printAreas": [
+      {
+        "x": 0.125,
+        "y": 0.242,
+        "width": 0.699,
+        "height": 0.656
+      }
+    ]
+  }
+]

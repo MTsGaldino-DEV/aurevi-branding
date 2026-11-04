@@ -1,0 +1,47 @@
+[
+  {
+    "id": "01",
+    "name": "Azul noite + ouro",
+    "colors": [
+      "#233A57",
+      "#FAF7F2",
+      "#BE9B57"
+    ],
+    "names": [
+      "Azul noite",
+      "Porcelana",
+      "Ouro suave"
+    ],
+    "reason": "A opção mais próxima da elegância da referência. O azul dá presença; o ouro entra na assinatura e nos acabamentos."
+  },
+  {
+    "id": "02",
+    "name": "Bordô + champagne",
+    "colors": [
+      "#62273C",
+      "#F7EEE5",
+      "#C2A475"
+    ],
+    "names": [
+      "Bordô",
+      "Champagne",
+      "Ouro acetinado"
+    ],
+    "reason": "Mais calor e personalidade feminina. Conversa com vestidos, produção de look e ocasiões especiais."
+  },
+  {
+    "id": "03",
+    "name": "Grafite + rosa pérola",
+    "colors": [
+      "#2B2931",
+      "#F2E3E4",
+      "#B4945C"
+    ],
+    "names": [
+      "Grafite",
+      "Rosa pérola",
+      "Ouro discreto"
+    ],
+    "reason": "Uma direção atual e delicada, que deixa as cores das roupas aparecerem e mantém contraste de boutique."
+  }
+]

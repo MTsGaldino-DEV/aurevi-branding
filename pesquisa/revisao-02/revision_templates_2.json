@@ -1,0 +1,169 @@
+{
+  "view": "mockup-templates",
+  "templates": [
+    {
+      "id": 462,
+      "name": "Tags Collection #462",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.47014585326170943,
+          "centerY": 0.5458234391849333,
+          "maxSize": 0.11333534238887936
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1782718232602.preview.jpeg@webp"
+    },
+    {
+      "id": 463,
+      "name": "Tags Collection #463",
+      "premium": false,
+      "slots": [
+        {
+          "centerX": 0.5125241588466843,
+          "centerY": 0.42694592670038245,
+          "maxSize": 0.12124948574635354
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1694165240076.preview.jpeg@webp"
+    },
+    {
+      "id": 464,
+      "name": "Tags Collection #464",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.3809676668855146,
+          "centerY": 0.5739806412085471,
+          "maxSize": 0.12260894865056261
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1694166517674.preview.jpeg@webp"
+    },
+    {
+      "id": 11285,
+      "name": "Labeled Collection #11285",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.49785439504318985,
+          "centerY": 0.5289453517777968,
+          "maxSize": 0.06486358140663019
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1764739822576.preview.jpeg@webp"
+    },
+    {
+      "id": 1188,
+      "name": "Tags Collection #1188",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.46902723256834256,
+          "centerY": 0.5943931959821945,
+          "maxSize": 0.2
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1710857100834.preview.jpeg@webp"
+    },
+    {
+      "id": 11319,
+      "name": "Labeled Collection #11319",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.5389277297268549,
+          "centerY": 0.5759090071042833,
+          "maxSize": 0.06817735294119581
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1764751268950.preview.jpeg@webp"
+    },
+    {
+      "id": 1182,
+      "name": "Tags Collection #1182",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.6122102158090613,
+          "centerY": 0.6608828605189749,
+          "maxSize": 0.2143281245981473
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1718624091052.preview.jpeg@webp"
+    },
+    {
+      "id": 11352,
+      "name": "Labeled Collection #11352",
+      "premium": false,
+      "slots": [
+        {
+          "centerX": 0.46883551999666095,
+          "centerY": 0.3310270858462927,
+          "maxSize": 0.06528166479108675
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1764754137581.preview.jpeg@webp"
+    },
+    {
+      "id": 2703,
+      "name": "Earthbound Collection #2703",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.43826508085015237,
+          "centerY": 0.4846698922370414,
+          "maxSize": 0.22915043026162968
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1744791551463.preview.jpeg@webp"
+    },
+    {
+      "id": 586,
+      "name": "Tags Collection #586",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.4866410847672976,
+          "centerY": 0.5236464029890863,
+          "maxSize": 0.13728515999803764
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1694784014616.preview.jpeg@webp"
+    },
+    {
+      "id": 1189,
+      "name": "Tags Collection #1189",
+      "premium": true,
+      "slots": [
+        {
+          "centerX": 0.5619455348633151,
+          "centerY": 0.5486714916783186,
+          "maxSize": 0.2
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1710857571535.preview.jpeg@webp"
+    },
+    {
+      "id": 1180,
+      "name": "Tags Collection #1180",
+      "premium": false,
+      "slots": [
+        {
+          "centerX": 0.48990976173859846,
+          "centerY": 0.7717655661939006,
+          "maxSize": 0.11874253869217109
+        }
+      ],
+      "previewUrl": "https://cache.kittl.com/pr:sharp/rs:fit:512:512:0/plain/mockups/1710789811832.preview.jpeg@webp"
+    }
+  ],
+  "meta": {
+    "search": "clothing tag",
+    "take": 12,
+    "skip": 0,
+    "total": 914,
+    "nextSkip": 12,
+    "skippedUnrenderable": 0
+  }
+}

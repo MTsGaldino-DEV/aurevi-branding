@@ -1,0 +1,1379 @@
+{
+  "checks": 343,
+  "passed": 343,
+  "errors": [],
+  "results": [
+    {
+      "check": "40 artes originais: 14 de marca e 26 de redes/embalagens",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-verde.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-verde.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-verde.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-verde.svg — transparência preservada",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-verde.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-verde.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-verde.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-verde.svg — transparência preservada",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-verde.svg — texto dentro da arte: MODA FEMININA",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-verde.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-verde.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-verde.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-verde.svg — transparência preservada",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-creme.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-creme.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-creme.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-creme.svg — transparência preservada",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-creme.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-creme.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-creme.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-creme.svg — transparência preservada",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-creme.svg — texto dentro da arte: MODA FEMININA",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-creme.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-creme.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-creme.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-creme.svg — transparência preservada",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-preto.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-preto.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-preto.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-preto.svg — transparência preservada",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-preto.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-preto.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-preto.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-preto.svg — transparência preservada",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-preto.svg — texto dentro da arte: MODA FEMININA",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-preto.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-preto.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-preto.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-preto.svg — transparência preservada",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-branco.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-branco.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-branco.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "01-logos/logo-branco.svg — transparência preservada",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-branco.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-branco.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-branco.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-branco.svg — transparência preservada",
+      "passed": true
+    },
+    {
+      "check": "01-logos/assinatura-branco.svg — texto dentro da arte: MODA FEMININA",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-branco.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-branco.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-branco.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "01-logos/simbolo-branco.svg — transparência preservada",
+      "passed": true
+    },
+    {
+      "check": "01-logos/avatar.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "01-logos/avatar.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "01-logos/avatar.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "01-logos/padrao-dobras.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "01-logos/padrao-dobras.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "01-logos/padrao-dobras.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/01-apresentacao.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/01-apresentacao.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/01-apresentacao.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/01-apresentacao.svg — texto dentro da arte: BOM GOSTO. DO SEU JEITO.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/01-apresentacao.svg — texto dentro da arte: Seu jeito,",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/01-apresentacao.svg — texto dentro da arte: bem vestido.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/01-apresentacao.svg — texto dentro da arte: Prazer, somos a Aurevi.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/01-apresentacao.svg — texto dentro da arte: @use_aurevi",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/01-apresentacao.svg — texto dentro da arte: 01 / A MARCA",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/02-manifesto.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/02-manifesto.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/02-manifesto.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/02-manifesto.svg — texto dentro da arte: Vestir bem",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/02-manifesto.svg — texto dentro da arte: é se sentir",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/02-manifesto.svg — texto dentro da arte: você.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/02-manifesto.svg — texto dentro da arte: Tem dias de sair. Dias de ficar.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/02-manifesto.svg — texto dentro da arte: E tantos jeitos de ser a gente.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/02-manifesto.svg — texto dentro da arte: A Aurevi combina com o seu.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/02-manifesto.svg — texto dentro da arte: @use_aurevi",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/02-manifesto.svg — texto dentro da arte: 02 / NOSSO JEITO",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/03-editorial-looks.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/03-editorial-looks.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/03-editorial-looks.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/03-editorial-looks.svg — texto dentro da arte: IDEIA DE LOOK",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/03-editorial-looks.svg — texto dentro da arte: Um look, mais de um plano.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/03-editorial-looks.svg — texto dentro da arte: Combine com o seu dia.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/03-editorial-looks.svg — texto dentro da arte: EDITORIAL CONCEITUAL • IMAGEM GERADA POR IA",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes-template.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes-template.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes-template.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes-template.svg — texto dentro da arte: UM OLHAR MAIS DE PERTO",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes-template.svg — texto dentro da arte: O detalhe faz parte.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes-template.svg — texto dentro da arte: INSIRA A FOTO REAL",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes-template.svg — texto dentro da arte: DO DETALHE DA PEÇA",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes-template.svg — texto dentro da arte: Textura, acabamento e movimento.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes-template.svg — texto dentro da arte: Mostre o que a foto de longe não conta.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes-template.svg — texto dentro da arte: [Nome da peça] • [tecido conferido]",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes-template.svg — texto dentro da arte: @use_aurevi",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/04-detalhes-template.svg — texto dentro da arte: 04 / DETALHES",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/05-combinacoes.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/05-combinacoes.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/05-combinacoes.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/05-combinacoes.svg — texto dentro da arte: Cor que conversa.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/05-combinacoes.svg — texto dentro da arte: Look que funciona.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/05-combinacoes.svg — texto dentro da arte: CREME + VERDE",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/05-combinacoes.svg — texto dentro da arte: CORAL + CREME",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/05-combinacoes.svg — texto dentro da arte: VERDE + AREIA",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/05-combinacoes.svg — texto dentro da arte: Salve para testar com o que você já tem.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/05-combinacoes.svg — texto dentro da arte: @use_aurevi",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/05-combinacoes.svg — texto dentro da arte: 05 / COMBINAÇÕES",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/06-bastidores-template.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/06-bastidores-template.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/06-bastidores-template.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/06-bastidores-template.svg — texto dentro da arte: POR AQUI, CADA ESCOLHA IMPORTA.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/06-bastidores-template.svg — texto dentro da arte: Por trás do look.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/06-bastidores-template.svg — texto dentro da arte: SUA FOTO DOS BASTIDORES",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/06-bastidores-template.svg — texto dentro da arte: Da escolha das peças ao cuidado",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/06-bastidores-template.svg — texto dentro da arte: com cada pedido. Vem ver de perto.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/06-bastidores-template.svg — texto dentro da arte: @use_aurevi",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/06-bastidores-template.svg — texto dentro da arte: 06 / BASTIDORES",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/07-seu-jeito.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/07-seu-jeito.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/07-seu-jeito.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/07-seu-jeito.svg — texto dentro da arte: ME CONTA UMA COISA:",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/07-seu-jeito.svg — texto dentro da arte: Hoje você",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/07-seu-jeito.svg — texto dentro da arte: vai de…",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/07-seu-jeito.svg — texto dentro da arte: 01",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/07-seu-jeito.svg — texto dentro da arte: Um básico com presença",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/07-seu-jeito.svg — texto dentro da arte: 02",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/07-seu-jeito.svg — texto dentro da arte: Uma cor pra mudar o dia",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/07-seu-jeito.svg — texto dentro da arte: 03",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/07-seu-jeito.svg — texto dentro da arte: Um look que já é favorito",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/07-seu-jeito.svg — texto dentro da arte: @use_aurevi",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/07-seu-jeito.svg — texto dentro da arte: 07 / CONVERSA",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto dentro da arte: PODE CHEGAR. A GENTE CONVERSA.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto dentro da arte: Gostou?",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto dentro da arte: Vamos conversar.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto dentro da arte: 1",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto dentro da arte: Mande a referência.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto dentro da arte: Uma foto ou o nome da peça já ajuda.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto dentro da arte: 2",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto dentro da arte: Conte o seu jeito.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto dentro da arte: Ocasião, tamanho e o que você prefere.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto dentro da arte: 3",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto dentro da arte: Confira os detalhes.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto dentro da arte: Consulte medidas e disponibilidade.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto dentro da arte: @use_aurevi",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/08-como-consultar.svg — texto dentro da arte: 08 / ATENDIMENTO",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/09-convite.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/09-convite.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/09-convite.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/09-convite.svg — texto dentro da arte: Tem espaço",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/09-convite.svg — texto dentro da arte: pro seu jeito.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/09-convite.svg — texto dentro da arte: Inspiração para vestir a vida como ela é.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/09-convite.svg — texto dentro da arte: @use_aurevi",
+      "passed": true
+    },
+    {
+      "check": "02-redes/feed/09-convite.svg — texto dentro da arte: 09 / VEM COM A GENTE",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/01-boas-vindas.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/01-boas-vindas.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/01-boas-vindas.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/01-boas-vindas.svg — texto dentro da arte: Seu jeito,",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/01-boas-vindas.svg — texto dentro da arte: bem vestido.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/01-boas-vindas.svg — texto dentro da arte: Esse é o nosso ponto de partida.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/01-boas-vindas.svg — texto dentro da arte: Conheça a Aurevi.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/01-boas-vindas.svg — texto dentro da arte: @use_aurevi",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/02-editorial.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/02-editorial.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/02-editorial.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/02-editorial.svg — texto dentro da arte: Um look.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/02-editorial.svg — texto dentro da arte: Vários planos.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/02-editorial.svg — texto dentro da arte: EDITORIAL CONCEITUAL • IMAGEM GERADA POR IA",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/03-enquete-template.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/03-enquete-template.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/03-enquete-template.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/03-enquete-template.svg — texto dentro da arte: QUAL É A SUA COMBINAÇÃO?",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/03-enquete-template.svg — texto dentro da arte: O look começa",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/03-enquete-template.svg — texto dentro da arte: com o seu jeito.",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/03-enquete-template.svg — texto dentro da arte: VERDE + CREME",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/03-enquete-template.svg — texto dentro da arte: AREIA + CORAL",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/03-enquete-template.svg — texto dentro da arte: ADICIONE UMA ENQUETE AQUI",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/03-enquete-template.svg — texto dentro da arte: @use_aurevi",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/04-peca-template.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/04-peca-template.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/04-peca-template.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/04-peca-template.svg — texto dentro da arte: INSIRA SUA FOTO REAL",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/04-peca-template.svg — texto dentro da arte: [Nome da peça]",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/04-peca-template.svg — texto dentro da arte: [Tamanhos e cores disponíveis]",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/04-peca-template.svg — texto dentro da arte: [Preço e condição conferidos]",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/04-peca-template.svg — texto dentro da arte: CONSULTE OS DETALHES",
+      "passed": true
+    },
+    {
+      "check": "02-redes/stories/04-peca-template.svg — texto dentro da arte: @use_aurevi",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/novidades.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/novidades.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/novidades.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/looks.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/looks.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/looks.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/detalhes.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/detalhes.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/detalhes.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/sobre.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/sobre.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/sobre.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/duvidas.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/duvidas.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/duvidas.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/comprar.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/comprar.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "02-redes/destaques/comprar.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/tag-frente.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/tag-frente.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/tag-frente.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/tag-frente.svg — texto dentro da arte: Seu jeito, bem vestido.",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/tag-verso.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/tag-verso.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/tag-verso.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/tag-verso.svg — texto dentro da arte: DO SEU JEITO.",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/tag-verso.svg — texto dentro da arte: PEÇA",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/tag-verso.svg — texto dentro da arte: TAMANHO",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/tag-verso.svg — texto dentro da arte: REFERÊNCIA",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/tag-verso.svg — texto dentro da arte: @use_aurevi",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/cartao-frente.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/cartao-frente.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/cartao-frente.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/cartao-frente.svg — texto dentro da arte: Que bom ter você",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/cartao-frente.svg — texto dentro da arte: por aqui.",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/cartao-frente.svg — texto dentro da arte: @use_aurevi",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/cartao-verso.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/cartao-verso.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/cartao-verso.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/cartao-verso.svg — texto dentro da arte: Obrigada por escolher a Aurevi.",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/cartao-verso.svg — texto dentro da arte: Esperamos que essa escolha acompanhe",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/cartao-verso.svg — texto dentro da arte: muitos momentos do seu jeito.",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/cartao-verso.svg — texto dentro da arte: Se quiser compartilhar seu look, marque a gente.",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/adesivo-lacre.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/adesivo-lacre.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/adesivo-lacre.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/sacola-aplicacao.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/sacola-aplicacao.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/sacola-aplicacao.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/sacola-aplicacao.svg — texto dentro da arte: Seu jeito, bem vestido.",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/sacola-aplicacao-creme.svg — texto em curvas",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/sacola-aplicacao-creme.svg — sem recurso externo",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/sacola-aplicacao-creme.svg — PNG na dimensão correta",
+      "passed": true
+    },
+    {
+      "check": "03-embalagens/sacola-aplicacao-creme.svg — texto dentro da arte: Seu jeito, bem vestido.",
+      "passed": true
+    },
+    {
+      "check": "Nove posts de feed",
+      "passed": true
+    },
+    {
+      "check": "Quatro stories",
+      "passed": true
+    },
+    {
+      "check": "Seis capas de destaque",
+      "passed": true
+    },
+    {
+      "check": "26 SVG com textos editáveis",
+      "passed": true
+    },
+    {
+      "check": "feed/03-editorial-looks.svg — aviso conceitual legível a 390px",
+      "passed": true
+    },
+    {
+      "check": "stories/02-editorial.svg — aviso conceitual legível a 390px",
+      "passed": true
+    },
+    {
+      "check": "stories/02-editorial.svg — aviso afastado pelo menos 240px da base",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — UTF-8 sem substituições",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/logo-verde.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: Manual-Aurevi.pdf",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/logo-verde.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 05-editorial/editorial-conceitual.png",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/logo-verde.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/simbolo-verde.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/logo-verde.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/logo-verde.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/simbolo-verde.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/logo-verde.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/logo-creme.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/logo-preto.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/logo-branco.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/padrao-dobras.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/simbolo-verde.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 05-editorial/editorial-conceitual.png",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/feed/01-apresentacao.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/feed/02-manifesto.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/feed/03-editorial-looks.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/feed/04-detalhes-template.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/feed/05-combinacoes.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/feed/06-bastidores-template.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/feed/07-seu-jeito.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/feed/08-como-consultar.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/feed/09-convite.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/feed/01-apresentacao.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/feed/03-editorial-looks.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/feed/04-detalhes-template.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/stories/01-boas-vindas.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/stories/02-editorial.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/stories/03-enquete-template.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/stories/04-peca-template.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/avatar.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/destaques/novidades.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/destaques/looks.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/destaques/detalhes.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/destaques/sobre.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/destaques/duvidas.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/destaques/comprar.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 03-embalagens/tag-frente.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 03-embalagens/tag-verso.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 03-embalagens/cartao-frente.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 03-embalagens/adesivo-lacre.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 07-mockups-kittl/01-sacola.png",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 07-mockups-kittl/02-ecobag.png",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 07-mockups-kittl/03-tag-clara.png",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 07-mockups-kittl/04-cartao.png",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/simbolo-verde.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/logo-verde.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 02-redes/feed/01-apresentacao.png",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 03-embalagens/tag-frente.svg",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 04-conteudo/Guia-de-conteudo.html",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 05-editorial/LEIA-ME.txt",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 06-fontes/Fraunces-LICENCA.txt",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 07-mockups-kittl/links.json",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: inventario.csv",
+      "passed": true
+    },
+    {
+      "check": "COMECE-AQUI.html — link local: 01-logos/logo-verde.svg",
+      "passed": true
+    },
+    {
+      "check": "Guia-de-conteudo.html — UTF-8 sem substituições",
+      "passed": true
+    },
+    {
+      "check": "04-conteudo/Guia-de-conteudo.html — link local: ../COMECE-AQUI.html",
+      "passed": true
+    },
+    {
+      "check": "Ideias-para-a-loja.html — UTF-8 sem substituições",
+      "passed": true
+    },
+    {
+      "check": "04-conteudo/Ideias-para-a-loja.html — link local: ../COMECE-AQUI.html",
+      "passed": true
+    },
+    {
+      "check": "Manual-Aurevi.pdf — páginas: 21",
+      "passed": true
+    },
+    {
+      "check": "adesivo-lacre.pdf — páginas: 1",
+      "passed": true
+    },
+    {
+      "check": "adesivo-lacre.pdf — medida física do PDF",
+      "passed": true
+    },
+    {
+      "check": "cartao-frente.pdf — páginas: 1",
+      "passed": true
+    },
+    {
+      "check": "cartao-frente.pdf — medida física do PDF",
+      "passed": true
+    },
+    {
+      "check": "cartao-verso.pdf — páginas: 1",
+      "passed": true
+    },
+    {
+      "check": "cartao-verso.pdf — medida física do PDF",
+      "passed": true
+    },
+    {
+      "check": "tag-frente.pdf — páginas: 1",
+      "passed": true
+    },
+    {
+      "check": "tag-frente.pdf — medida física do PDF",
+      "passed": true
+    },
+    {
+      "check": "tag-verso.pdf — páginas: 1",
+      "passed": true
+    },
+    {
+      "check": "tag-verso.pdf — medida física do PDF",
+      "passed": true
+    },
+    {
+      "check": "Guia-de-conteudo.pdf — páginas: 7",
+      "passed": true
+    },
+    {
+      "check": "Ideias-para-a-loja.pdf — páginas: 3",
+      "passed": true
+    },
+    {
+      "check": "Quatro mockups Kittl com links de edição",
+      "passed": true
+    },
+    {
+      "check": "01-sacola.png — arte inteira visível no Kittl",
+      "passed": true
+    },
+    {
+      "check": "01-sacola.png — salvo na biblioteca Kittl",
+      "passed": true
+    },
+    {
+      "check": "01-sacola.png — 1080×1080",
+      "passed": true
+    },
+    {
+      "check": "02-ecobag.png — arte inteira visível no Kittl",
+      "passed": true
+    },
+    {
+      "check": "02-ecobag.png — salvo na biblioteca Kittl",
+      "passed": true
+    },
+    {
+      "check": "02-ecobag.png — 1080×1080",
+      "passed": true
+    },
+    {
+      "check": "03-tag-clara.png — arte inteira visível no Kittl",
+      "passed": true
+    },
+    {
+      "check": "03-tag-clara.png — salvo na biblioteca Kittl",
+      "passed": true
+    },
+    {
+      "check": "03-tag-clara.png — 1080×1080",
+      "passed": true
+    },
+    {
+      "check": "04-cartao.png — arte inteira visível no Kittl",
+      "passed": true
+    },
+    {
+      "check": "04-cartao.png — salvo na biblioteca Kittl",
+      "passed": true
+    },
+    {
+      "check": "04-cartao.png — 1080×1080",
+      "passed": true
+    },
+    {
+      "check": "Fraunces-LICENCA.txt — licença original incluída",
+      "passed": true
+    },
+    {
+      "check": "Manrope-LICENCA.txt — licença original incluída",
+      "passed": true
+    },
+    {
+      "check": "Pesquisa de terceiros fora da entrega",
+      "passed": true
+    }
+  ]
+}

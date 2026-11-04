@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"teams\": [\n    {\n      \"id\": \"cmw288xol0ac50j9dgjzxfj42\",\n      \"name\": \"Matheus' Team\"\n    }\n  ],\n  \"defaultTeamId\": \"cmw288xol0ac50j9dgjzxfj42\"\n}"
+    }
+  ]
+}

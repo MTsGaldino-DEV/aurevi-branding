@@ -1,0 +1,58 @@
+{
+  "sacola": {
+    "uploadId": "cmw28puz40c9b0ka1bc0z4azl",
+    "objectName": "users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28puz40c9b0ka1bc0z4azl.png",
+    "name": "Aurevi - arte sacola",
+    "mimeType": "image/png",
+    "folderId": "cmw29rtts0kry0j7qrl6bphcm",
+    "message": "Image is now a permanent library upload. Reuse uploadId for compatible raw-generation or workflow image inputs."
+  },
+  "logo": {
+    "uploadId": "cmw28rjj20ckb0jac3d7e6p2d",
+    "objectName": "users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28rjj20ckb0jac3d7e6p2d.png",
+    "name": "Aurevi - arte logo",
+    "mimeType": "image/png",
+    "folderId": "cmw29rtts0kry0j7qrl6bphcm",
+    "message": "Image is now a permanent library upload. Reuse uploadId for compatible raw-generation or workflow image inputs."
+  },
+  "cartao": {
+    "uploadId": "cmw28rkyd0chi0j9d0sszgapz",
+    "objectName": "users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28rkyd0chi0j9d0sszgapz.png",
+    "name": "Aurevi - arte cartao",
+    "mimeType": "image/png",
+    "folderId": "cmw29rtts0kry0j7qrl6bphcm",
+    "message": "Image is now a permanent library upload. Reuse uploadId for compatible raw-generation or workflow image inputs."
+  },
+  "01-sacola": {
+    "uploadId": "cmw28rqka0ckx0jacen1jaz8z",
+    "objectName": "users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28rqka0ckx0jacen1jaz8z.png",
+    "name": "Aurevi - mockup 01-sacola",
+    "mimeType": "image/png",
+    "folderId": "cmw29rtts0kry0j7qrl6bphcm",
+    "message": "Image is now a permanent library upload. Reuse uploadId for compatible raw-generation or workflow image inputs."
+  },
+  "02-ecobag": {
+    "uploadId": "cmw28ru9h0cge0ka1gahbel9l",
+    "objectName": "users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28ru9h0cge0ka1gahbel9l.png",
+    "name": "Aurevi - mockup 02-ecobag",
+    "mimeType": "image/png",
+    "folderId": "cmw29rtts0kry0j7qrl6bphcm",
+    "message": "Image is now a permanent library upload. Reuse uploadId for compatible raw-generation or workflow image inputs."
+  },
+  "03-tag-clara": {
+    "uploadId": "cmw28x5to0d3n0j9ddapxf4fz",
+    "objectName": "users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw28x5to0d3n0j9ddapxf4fz.png",
+    "name": "Aurevi - mockup 03-tag-clara",
+    "mimeType": "image/png",
+    "folderId": "cmw29rtts0kry0j7qrl6bphcm",
+    "message": "Image is now a permanent library upload. Reuse uploadId for compatible raw-generation or workflow image inputs."
+  },
+  "04-cartao": {
+    "uploadId": "cmw29t8xe0ggl0jb46i0dam93",
+    "objectName": "users/cmw288xol0ac50j9dgjzxfj42/uploads/cmw29t8xe0ggl0jb46i0dam93.png",
+    "name": "Aurevi - mockup 04-cartao",
+    "mimeType": "image/png",
+    "folderId": "cmw29rtts0kry0j7qrl6bphcm",
+    "message": "Image is now a permanent library upload. Reuse uploadId for compatible raw-generation or workflow image inputs."
+  }
+}
