@@ -1,0 +1,13 @@
+Edição pelo recurso integrado image_gen. Modelo da foto de conjunto marrom diante da porta de madeira; preservar pose, aparência, luz e quarto. A fotografia de campanha anterior fornece apenas o vestido.
+
+Edit the latest photograph faithfully, changing ONLY the outfit.
+
+REFERENCE ROLES: The woman in the brown camisole and brown shorts, standing in front of a wooden bedroom door, is the actual EDIT TARGET. The preceding AUREVI boutique photograph is ONLY a reference for the long dark-red dress, not for the person or setting.
+
+Replace the brown top and shorts with the exact opaque, very dark warm blood-red long dress from the boutique reference: sleeveless scalloped high neckline, asymmetric side-waist cutout, fabric gathered and draped at one hip, floor-length skirt and single side slit. Deep warm red close to #350403, with natural dark red-brown fabric highlights. Fit it naturally to her original body and pose. Keep her original tan flat sandals and the same positions of her feet.
+
+Preserve the ACTUAL PERSON in the bedroom photograph as faithfully as possible: exactly the same recognizable face, facial proportions, eyebrows, eyes, nose, lips, relaxed expression, gaze, head angle and long dark wavy side-parted hair over the same shoulder. Preserve her skin tone, skin texture and natural variations, body proportions and the precise original pose. One hand on her hip on the image right, the other arm resting down on image left, same fingers, torso angle, hip angle, knees and staggered/crossed leg positions. Do not alter her face to resemble the earlier campaign person. No beauty filter, body slimming, leg lengthening, artificial smile, airbrushing or plastic skin.
+
+Preserve the ORIGINAL ROOM and photograph: wooden door and trim, white walls, electrical switch and outlet, bed and rug visible on the left, tiled floor and right doorway. Same image framing, camera perspective, natural indoor light, white balance, shadows and ordinary real smartphone-photo detail. Do not insert the boutique studio, grey wall, counter, logo or any text. Keep every background element unchanged wherever the new dress does not naturally occlude it.
+
+Match realistic fabric seams, weight, tension, draping and contact shadows to her existing hand on her hip and legs. Preserve simple jewelry wherever uncovered by the dress. A believable candid clothing try-on, fully clothed and non-suggestive. Prioritize fidelity to the actual target photograph over polished campaign styling. One vertical full-figure image, same composition as the bedroom reference.
