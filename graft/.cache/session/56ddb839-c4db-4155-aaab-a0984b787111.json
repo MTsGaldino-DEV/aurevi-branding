@@ -1,9 +1,12 @@
 {
-  "lastQuery": "suba todo esse projeto no github, git commit  e push origin\n\nhttps://github.com/MTsGaldino-DEV/aurevi-branding.git",
+  "lastQuery": "<ide_opened_file>The user opened the file c:\\APPWEB\\AUREVI\\DIRECAO-BORDO\\Apresentacao-Aurevi-Bordo.pdf in the IDE. This may or may not be related to the current task.</ide_opened_file>\naquui consta que tem algumas pastas verde, quer dizer que elas não foram para o github? suba tudo agora, não tem nenhum dado delicado.",
   "perAgentQuery": {},
   "graftReads": 0,
   "sourceReads": 0,
   "savedTokens": 0,
   "injectedPointers": [],
-  "nudges": 0
+  "nudges": 0,
+  "inputCostMicros": 756289,
+  "inputTokensBilled": 1020595,
+  "lastBillingUuid": "31b43daa-7233-48e8-b499-4729dd7d6834"
 }

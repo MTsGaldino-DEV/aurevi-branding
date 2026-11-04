@@ -1,0 +1,18 @@
+Recurso integrado image_gen. Modelo da referência do usuário no cenário de campanha, com AV Entrelaço.
+
+Create one photorealistic vertical 2:3 women's fashion catalogue photograph by precisely editing the supplied boutique campaign reference.
+
+THREE INPUT ROLES:
+1. The portrait in front of the light wood door is the PERSON / IDENTITY reference. Use this same woman: preserve her facial features, natural smile, skin tone, proportions and long straight black hair. The white one-shoulder top and denim shorts are NOT the target outfit.
+2. The full-length AUREVI photograph with the dark-red dress and grey counter is the EDIT TARGET for GARMENT, CAMERA and ENVIRONMENT. Keep this dress design and the same boutique studio setting and composition.
+3. The gold AV / AUREVI artwork on transparent background is the NEW BRAND SIGN to install in place of the OLD logo from image2.
+
+SUBJECT: Replace the model in image2 with the person from image1. Maintain her recognizable face, warm natural complexion, black hair worn long and loose, and natural friendly smile. Preserve the subtle natural sun-tan lines visible in her reference wherever those areas remain uncovered by the target dress; keep these understated and physically consistent with the garment. Do not change the neckline or make new openings to reveal tan lines. Realistic skin texture and light, no exaggerated retouching.
+
+WARDROBE: The SAME opaque sleeveless long dress from image2, with the scalloped high neckline, exact asymmetric side waist cutout, gathered/draped hip and long side-slit skirt, natural fabric weight and floor-length hem. Color a very dark warm blood-red, close to #350403, with soft dark-red highlights; no magenta and no bright red. Same tasteful gold sandals and restrained jewelry. No white top, denim, third-party logos or foreign brand symbols. Professional fashion-catalogue styling.
+
+ENVIRONMENT: Preserve the grey microcement wall, pale grey fluted reception counter with thin gold trim BEHIND the model, floor and soft studio lighting of image2. Model remains fully in front of the counter. Whole dress, hair, head and both shoes comfortably inside the frame. Keep clear focus on the person and fabric; mild realistic background defocus.
+
+NEW SIGN: Remove the old monogram and old lettering from the background. Install the EXACT new supplied AV monogram: two separated long diagonals, a pointed top, and the fine sweeping calligraphic crossbar rising into a curl across the letters. Use the exact AUREVI lettering from image3 below it. Raised dimensional polished champagne-gold metal with bright platinum-like reflections, visible extrusion/beveled sidewalls and realistic short shadows on the wall. Place it high on the wall in the same top-right area as image2, recognizable but softly defocused. Correct exact text AUREVI. Do not revert to the previous simple curled AV.
+
+STYLE: One believable high-quality commercial photograph, 85mm-like perspective, natural anatomy and hands, professional non-suggestive catalogue pose. No collage, no text overlay, no additional people. Identity from image1, dress and backdrop from image2, brand artwork from image3.

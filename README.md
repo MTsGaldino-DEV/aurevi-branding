@@ -24,4 +24,4 @@ Logos em SVG preservam os caminhos vetoriais; PNGs de marca têm fundo transpare
 
 Os scripts usam Python, bibliotecas locais em `.tools/python` e Playwright com Chrome. Alguns caminhos de exportação refletem a máquina de produção Windows e precisam ser ajustados em outro ambiente. Simulações digitais de metal não substituem prova de acabamento físico.
 
-Os arquivos do projeto e versões anteriores estão preservados. Caches Python, logs de conexão e quatro registros locais com URLs temporárias de upload ficam fora do Git; não fazem parte dos entregáveis.
+Os arquivos do projeto e versões anteriores estão preservados. Apenas os caches Python (`__pycache__`) ficam fora do Git; logs de conexão, registros de upload e as extensões compiladas `.pyd` das bibliotecas locais estão versionados.

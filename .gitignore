@@ -1,13 +1,6 @@
-# Generated Python caches
+# Generated Python caches (compiled .pyd extensions in .tools/python are versioned)
 __pycache__/
-*.py[cod]
-
-# Local connector logs and temporary signed upload URLs
-/.tools/kittl/server.log
-/.tools/kittl/upload-inicial.json
-/.tools/kittl/bordo-upload.json
-/.tools/kittl/dark-upload.json
-/.tools/kittl/revision02-upload.json
+*.py[co]
 
 # Local credentials, if added later
 .env
